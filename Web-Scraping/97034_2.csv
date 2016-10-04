@@ -1,0 +1,461 @@
+beds,$sqft,location,address,price,baths,sqft,days
+4,$169,Lake Oswego,1551 SW Woodland TerListed by: Redfin,"$459,000",2,"2,712",794 days
+4,$215,Lake Oswego,1641 Ash St,"$595,000",3,"2,764",19 days
+3,$193,Lake Oswego,1731 SW Woodland Ter,"$525,000",2.5,"2,714",19 days
+4,$217,PALISADES HEIGHTS,2760 Overlook Dr,"$532,000",2.5,"2,441",36 days
+5,$149,Lake Oswego,1471 SW Woodland Ter,"$800,000",4.5,"5,362",59 days
+3,$239,Lake Oswego,2280 Fernwood Cir,"$510,000",2,"2,129",67 days
+3,$184,Lake Oswego,1400 Parrish St #1,"$347,500",2.5,"1,880",74 days
+3,$197,Lake Oswego,1402 Parrish St,"$367,000",2.5,"1,862",78 days
+3,$188,HALLINAN,1680 Pine St,"$465,000",3,"2,472",124 days
+3,$233,HALLINAN,1430 SW Larch St,"$532,000",3,"2,279",141 days
+4,$244,Ridge Lake Park,17927 Ridge Lake Dr,"$621,500",2.5,"2,544",157 days
+2,$347,South Oswego,1248 Oak St,"$312,500",1,900,183 days
+4,$203,Lake Oswego,1330 Pine St,"$770,000",3.5,"3,775",200 days
+4,$237,Lake Oswego,2189 Fernwood Cir,"$695,000",3,"2,921",289 days
+4,$246,Westridge,2464 Palisades Crest Dr,"$960,000",2.5,"3,897",327 days
+2,$324,Lake Oswego,1790 SW Conifer Ter,"$325,000",1,"1,003",381 days
+5,$186,Lake View Villas,2251 Summit Dr,"$500,000",3,"2,676",386 days
+4,$164,Lake Oswego,2737 Tolkien Ln,"$722,337",3.5,"4,397",400 days
+4,$205,Tolkien Heights,2699 Tolkien Ln,"$640,000",2.5,"3,115",411 days
+4,$243,Lake Oswego,15761 Springbrook Ct,"$733,000",3,"3,007",416 days
+4,$202,Lake Oswego,1670 Pine St,"$665,000",3.5,"3,286",471 days
+4,$145,Lake Oswego,1785 Palisades Terrace Dr,"$735,275",4.5,"5,052",484 days
+4,$177,Lake Oswego,17749 Leafy Ln,"$585,000",3,"3,300",498 days
+3,$233,Iron Mountain,1136 Westward Ho Rd,"$780,000",2.5,"3,344",505 days
+4,$168,"Hallinan, South Shore",1327 SW Cedar St,"$395,000",2,"2,350",519 days
+4,$244,Lake Oswego,17171 Lowenberg Ter,"$735,000",2.5,"3,002",526 days
+4,$263,Palisades Lake Estates,1766 Palisades Terrace Dr,"$735,000",2.5,"2,792",538 days
+4,$153,Lake Oswego,1405 SW Cedar St,"$395,000",2,"2,570",598 days
+4,$159,Palisades,16998 Greentree Ave,"$381,000",2.5,"2,392",610 days
+4,$274,Lake Oswego,1744 Fern Pl,"$580,000",2.5,"2,110",610 days
+3,$214,Palisades Park Neighborhood,2051 Greentree Rd,"$399,360",2.5,"1,864",613 days
+3,$362,Lake Oswego,841 Northshore Rd,"$865,000",3,"2,388",617 days
+3,$255,Ferncrest/Palisades,1812 Fernwood Dr,"$357,500",1.5,"1,401",635 days
+4,$233,Lake Oswego,16901 Lakeridge Dr,"$486,500",3,"2,080",680 days
+4,$162,Palisades Lake Estates,1936 Palisades Lake Ct,"$640,000",3,"3,939",680 days
+5,$151,Hallanan,1638 Pine St,"$479,000",2,"3,160",680 days
+4,$205,Lake Oswego,1611 Highland DrSold by: Redfin,"$549,000",2.5,"2,675",719 days
+3,$219,Palisades next to Sunnyhill,1440 Cherry Crest Ave,"$425,000",2.5,"1,938",722 days
+4,$172,Westridge,18322 Anduin TerSold by: Redfin,"$650,000",2.5,"3,771",722 days
+3,$156,Lake Oswego,1210 Pine St,"$270,000",1.5,"1,720",729 days
+4,$176,Westridge,18343 Anduin Ter,"$530,000",2.5,"3,000",737 days
+4,$220,Lake Oswego,1858 S Shore Blvd,"$455,000",2,"2,068",765 days
+4,$173,Palisades,2660 Lookout Ct,"$445,000",3,"2,565",766 days
+4,$168,Greentree,17151 Campus Way,"$407,000",2,"2,418",792 days
+5,$171,Palisades,1831 Kilkenny Dr,"$445,000",3,"2,597",801 days
+4,$192,PALISADES,2865 Park Rd,"$582,000",2.5,"3,031",815 days
+3,$195,Lake Oswego,1571 SW Woodland Ter,"$470,000",2,"2,400",827 days
+5,$155,Lake Oswego,1931 Park Forest Ct,"$600,000",4.5,"3,866",871 days
+3,$150,Lake Oswego,1250 Hemlock St,"$398,450",2,"2,656",1005 days
+3,$157,Palisades,1645 Cloverleaf Rd,"$392,000",3,"2,494",1012 days
+3,$260,Palisades,2331 Dellwood Dr,"$715,000",3,"2,746",5 days
+4,$273,Lake Oswego,1190 W Oak Ter,"$420,000",2,"1,534",8 days
+3,$448,MAIN LAKE,2707 S Shore Blvd,"$1,400,000",3.5,"3,122",8 days
+3,$256,RIDGE POINTE,17981 Meadowlark Ln,"$835,000",2.5,"3,250",9 days
+4,$423,MAIN LAKE,1455 Lake Front Rd,"$2,600,000",6,"6,145",11 days
+4,$188,SUMMIT,2023 Ridgewood Rd,"$820,000",2.5,"4,340",11 days
+3,$253,Lake Oswego,1160 W Oak Ter,"$420,000",2,"1,654",12 days
+4,$178,PALISADES PARK,2255 Greentree Rd,"$412,500",2.5,"2,309",12 days
+3,$308,South Oswego,1412 SW Maple St,"$475,000",1.5,"1,540",15 days
+4,$211,Lake Oswego,386 Livingood Ln,"$519,000",3,"2,452",17 days
+4,$279,ATHERTON HEIGHTS,18060 Meadowlark Ln,"$1,300,000",3.5,"4,659",22 days
+4,$277,VILLAGE ON THE LAKE,1692 Village Park Ln,"$995,000",3.5,"3,581",29 days
+4,$174,Lake Oswego,2302 Overlook Dr,"$546,700",2.5,"3,125",29 days
+3,$337,PALISADES,1469 Greentree Cir,"$610,000",2,"1,808",30 days
+4,$650,MAIN LAKE OSWEGO,1617 Lake Front Rd,"$3,000,000",4.5,"4,610",32 days
+3,$270,ATHERTON HEIGHTS,2125 Ridge Pointe Dr,"$945,000",3.5,"3,489",36 days
+5,$203,Quil Ridge,1430 SW Woodland Ter,"$592,000",3,"2,904",37 days
+4,$201,PALISADES,17821 Hillside Way,"$700,000",3.5,"3,480",37 days
+5,$865,Lake Oswego,Undisclosed,"$3,200,000",2.5,"3,698",43 days
+3,$302,Lake Villas,1400 Horseshoe Curv,"$679,000",2.5,"2,248",44 days
+,,Lake Oswego,982 McVey Ave,"$55,000",,,45 days
+3,$226,PALISADES PARK,2350 S Shore Blvd,"$493,000",2.5,"2,174",50 days
+4,$497,MAIN LAKE OSWEGO,1890 Twin Points Rd,"$2,050,000",3.5,"4,121",51 days
+3,$235,TOLKIEN HEIGHTS,18673 Westview Dr,"$790,000",3,"3,355",57 days
+4,$297,Palisades Terrace,950 Schukart Ln,"$1,050,000",2.5,"3,530",57 days
+4,$152,PALISADES LAKE ESTATES,1821 Oak St,"$840,000",3.5,"5,510",59 days
+5,$142,Lake Oswego,1669 Oak St,"$378,000",2.5,"2,649",60 days
+4,$323,Lake Oswego,1644 Lake Front Rd,"$1,249,000",4,"3,866",61 days
+4,$249,SOUTH SHORE ESTATES,1224 Tyndall Ct,"$1,039,000",3.5,"4,157",64 days
+3,$472,Lake Oswego,1850 Oak Knoll Ct,"$1,663,000",3.5,"3,521",71 days
+4,$304,Lake View Villas,2110 Summit Dr,"$770,000",2,"2,525",74 days
+4,$202,Lake Oswego,16633 Woodsman Ct,"$835,000",4,"4,131",79 days
+3,$252,RIDGE POINTE,17980 Meadowlark Ln,"$820,000",2.5,"3,252",82 days
+4,$259,Westridge,2543 Palisades Crest Dr,"$1,075,000",3,"4,141",85 days
+4,$314,Rolling Hill Farm Estates,17509 Ridgeview Ln,"$1,200,000",3.5,"3,810",86 days
+3,$185,Lake Oswego,1820 S Shore Blvd,"$440,000",2.5,"2,373",89 days
+3,$320,PALISADES,2500 Park Rd,"$579,900",3,"1,811",92 days
+4,$271,Lake Oswego,17540 Ridgeview Ln,"$1,178,000",3.5,"4,345",99 days
+5,$451,MAIN LAKE,1870 Twin Points Rd,"$2,100,000",4,"4,649",99 days
+4,$209,Greentree Heights,568 Weidman Ct,"$775,000",3.5,"3,702",99 days
+2,$374,Lake Oswego,826 Cornell St,"$443,660",1,"1,184",101 days
+4,$299,Lowenberg Terrace,17193 Lowenberg Ter,"$890,000",2.5,"2,973",106 days
+3,$291,Lake Oswego,2500 Greentree Rd,"$438,500",2,"1,502",106 days
+3,$243,SOUTH SHORE ESTATES,16652 Woodsman Ct,"$779,000",2.5,"3,196",106 days
+3,$250,Lake Oswego,17126 Hofer Ct,"$660,000",3,"2,637",106 days
+3,$239,PALISADES HEIGHTS,1531 SW Woodland Ter,"$476,000",2.5,"1,986",106 days
+3,$300,Lake Oswego,1304 SW Laurel St,"$463,300",2,"1,540",108 days
+3,$476,Main Lake Oswego,2809 Arrowhead Ct,"$1,250,000",3,"2,624",108 days
+4,$178,Palisades Crest,18217 SW Delenka Ln,"$742,000",3,"4,166",113 days
+4,$197,PALISADES HEIGHTS,17183 Carlson Ct,"$665,000",3.5,"3,366",116 days
+4,$238,ROLLING HILL FARM ESTATES,17442 Ridgeview Ln,"$1,200,000",4,"5,036",117 days
+3,$214,Lake Oswego,2757 Glen Haven Rd,"$519,000",2,"2,420",120 days
+4,$272,TOLKIEN HEIGHTS,18711 Westview Dr,"$980,000",3.5,"3,591",120 days
+5,$282,Lake Oswego,2043 Ridgewood Rd,"$852,500",3,"3,016",124 days
+4,$307,Bergis Farm,17337 Bergis Farm Dr,"$1,480,000",4.5,"4,810",127 days
+3,$316,SOUTH OSWEGO,1317 SW Laurel St,"$715,000",2.5,"2,259",129 days
+3,$255,Lake Oswego,910 Terrace Dr,"$1,007,000",2.5,"3,934",129 days
+4,$291,PALISADES PARK,2220 Fernwood Cir,"$548,500",2.5,"1,882",131 days
+5,$466,Lake Oswego Lake,1901 Palisades Terrace Dr,"$3,400,000",4.5,"7,284",135 days
+3,$173,Lake Oswego,1755 Kilkenny Rd,"$303,000",1,"1,742",141 days
+4,$163,Lake Oswego,1495 SW Woodland Ter,"$630,000",2.5,"3,862",152 days
+4,$173,Lake Oswego,1775 Kilkenny RdSold by: Redfin,"$443,000",2,"2,560",155 days
+4,$277,Lake Oswego,2371 Palisades Crest Dr,"$1,185,000",3,"4,270",156 days
+5,$199,Palisades Terrace,1992 Palisades Terrace Dr,"$825,000",3.5,"4,140",156 days
+4,$187,Palisades Height,17765 Tree Top Ln,"$570,000",3,"3,046",166 days
+3,$434,Lake Oswego,15825 Oswego Shore Ct,"$1,875,000",3.5,"4,317",166 days
+,,Lake Oswego,17808 Hillside Way,"$210,000",,,169 days
+4,$226,PALISADES,16835 Fernwood Dr,"$440,000",2,"1,942",170 days
+4,$204,Lake Oswego,524 Weidman Ct,"$705,000",2.5,"3,450",178 days
+4,$267,Palisades Terrace,990 Terrace Dr,"$1,000,000",2.5,"3,740",186 days
+4,$226,Oswego Heights,1651 SW Larch St,"$505,000",3,"2,225",197 days
+3,$252,PALISADES HEIGHTS,1475 Cherry Crest Dr,"$439,000",2,"1,739",197 days
+4,$137,Lake Oswego,16717 Sylvan Ct,"$680,000",3.5,"4,949",204 days
+5,$227,Lake Oswego,17154 Lowenberg Ter,"$800,000",3.5,"3,514",204 days
+4,$171,Lake Oswego,1371 Koawood Dr,"$606,000",3,"3,534",218 days
+4,$340,MAIN LAKE OSWEGO,15845 Oswego Shore Ct,"$1,875,000",5,"5,500",226 days
+4,$225,Lake Oswego,18383 Anduin Ter,"$754,700",2.5,"3,351",227 days
+4,$185,SUNNY HILL,619 Clara Ct,"$549,000",2.5,"2,958",229 days
+2,$302,LAKE VIEW VILLAS,15821 Springbrook Ct,"$668,779",2,"2,208",234 days
+3,$413,Lake Oswego,2091 Summit Dr,"$1,100,000",2.5,"2,660",239 days
+4,$201,VILLAGE ON THE LAKE,1651 Village Park Ln,"$862,000",3.5,"4,273",242 days
+4,$292,Rolling Hill Farm Estates,17353 Ridgeview Ct,"$1,179,000",3.5,"4,032",248 days
+4,$197,PALISADES TERRACE,1600 Oak St,"$865,000",4,"4,385",250 days
+4,$205,Sunny Hill,432 Livingood Ln,"$519,000",3,"2,527",254 days
+3,$257,Lake Oswego,1228 SW Cedar St,"$335,000",2,"1,302",262 days
+4,$287,Lake Oswego,1032 Westward Ho Rd,"$1,100,000",3.5,"3,824",262 days
+4,$188,PALISADES HEIGHTS,2395 Palisades Crest Dr,"$640,000",3,"3,397",267 days
+3,$209,Lake Oswego,17280 Westview Dr,"$487,000",3,"2,324",270 days
+4,$170,PALISADES HEIGHTS,2337 Hillside Ln,"$839,000",3.5,"4,932",274 days
+5,$165,Lake Oswego,18360 SW Delenka Ln,"$799,000",3.5,"4,828",282 days
+5,$173,Lake Oswego,1511 SW Woodland Ter,"$595,000",2.5,"3,439",292 days
+3,$295,Lakeview Summit,1943 Indian Trl,"$875,000",2.5,"2,960",292 days
+,,Lake Oswego,1940 Highland Dr,"$700,000",,,297 days
+5,$565,Waterfront Lake Oswego,1653 Lake Front Rd,"$3,550,000",5.5,"6,274",302 days
+3,$307,Palisades Terrace,865 Palisades Terrace Dr,"$572,500",3,"1,860",316 days
+,,PALISADES HEIGHTS,17333 Canyon Ct,"$330,000",,,317 days
+3,$257,South,1648 Ash St,"$483,500",2,"1,877",317 days
+4,$392,The Highlands in Lake Oswego,1823 Highland Dr,"$1,895,000",4.5,"4,828",318 days
+4,$587,The Highlands,1858 Highland Dr,"$2,350,000",4.5,"4,000",323 days
+4,$220,Palisades,1545 Cloverleaf Rd,"$600,000",3.5,"2,723",334 days
+3,$523,Lakewood Bay,778 Cabana Ln,"$1,750,000",3,"3,343",340 days
+4,$187,Lake Oswego,17721 Overlook Cir,"$594,000",2.5,"3,172",351 days
+3,$267,Southshore,16750 SW Phantom Bluff Ct,"$607,250",3,"2,267",351 days
+4,$208,Palisades,1944 Palisades Terrace Dr,"$887,930",2.5,"4,256",351 days
+3,$198,South Lake,1268 Spruce St,"$399,000",2,"2,009",355 days
+4,$244,Lake Oswego,1463 Greentree Cir,"$499,900",2.5,"2,048",358 days
+3,$159,Hallinan,1528 SW Cedar St,"$440,000",2,"2,760",359 days
+4,$200,Sunny Hill,732 Clara Ct,"$587,500",3.5,"2,935",359 days
+4,$222,Palisades Park,18137 SW Delenka Ln,"$792,000",2.5,"3,555",361 days
+3,$245,Stafford Oaks,17340 Oak Meadows Ln,"$913,000",3.5,"3,718",365 days
+4,$307,Palisades / Oswego Heights,1775 Palisades Terrace Dr,"$650,000",2.5,"2,112",366 days
+4,$206,Palisades,2221 Overlook Dr,"$750,000",2.5,"3,628",366 days
+,,Lake Oswego,17336 Canyon Ct #4800,"$275,000",,,372 days
+3,$170,Palisades Heights,2891 Dellwood Dr,"$500,000",3.5,"2,928",372 days
+4,$256,ATHERTON HEIGHTS,1956 Cheryl Ct,"$1,368,245",5,"5,334",376 days
+4,$202,Lake Oswego,2024 Palisades Terrace Dr,"$975,000",3.5,"4,819",376 days
+4,$240,Lake Oswego,16873 Cherry Crest Dr,"$575,000",3,"2,394",379 days
+4,$252,Palisades,1458 Greentree Cir,"$545,000",2.5,"2,156",379 days
+4,$180,Lake Oswego,1931 Kilkenny Rd,"$435,000",2.5,"2,411",379 days
+3,$252,Village on the Lake,15451 Village Dr,"$1,050,000",3.5,"4,154",379 days
+5,$260,Summit/Village on the Lake,1947 Summit Dr,"$1,450,000",5.5,"5,570",380 days
+4,$167,Palisades,2550 Greentree Rd,"$478,000",3,"2,852",382 days
+3,$198,South Shore,1600 Ash St,"$405,000",2,"2,037",382 days
+,,Lake Oswego,1977 Highland Dr,"$600,000",,,383 days
+4,$176,Lake Oswego,1428 Greentree Cir,"$395,000",2.5,"2,236",386 days
+4,$202,Sunny Hill,674 Livingood Ln,"$548,900",2.5,"2,714",386 days
+1,$138,Lake Oswego,1316 SW Cedar St,"$220,000",1,"1,594",387 days
+3,$189,Palisades,1500 SW Woodland Ter,"$472,500",2.5,"2,499",387 days
+4,$323,Village on the Lake,1578 View Lake Ct,"$1,449,000",4.5,"4,476",388 days
+3,$282,Palisades,2250 Park Rd,"$585,000",2,"2,072",388 days
+4,$165,Lake Oswego,1448 SW Cedar St,"$420,000",3,"2,544",389 days
+4,$430,Oswego Heights Farm,19300 Stafford Rd,"$1,900,000",2.5,"4,415",390 days
+4,$213,Palisades,1982 Park Forest Ave,"$590,000",3,"2,765",393 days
+4,$240,Palisades Park,17244 Fernwood Dr,"$630,000",2.5,"2,617",393 days
+4,$339,Oswego Lake Villas,1539 Lake Front Rd,"$1,150,000",3.5,"3,385",393 days
+4,$206,Palisades Heights,16915 Crestview Dr,"$450,000",2.5,"2,180",395 days
+3,$209,Lake Oswego,17000 Canyon Dr,"$445,000",2,"2,129",395 days
+3,$388,Main Lake,1411 Lake Front Rd,"$1,300,000",4,"3,349",396 days
+4,$163,Lake Oswego,1426 Greentree Cir,"$525,000",3,"3,216",400 days
+3,$307,Lakeview Summit,2084 Ridgewood Rd,"$650,000",2.5,"2,117",400 days
+3,$253,Lake Oswego,1681 SW Woodland Ter,"$585,000",2.5,"2,304",400 days
+3,$262,Twin Pointe Estates,1854 Oak Knoll Ct,"$925,000",3,"3,530",401 days
+4,$229,Lake Oswego,2250 S Shore Blvd,"$1,005,000",4.5,"4,373",404 days
+4,$221,Palisades,16920 Greentree Ave,"$627,500",2.5,"2,830",407 days
+3,$216,Palisades,17820 Westview Dr,"$520,000",2.5,"2,407",408 days
+4,$232,Lake Oswego,1917 Palisades Lake Ct,"$894,000",2.5,"3,852",409 days
+3,$256,Lake Oswego,17902 Meadowlark Ln,"$500,000",2.5,"1,950",410 days
+4,$212,Lake Oswego,1427 Aspen St,"$488,150",2,"2,298",414 days
+4,$263,Palisades Park,2609 Glen Haven Rd,"$1,001,250",4,"3,793",415 days
+4,$212,Palisaides Hts. 02,17833 Hillside Way,"$567,000",3,"2,668",418 days
+4,$253,Lake Oswego,1267 SW Maple St,"$859,000",2.5,"3,388",421 days
+4,$240,Lake Oswego,18120 SW Delenka Ln,"$759,900",2.5,"3,157",424 days
+4,$131,South Oswego Pt,1422 Ash St,"$340,000",3,"2,583",428 days
+3,$233,Atherton Heights,1850 Atherton Dr,"$1,125,000",2.5,"4,825",429 days
+4,$207,Lake Oswego,15195 Lily Bay Ct,"$850,000",2.5,"4,099",432 days
+3,$413,Lake Oswego,2410 Summit Ct,"$1,550,000",3.5,"3,750",432 days
+4,$502,Main Lake,1495 W Oak Ter,"$2,000,000",4,"3,983",432 days
+4,$248,Lake Oswego,16953 Greentree Ave,"$482,000",3,"1,941",435 days
+4,$261,Village on the Lake,1901 Summit Dr,"$899,000",3.5,"3,444",442 days
+4,$194,Lake Oswego,17650 Westview Dr,"$555,000",3,"2,849",444 days
+3,$264,Palisades Terrace,720 Kenola Ct,"$985,000",3.5,"3,727",445 days
+5,$372,Main Oswego Lake,2493 S Shore Blvd,"$2,650,000",5.5,"7,112",450 days
+4,$151,"Lake Oswego, Palisades",2550 S Shore Blvd,"$565,000",3.5,"3,721",452 days
+4,$168,Palisades Heights,1901 SW Woodland Ter,"$495,000",3,"2,944",457 days
+3,$205,Uplands,2671 Glen Eagles Rd,"$825,000",3,"4,019",457 days
+3,$294,Lake Oswego,1878 Mapleleaf Rd,"$397,000",1.5,"1,347",459 days
+3,$189,Lake Oswego,1981 Summit Dr,"$490,000",2.5,"2,579",464 days
+4,$162,Lake Oswego,1585 Patton RdSold by: Redfin,"$515,000",3,"3,162",471 days
+4,$195,Lake Oswego,17380 Canyon Dr,"$493,000",2.5,"2,526",474 days
+,,Lake Oswego,1976 Highland Dr,"$625,000",,,478 days
+5,$366,The Highlands,1867 Highland Dr,"$1,900,000",4.5,"5,185",478 days
+5,$269,Bella Terra,18253 Siena Dr,"$1,160,000",4,"4,310",480 days
+4,$217,Lake Oswego,1990 Greentree Rd,"$457,200",3,"2,100",481 days
+5,$174,Lake Oswego,18218 Meadowlark Ln,"$1,450,000",6.5,"8,320",481 days
+4,$291,Palisades,1725 Fernwood Dr,"$460,000",2.5,"1,580",484 days
+3,$226,Lake Oswego,900 Cornell StSold by: Redfin,"$295,000",1.5,"1,300",485 days
+4,$155,Southshore,1015 S Shore Blvd,"$603,500",3,"3,882",485 days
+3,$234,Lake Oswego,1743 Aspen Ct,"$315,000",2,"1,341",501 days
+4,$286,Bella Terra,18224 Bella Terra Dr,"$1,160,000",3.5,"4,050",506 days
+4,$673,SUNNY SIDE OF LAKE!,2490 Summit Dr,"$2,020,000",2,"3,000",509 days
+4,$178,Palisades Park,2234 Fernwood Cir,"$530,000",3,"2,975",520 days
+3,$221,Lake Oswego,1868 Kilkenny Dr,"$510,000",2.5,"2,300",523 days
+5,$172,Ridge Pointe,2065 Ridge Pointe Dr,"$825,000",4,"4,790",527 days
+3,$217,Lake Oswego,1460 Greentree Cir,"$390,000",2,"1,791",530 days
+3,$236,Lake Oswego,1401 Greentree Cir,"$425,395",2,"1,800",530 days
+4,$150,Lake Oswego,17251 Greentree Ave,"$410,000",2.5,"2,728",534 days
+4,$228,Lake Oswego,2762 Vale Ct,"$620,000",3,"2,709",541 days
+3,$293,Palisades,1560 Laburnum Way,"$520,000",2,"1,773",543 days
+4,$232,Quail Ridge,17190 Robb Pl,"$440,000",3,"1,896",547 days
+5,$207,Westridge/Palisades Crest,18177 SW Delenka Ln,"$787,500",3,"3,802",554 days
+3,$270,Lake View Villas,2751 Summit Dr,"$655,000",2,"2,418",555 days
+3,$258,Lake Oswego,1075 W Oak Ter,"$350,000",2,"1,356",555 days
+4,$292,Forest Hills,820 Fairway Rd,"$1,100,000",3.5,"3,758",568 days
+4,$142,Lake Oswego,17941 Meadowlark Ln,"$555,000",3.5,"3,905",570 days
+3,$250,Hallinan Elementary,1228 Oak St,"$402,000",2,"1,603",577 days
+3,$200,Lake Oswego,1453 Greentree Cir,"$353,200",2,"1,762",589 days
+4,$232,Lake Oswego,1968 Cheryl Ct,"$1,430,000",5.5,"6,153",589 days
+3,$334,South Shore,1437 Oak St,"$358,000",1,"1,070",596 days
+3,$266,South Oswego,1318 SW Laurel St,"$440,000",2.5,"1,649",599 days
+3,$277,Lake Oswego,1525 SW Maple St,"$780,000",3.5,"2,815",600 days
+6,$274,Main Lake,907 Terrace Dr,"$1,900,000",5.5,"6,919",617 days
+4,$192,Lake Oswego,1765 SW Conifer Ter,"$448,000",2.5,"2,330",620 days
+3,$178,Lake Oswego,377 Livingood Ln,"$429,000",2.5,"2,409",620 days
+4,$310,Palisades,16650 Fir Ln,"$1,200,000",3.5,"3,860",633 days
+3,$184,Lake Oswego,1530 SW Larch St,"$439,875",3,"2,384",634 days
+5,$145,LAKE OSWEGO- Atherton,2105 Ridge Pointe Dr,"$800,000",3.5,"5,513",638 days
+5,$178,Palisades Neighborhood,995 S Shore Blvd,"$459,000",2,"2,571",638 days
+4,$196,Lake Oswego,16942 Cherry Crest Dr,"$465,000",2.5,"2,363",640 days
+4,$185,Westridge,2400 Dellwood Dr,"$589,100",3,"3,180",645 days
+4,$228,Palisades Park,2584 Park Rd,"$525,000",2,"2,302",646 days
+4,$229,Palisades,2425 Glen Haven Rd,"$511,100",2.5,"2,231",653 days
+6,$187,Lake Oswego,16919 Lakeridge Dr,"$507,000",3,"2,710",660 days
+4,$352,Lakewood,1103 Lake Shore Rd,"$1,320,000",3,"3,747",661 days
+5,$231,Lake Oswego,2823 Glen Haven Rd,"$699,000",4,"3,015",663 days
+4,$176,PALISADES,17336 Canyon Ct,"$545,000",3,"3,081",668 days
+4,$217,Lake Oswego,2626 Park Rd,"$537,500",3,"2,475",668 days
+4,$195,Lake Oswego,18211 Moria Ct,"$496,500",2.5,"2,538",673 days
+3,$168,South Oswego,1310 Lee St,"$395,000",2,"2,344",673 days
+4,$156,Sunny Hill,811 Sunny Hill Dr,"$463,150",3,"2,964",674 days
+3,$188,Palisades Heights,2944 Dellwood Dr,"$405,000",3,"2,152",680 days
+2,$304,Lake Oswego,1531 SW Cedar St,"$253,000",1,832,682 days
+3,$198,Palisades Park,2802 Greentree Rd,"$507,000",2,"2,548",687 days
+5,$153,Lake Oswego,17450 Treetop Way,"$575,000",3,"3,752",687 days
+3,$207,Lake Oswego,17211 Robb Pl,"$433,500",2,"2,085",688 days
+5,$156,Palisades,1403 Greentree Cir,"$635,000",3.5,"4,047",689 days
+3,$266,Palisades,1795 Fernwood Dr,"$325,000",1,"1,220",690 days
+4,$217,Oswego Heights,1286 SW Larch St,"$525,000",2.5,"2,410",696 days
+4,$232,Greentree,17187 Carlson Ct,"$485,000",3,"2,082",697 days
+3,$413,South shore/ Palisades,1310 W Oak Ter,"$372,000",1,900,698 days
+4,$201,Lake Oswego,1640 Oak St,"$665,000",2.5,"3,301",698 days
+4,$267,Rolling Hills Farm,590 Oak Meadow Dr,"$1,249,000",4.5,"4,673",701 days
+4,$244,Lake Oswego,17288 Lowenberg Ter,"$847,000",3.5,"3,467",701 days
+4,$226,Palisades Lake Estates,1776 Oak St,"$910,000",4,"4,012",704 days
+4,$216,Palisades,16672 Fir Ln,"$905,000",4.5,"4,179",704 days
+4,$170,Lake Oswego,2858 Tolkien Ln,"$638,500",3.5,"3,742",708 days
+5,$211,PALISADES,17230 Fernwood Dr,"$855,000",4,"4,046",709 days
+6,$236,Atherton,1777 Atherton Dr,"$1,475,000",5.5,"6,237",710 days
+4,$161,Palisades,2610 Glen Haven Rd,"$515,000",3,"3,187",710 days
+4,$231,Sunny Hill,876 Sunny Hill Dr,"$500,000",2.5,"2,164",710 days
+4,$212,Village on the Lake,1603 Bay View Ln,"$775,000",2.5,"3,650",717 days
+3,$273,Palisades Terrace,1285 W Oak Ter,"$315,000",1.5,"1,150",731 days
+5,$214,SouthShore Estates,16809 Quail Ct,"$949,900",3.5,"4,425",738 days
+4,$212,Palisades Terrace,730 Kenola Ct,"$919,200",3.5,"4,319",739 days
+4,$223,Lake Oswego,16161 Parelius Cir,"$899,900",2.5,"4,018",743 days
+4,$199,Palisades,2604 Glen Haven Rd,"$339,500",2,"1,704",743 days
+3,$235,Sunny Hill,708 Sunny Hill Dr,"$465,000",2,"1,977",744 days
+4,$268,Rolling Hill Farm Estates,17521 Ridgeview Ln,"$1,290,000",3.5,"4,813",744 days
+4,$157,Palisades,17879 Sundown Ct,"$657,000",2.5,"4,172",745 days
+4,$195,Lake Oswego,16943 Greentree Ave,"$475,000",3.5,"2,433",745 days
+,,Palisades Heights,OVERLOOK Dr,"$145,000",,,746 days
+4,$173,Westridge,2388 Overlook Dr,"$480,000",3,"2,765",750 days
+4,$169,WESTRIDGE,2251 Hillside Dr,"$588,000",3,"3,467",750 days
+4,$302,Summit,2103 Ridgewood Rd,"$499,000",2,"1,650",753 days
+3,$239,Lake Oswego,15578 Village Dr,"$870,000",2.5,"3,630",757 days
+5,$188,Westridge,2560 Bree Ct,"$713,000",3.5,"3,788",759 days
+4,$291,Rolling Hill Farm Estates,17342 Ridgeview Ct,"$1,236,878",3.5,"4,240",765 days
+6,$174,Lake Oswego,17350 Canyon Dr,"$609,000",3.5,"3,488",775 days
+4,$177,Palisades,1731 Highland Dr,"$469,000",2,"2,636",778 days
+5,$337,Uplands,2675 Glen Eagles Rd,"$1,895,000",5,"5,609",778 days
+4,$196,Atherton Heights,1793 Atherton Dr,"$1,280,000",5,"6,500",792 days
+3,$317,Palisades,1830 Cloverleaf Rd,"$589,000",2.5,"1,857",793 days
+5,$146,South Shore Estates,16589 Woodsman Ct,"$749,000",3.5,"5,113",794 days
+3,$193,Lake Oswego,1428 Pine St,"$530,000",3.5,"2,736",795 days
+4,$196,Lake Oswego,2401 Glen Haven Rd,"$545,000",3,"2,779",795 days
+4,$224,Main Lake,16777 SW Phantom Bluff Ct,"$1,135,000",3,"5,045",796 days
+3,$207,Lake Oswego,16775 Westview Dr,"$380,000",2.5,"1,830",800 days
+4,$461,Palisades Terrace/Main Lake,705 Terrace Dr,"$1,700,000",3.5,"3,686",801 days
+5,$111,Palisades,2719 Greentree Rd,"$432,500",3.5,"3,886",802 days
+4,$208,Stafford Oaks,17532 Oak Meadows Ln,"$635,000",3,"3,046",806 days
+5,$163,PALISADES HEIGHTS,2766 Greentree Rd,"$450,000",2,"2,753",809 days
+5,$164,Lake Oswego,2445 Park Rd,"$530,000",3,"3,228",814 days
+4,$304,Main Lake,1745 S Shore Blvd,"$1,690,000",4.5,"5,545",823 days
+4,$184,Lake Oswego,2390 Palisades Crest Dr,"$892,000",4,"4,823",828 days
+4,$134,Lake Oswego,2440 Overlook Dr,"$519,500",3,"3,876",831 days
+3,$189,Lake Oswego,2697 Lookout Ct,"$420,000",2,"2,219",836 days
+5,$290,Main Lake,2605 S Shore Blvd,"$1,320,000",4.5,"4,550",842 days
+4,$136,Lake Oswego,1880 Kilkenny Dr,"$380,000",3,"2,778",843 days
+3,$198,Palisades,17560 Westview Dr,"$515,000",2.5,"2,590",852 days
+4,$166,Lakeridge,1941 SW Woodland Ter,"$615,000",3,"3,684",855 days
+5,$146,Lake Oswego,2135 Ridge Pointe Dr,"$990,000",5,"6,755",866 days
+4,$233,PALISADES,2400 Park Rd,"$458,000",2.5,"1,960",876 days
+3,$189,Hallinan,1508 Pine St,"$435,000",2.5,"2,300",877 days
+3,$303,Village on the Lake,15519 Village Dr,"$690,500",2,"2,274",880 days
+2,$257,Village on the Lake,1600 View Lake Ct,"$860,000",2.5,"3,335",883 days
+4,$187,Palisades Heights,2814 Vale Ct,"$600,000",3,"3,192",892 days
+4,$126,Lake Oswego,2710 Greentree Rd,"$400,000",3,"3,172",896 days
+4,$406,Lake Oswego,112 Northshore Cir,"$1,475,000",3.5,"3,632",899 days
+5,$161,Lake Oswego,2607 Palisades Crest Dr,"$912,000",4.5,"5,650",899 days
+3,$184,Hallinan,1733 Kilkenny Rd,"$305,699",1.5,"1,654",899 days
+5,$487,Lake Oswego,1100 Northshore Rd,"$2,550,000",3.5,"5,232",899 days
+4,$193,Lake Oswego,1491 Koawood Dr,"$485,000",3,"2,510",900 days
+4,$243,Rolling Hill Farm Estates,17375 Ridgeview Ct,"$990,000",3.5,"4,065",911 days
+3,$193,Palisades Area,17200 Robb Pl,"$429,000",2.5,"2,218",911 days
+4,$287,Bergis Farm Estates,17323 Bergis Farm Dr,"$1,235,000",4,"4,297",912 days
+5,$251,Lake Oswego,800 Terrace Dr,"$1,300,000",4.5,"5,166",928 days
+5,$174,Palisades Heights,17940 Meadowlark Ln,"$438,000",3,"2,508",940 days
+4,$224,Lake Oswego,1602 Greentree Rd,"$383,500",2,"1,708",960 days
+4,$121,Westridge/Palasades,18272 Westview Dr,"$439,000",4,"3,626",967 days
+4,$154,sunny hill,464 Livingood Ln,"$400,000",2.5,"2,584",967 days
+4,$245,Bella Terra,18187 Siena Dr,"$920,000",3.5,"3,745",974 days
+3,$189,Palisades Park,2440 Greentree Rd,"$349,900",1.5,"1,850",977 days
+3,$262,Palisades Heights,16671 Fir Ln,"$820,000",3.5,"3,129",981 days
+5,$220,Tolkien Heights,18682 Westview Dr,"$715,000",3,"3,243",991 days
+4,$257,Bella Terra,18246 Bella Terra Dr,"$1,080,000",3.5,"4,196",991 days
+4,$227,Lake Oswego,15411 Village Dr,"$865,000",3.5,"3,809",995 days
+4,$157,Lake Oswego,17973 Saint Clair Dr,"$523,500",3,"3,323",996 days
+3,$163,PALISADES TERRACE,1873 Oak St,"$585,000",2.5,"3,576",1009 days
+3,$178,Palisades Park,2727 Glen Haven Rd,"$450,000",2,"2,518",1010 days
+4,$172,Palisades Heights,2183 Hillside Ct,"$770,000",3.5,"4,473",1011 days
+3,$471,Main Lake,2240 Summit Ct,"$2,375,000",3.5,"5,036",1016 days
+3,$134,Lake Oswego,1280 W Oak Ter,"$268,400",2,"1,990",1017 days
+5,$100,Lake Oswego,17859 Hillside Way,"$394,000",3,"3,926",1020 days
+4,$122,Quail Ridge,17140 Wall St,"$455,000",3,"3,711",1032 days
+5,$208,Palisades Heights,17878 Hillside Dr,"$750,000",3,"3,594",1032 days
+4,$173,Palisades Heights,2188 Overlook Dr,"$450,000",2.5,"2,594",1041 days
+4,$264,Lake Oswego,17392 Bergis Farm Dr,"$1,250,000",4,"4,734",1047 days
+4,$147,Palisades,2215 Fernwood Cir,"$389,000",3,"2,640",1047 days
+4,$152,Lake Oswego,1501 Koawood Dr,"$457,000",3,"2,993",1051 days
+4,$187,South Shore Summit,16805 Scott Ct,"$810,000",3.5,"4,321",1053 days
+4,$121,Lake View Villas,2094 Summit Dr,"$425,000",3.5,"3,510",1069 days
+4,$132,Lake Oswego,1505 Ivy Ct,"$353,000",2.5,"2,656",1072 days
+4,$317,Lakewood,1131 Northshore Rd,"$1,222,500",3,"3,850",1074 days
+2,$313,Lake Oswego,1520 Ash St,"$376,400",1,"1,200",1080 days
+5,$368,The Uplands,2500 Glen Eagles Rd,"$2,050,000",4.5,"5,565",1081 days
+4,$223,Lake Oswego,1535 SW Larch St,"$605,000",3,"2,712",1083 days
+3,$206,Lake Oswego,16200 Terrace Dr,"$430,000",2,"2,085",1086 days
+4,$180,Palisades,1440 Greentree Cir,"$450,000",3,"2,488",1093 days
+4,$258,Lake Oswego,15559 Village Dr,"$895,000",2.5,"3,458",1093 days
+4,$530,Main Lake,693 Terrace Dr,"$1,750,000",3,"3,296",1094 days
+4,$139,Lake Oswego,16907 Cherry Crest Dr,"$485,000",3.5,"3,480",1094 days
+3,$220,,1876 Palisades Lake Ct,"$700,000",2.5,"3,178",
+3,$190,,16933 Greentree Ave,"$395,000",2.5,"2,076",
+4,$198,,1670 Fircrest Dr,"$395,000",3,"1,988",
+3,$165,,1504 Oak St,"$450,000",3.5,"2,721",
+3,$338,,697 Lake Bay Ct,"$590,000",2,"1,744",
+4,$217,,2070 Ridge Pointe Dr,"$942,000",3,"4,326",
+2,$203,,1243 SW Laurel St,"$218,000",1,"1,072",
+3,$328,,1411 Ash St,"$600,000",1,"1,826",
+4,$153,,1529 Hemlock St,"$330,000",2.5,"2,150",
+2,$564,,1223 Hemlock St,"$422,500",1,748,
+5,$135,,15530 Diamond Head Rd,"$852,175",4,"6,298",
+6,$228,,77 Iron Mountain Blvd,"$900,000",3,"3,944",
+3,$42,,2693 Glenhaven Rd,"$150,000",3.5,"3,521",
+4,$324,,2325 Park Rd,"$605,000",2.5,"1,863",
+3,$179,,17274 Canyon Dr,"$400,000",2,"2,232",
+3,$336,,886 Northshore Rd,"$388,000",1,"1,152",
+,,,17859 Hillside Way,"$394,000",,,
+3,$159,,1439 Spruce St,"$309,600",1.5,"1,942",
+3,$253,,17170 Robb Pl,"$372,750",2,"1,472",
+4,$182,,17681 Leafy Ln,"$410,000",2.5,"2,242",
+2,$187,,1444 SW Laurel St,"$150,000",1,800,
+,,,,"$1,475,000",,,
+3,$188,,1325 Pine St,"$500,000",2.5,"2,646",
+4,$226,,17660 Stafford Rd,"$750,000",3,"3,318",
+3,$117,,446 Livingood Ln,"$286,000",2,"2,444",
+4,$188,,1115 W Oak Ter,"$355,000",3,"1,880",
+3,$355,,2355 Greentree Rd,"$421,950",2,"1,188",
+3,$174,,2661 Tolkien Ln,"$600,000",2.5,"3,438",
+4,$178,,1610 Lee St,"$468,000",3,"2,616",
+4,$237,,17518 Ridgeview Ln,"$972,000",3.5,"4,091",
+4,$169,Lake Oswego,1551 SW Woodland TerListed by: Redfin,"$459,000",2,"2,712",794 days
+4,$215,Lake Oswego,1641 Ash St,"$595,000",3,"2,764",19 days
+3,$193,Lake Oswego,1731 SW Woodland Ter,"$525,000",2.5,"2,714",19 days
+4,$217,PALISADES HEIGHTS,2760 Overlook Dr,"$532,000",2.5,"2,441",36 days
+5,$149,Lake Oswego,1471 SW Woodland Ter,"$800,000",4.5,"5,362",59 days
+3,$239,Lake Oswego,2280 Fernwood Cir,"$510,000",2,"2,129",67 days
+3,$184,Lake Oswego,1400 Parrish St #1,"$347,500",2.5,"1,880",74 days
+3,$197,Lake Oswego,1402 Parrish St,"$367,000",2.5,"1,862",78 days
+3,$188,HALLINAN,1680 Pine St,"$465,000",3,"2,472",124 days
+3,$233,HALLINAN,1430 SW Larch St,"$532,000",3,"2,279",141 days
+4,$244,Ridge Lake Park,17927 Ridge Lake Dr,"$621,500",2.5,"2,544",157 days
+2,$347,South Oswego,1248 Oak St,"$312,500",1,900,183 days
+4,$203,Lake Oswego,1330 Pine St,"$770,000",3.5,"3,775",200 days
+4,$237,Lake Oswego,2189 Fernwood Cir,"$695,000",3,"2,921",289 days
+4,$246,Westridge,2464 Palisades Crest Dr,"$960,000",2.5,"3,897",327 days
+2,$324,Lake Oswego,1790 SW Conifer Ter,"$325,000",1,"1,003",381 days
+5,$186,Lake View Villas,2251 Summit Dr,"$500,000",3,"2,676",386 days
+4,$164,Lake Oswego,2737 Tolkien Ln,"$722,337",3.5,"4,397",400 days
+4,$205,Tolkien Heights,2699 Tolkien Ln,"$640,000",2.5,"3,115",411 days
+4,$243,Lake Oswego,15761 Springbrook Ct,"$733,000",3,"3,007",416 days
+4,$202,Lake Oswego,1670 Pine St,"$665,000",3.5,"3,286",471 days
+4,$145,Lake Oswego,1785 Palisades Terrace Dr,"$735,275",4.5,"5,052",484 days
+4,$177,Lake Oswego,17749 Leafy Ln,"$585,000",3,"3,300",498 days
+3,$233,Iron Mountain,1136 Westward Ho Rd,"$780,000",2.5,"3,344",505 days
+4,$168,"Hallinan, South Shore",1327 SW Cedar St,"$395,000",2,"2,350",519 days
+4,$244,Lake Oswego,17171 Lowenberg Ter,"$735,000",2.5,"3,002",526 days
+4,$263,Palisades Lake Estates,1766 Palisades Terrace Dr,"$735,000",2.5,"2,792",538 days
+4,$153,Lake Oswego,1405 SW Cedar St,"$395,000",2,"2,570",598 days
+4,$159,Palisades,16998 Greentree Ave,"$381,000",2.5,"2,392",610 days
+4,$274,Lake Oswego,1744 Fern Pl,"$580,000",2.5,"2,110",610 days
+3,$214,Palisades Park Neighborhood,2051 Greentree Rd,"$399,360",2.5,"1,864",613 days
+3,$362,Lake Oswego,841 Northshore Rd,"$865,000",3,"2,388",617 days
+3,$255,Ferncrest/Palisades,1812 Fernwood Dr,"$357,500",1.5,"1,401",635 days
+4,$233,Lake Oswego,16901 Lakeridge Dr,"$486,500",3,"2,080",680 days
+4,$162,Palisades Lake Estates,1936 Palisades Lake Ct,"$640,000",3,"3,939",680 days
+5,$151,Hallanan,1638 Pine St,"$479,000",2,"3,160",680 days
+4,$205,Lake Oswego,1611 Highland DrSold by: Redfin,"$549,000",2.5,"2,675",719 days
+3,$219,Palisades next to Sunnyhill,1440 Cherry Crest Ave,"$425,000",2.5,"1,938",722 days
+4,$172,Westridge,18322 Anduin TerSold by: Redfin,"$650,000",2.5,"3,771",722 days
+3,$156,Lake Oswego,1210 Pine St,"$270,000",1.5,"1,720",729 days
+4,$176,Westridge,18343 Anduin Ter,"$530,000",2.5,"3,000",737 days
+4,$220,Lake Oswego,1858 S Shore Blvd,"$455,000",2,"2,068",765 days
+4,$173,Palisades,2660 Lookout Ct,"$445,000",3,"2,565",766 days
+4,$168,Greentree,17151 Campus Way,"$407,000",2,"2,418",792 days
+5,$171,Palisades,1831 Kilkenny Dr,"$445,000",3,"2,597",801 days
+4,$192,PALISADES,2865 Park Rd,"$582,000",2.5,"3,031",815 days
+3,$195,Lake Oswego,1571 SW Woodland Ter,"$470,000",2,"2,400",827 days
+5,$155,Lake Oswego,1931 Park Forest Ct,"$600,000",4.5,"3,866",871 days
+3,$150,Lake Oswego,1250 Hemlock St,"$398,450",2,"2,656",1005 days
+3,$157,Palisades,1645 Cloverleaf Rd,"$392,000",3,"2,494",1012 days

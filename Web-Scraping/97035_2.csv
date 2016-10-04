@@ -1,0 +1,501 @@
+beds,$sqft,location,address,price,baths,sqft,days
+4,$135,Lake Oswego,4393 Sundew CtListed by: Redfin,"$660,000",2.5,"4,881",743 days
+4,$263,Lake Oswego,16545 SW Inverurie Rd,"$606,500",3,"2,300",44 days
+4,$297,Lake Oswego,5182 Tree St,"$520,000",2,"1,750",57 days
+4,$215,Riverwood Park,18106 Pilkington Rd,"$770,000",4.5,"3,575",57 days
+3,$234,Bryan Acres Area,4840 Lamont Way,"$419,000",2,"1,784",57 days
+2,$214,UPLANDS PARK LAKE OSWEGO,3916 Carman Dr,"$235,500",2.5,"1,098",58 days
+3,$322,Lake Oswego,3312 Sabina Ct,"$536,500",2,"1,665",66 days
+3,$319,Lake Oswego,5215 Madrona St,"$417,000",2,"1,305",93 days
+4,$194,BRYANT ACRES,5124 Lakeview Blvd,"$570,000",3,"2,932",95 days
+4,$306,Lake Oswego,4851 Madrona St,"$460,000",2,"1,500",122 days
+3,$195,South Shore,4331 Lords Ln,"$452,500",3,"2,320",192 days
+4,$230,Lake Oswego,17162 Warren Ct,"$515,000",2.5,"2,231",225 days
+3,$221,Lake Oswego,15213 Quarry Rd,"$390,000",2,"1,761",249 days
+3,$293,Lake Oswego,16735 Lake Forest Blvd,"$350,000",2,"1,192",253 days
+2,$252,Waluga,4343 SW Beasley Way,"$280,000",2,"1,110",311 days
+3,$270,Pilkington Glen,18086 Jenifers Way,"$699,000",2.5,"2,582",316 days
+4,$194,"Heritage Hills, Lake Grove",15518 Heritage Ct,"$525,000",3.5,"2,700",352 days
+4,$235,Kimberly Woods,5864 Stewart Glenn Ct,"$760,000",2.5,"3,224",353 days
+4,$267,Lake Oswego,4540 Lamont Way,"$949,900",2.5,"3,555",368 days
+4,$233,Lake Oswego,71 Touchstone,"$516,000",3,"2,211",387 days
+4,$267,Rosewood,5051 Tualata Ln,"$423,000",2,"1,581",393 days
+5,$163,Lake Oswego,4405 Sundew Ct,"$789,000",3.5,"4,820",410 days
+4,$177,WOODSIDE,4283 Woodside Cir,"$359,900",2,"2,032",428 days
+3,$154,Lake Grove,16470 Bryant Rd,"$312,500",2,"2,024",456 days
+4,$207,Lake Oswego,15947 Waluga Dr,"$700,000",2.5,"3,370",456 days
+3,$209,Lake Oswego,5324 Lower Dr,"$426,300",2.5,"2,034",458 days
+4,$185,West Grove Village,6459 Frost St,"$488,500",2.5,"2,627",472 days
+3,$324,Lake Oswego,5530 Bonita Rd,"$389,900",2,"1,200",473 days
+3,$236,Bryant Acres,4670 Lower Dr,"$374,900",2.5,"1,587",479 days
+3,$207,West Bay,4070 Virginia Way,"$730,000",2.5,"3,510",479 days
+3,$214,LAKE GROVE/BRYANT,4820 Lamont WaySold by: Redfin,"$380,000",2.5,"1,768",501 days
+4,$186,Lake View Villas,4104 Lakeview Blvd,"$420,000",2,"2,252",537 days
+3,$205,Lake Oswego,4765 Firwood Rd,"$355,000",2,"1,728",561 days
+3,$215,Lake Oswego,4631 Wildwood St,"$355,635",2,"1,650",568 days
+3,$247,Lake Oswego,5048 Tree St,"$305,000",1.5,"1,232",571 days
+2,$166,Lake Oswego,3986 Carman Dr,"$184,500",2.5,"1,107",582 days
+3,$262,Lake Oswego,4724 Firwood Rd,"$325,000",1.5,"1,240",604 days
+4,$187,Lake Oswego,4208 Harvey Way,"$400,000",2,"2,132",614 days
+5,$156,Rainbow Terrace,3061 Doris Ct,"$420,000",2,"2,684",626 days
+3,$269,River Grove,5875 Kenny StSold by: Redfin,"$300,000",1,"1,113",759 days
+3,$240,Lake Forest,5498 Yorkshire Pl,"$460,000",2,"1,911",772 days
+3,$227,Lake Haven,17356 Bryant Rd,"$715,000",3,"3,140",779 days
+3,$147,Briar Crest Estates,15201 Candlewood Ct,"$405,000",3,"2,755",800 days
+4,$243,Lake Grove,3020 Brookside Rd,"$469,075",2,"1,926",817 days
+3,$192,Lake Oswego,17653 Mardee Ave,"$336,000",2,"1,742",864 days
+3,$135,Lake Grove,5687 Bonita Rd,"$278,495",2.5,"2,048",883 days
+2,$204,Lake Grove/Sunset Crossing,5077 W Sunset Dr,"$352,000",2.5,"1,720",899 days
+4,$218,Lake Oswego,3435 Lake Grove Ave,"$572,500",3,"2,618",925 days
+3,$212,Lake Oswego,4979 Bilford Ln,"$468,000",2.5,"2,200",1004 days
+4,$201,Lake Oswego,5272 Tualata Ln,"$510,000",3,"2,529",1081 days
+3,$209,SOUTH SHORE,16913 Canal Cir,"$530,000",2,"2,525",14 hrs
+3,$275,LAKE GROVE,17470 Hill Way,"$430,000",2,"1,561",8 days
+2,$203,Lake Oswego,3940 Carman Dr,"$229,900",2.5,"1,132",10 days
+3,$291,Lake Oswego,5321 CARMAN GROVE Ln,"$824,000",3,"2,824",10 days
+5,$198,PFEIFER FARM,4069 Pfeifer Ct,"$860,000",3.5,"4,332",12 days
+5,$243,Carmen Ridge,14466 Holly Springs Rd #32,"$545,000",3,"2,238",15 days
+2,$301,Lake Oswego,15393 Meadowlark Ct,"$474,900",2,"1,576",15 days
+2,$195,Lake Oswego,3930 Carman Dr,"$224,000",2.5,"1,146",17 days
+2,$309,Windfield,15465 Tanager Dr,"$475,000",2,"1,535",21 days
+3,$240,Lake Oswego,"6087 Carman Dr Unit 2,3,4","$698,000",2.5,"2,902",22 days
+5,$312,Lake Oswego,2880 Upper Dr,"$1,762,000",4.5,"5,634",25 days
+5,$236,LAKE OSWEGO,17763 Mardee Ave,"$545,000",3,"2,300",26 days
+4,$330,LAKE GROVE,3555 Lake Grove Ave,"$1,100,000",2.5,"3,324",29 days
+3,$267,Lake Oswego,4571 Oakridge Rd,"$560,000",2.5,"2,092",29 days
+3,$342,Waluga Park Oakwood Terrace,5295 Oakridge Rd,"$405,000",2,"1,182",29 days
+4,$242,Lake Oswego,4231 Sunset Dr,"$550,000",2,"2,272",32 days
+4,$296,Lake Oswego,4380 Upper Dr,"$1,200,000",4.5,"4,046",36 days
+3,$245,"CARMAN RIDGE, WESTLAKE",14450 Holly Springs Rd #30,"$550,000",3,"2,238",38 days
+3,$285,LAKE GROVE,4734 Lamont Ct,"$529,000",2,"1,856",44 days
+2,$197,UPLANDS PARK,3922 Carman Dr,"$225,000",2.5,"1,137",45 days
+3,$293,Lake Grove Acreage Estates,17614 SW Schalit Way,"$460,000",2,"1,569",51 days
+3,$208,Lake Oswego,16315 SW Inverurie Rd,"$330,000",2,"1,584",52 days
+2,$191,The Forest Condo,4000 Carman Dr Unit B27,"$182,000",2,950,53 days
+6,$227,Lake Oswego,4717 Firwood Rd,"$570,000",3,"2,502",54 days
+3,$247,Lake Oswego,4729 Lakeview Blvd,"$630,000",2.5,"2,541",61 days
+4,$233,Lake Oswego,17018 Summer Pl,"$682,000",2.5,"2,925",67 days
+6,$209,BRYANT WOODS,18161 Deerbrush Ave,"$462,000",2,"2,204",72 days
+4,$769,LAKE VIEW VILLAS,3168 Lakeview Blvd,"$3,400,000",5.5,"4,420",73 days
+3,$201,Lake Oswego,4251 Woodside Cir,"$417,500",2,"2,068",73 days
+2,$248,Lake Oswego,3488 SW Devonshire Dr,"$410,000",2,"1,647",79 days
+4,$233,Lake Oswego,15911 Fir Grove Ct,"$603,500",2.5,"2,584",80 days
+3,$329,Lake Forest,16748 Lake Forest Blvd,"$355,000",1,"1,076",80 days
+2,$165,The Forest Condominiums,4000 Carman Dr #80,"$182,000",2,"1,100",82 days
+3,$326,Lake Oswego,16681 Lake Forest Blvd,"$306,000",1,936,85 days
+4,$231,WINDFIELD,5887 Langford Ln,"$630,000",2.5,"2,724",85 days
+2,$599,Lake Oswego,3525 Upper Dr,"$405,000",1,676,88 days
+3,$279,Heritage Hills,4779 Heritage Ln,"$592,000",2,"2,121",89 days
+4,$270,Lake Oswego,4725 Jean Rd,"$388,200",2,"1,433",89 days
+2,$326,LAKE GROVE,3365 Upper Dr,"$450,000",2,"1,378",100 days
+5,$185,Lake Oswego,4176 Upper Dr,"$550,000",3,"2,968",100 days
+5,$295,Lake Oswego,4367 Haven St,"$1,070,000",3.5,"3,617",102 days
+3,$294,Near  Waluga Park Wetlands,16017 Oakridge Ct,"$580,000",2,"1,971",102 days
+3,$285,Lake Oswego,5336 Lower Dr,"$720,062",2.5,"2,526",106 days
+3,$301,Lake Oswego,5998 SW Shakespeare St,"$370,000",1,"1,227",106 days
+3,$254,Lake Oswego,Carman Dr,"$699,000",2.5,"2,751",106 days
+,,Lake Oswego,6351 Burma Rd,"$250,000",,,107 days
+1,$338,BRYANT ACRES,5100 Upper Dr,"$324,000",1,956,108 days
+3,$273,Lake Oswego,17755 Hill Way,"$521,000",3,"1,907",110 days
+3,$267,Trillium Woods/Lake Oswego,4524 Trillium Woods,"$560,000",2.5,"2,092",117 days
+3,$288,TRILLIUM WOODS,4573 Oakridge Rd,"$530,000",2.5,"1,835",117 days
+3,$186,Lake Oswego,17367 Lake Haven Dr,"$485,000",2,"2,607",121 days
+4,$212,Rainbow Terrace,14584 Rainbow Dr,"$547,000",3,"2,570",122 days
+5,$234,Lake Oswego,4208 Albert Cir,"$650,000",3,"2,777",122 days
+4,$283,Lake Oswego,5051 Lakeview Blvd,"$949,800",3.5,"3,355",123 days
+2,$418,Lake View Villas,15948 Quarry Rd,"$385,000",1,920,123 days
+2,$197,The Forrest,4000 Carman Dr Apt 88,"$165,000",2,836,123 days
+3,$700,Lake Oswego,17622 Lake Haven Dr,"$980,000",2,"1,400",124 days
+4,$309,Lake Oswego,3487 Lake Grove Ave,"$1,075,000",3.5,"3,473",124 days
+4,$214,Lake Oswego,17311 Ashley Ct,"$455,000",2.5,"2,117",124 days
+2,$287,Lake Grove / Trillium Woods,4401 Oakridge Rd,"$489,000",2.5,"1,702",127 days
+3,$143,Lake Oswego,5995 SW Shakespeare St,"$372,000",1.5,"2,590",128 days
+4,$222,SUMMER WOODS,6080 Summer Woods,"$517,450",2.5,"2,326",135 days
+,,Lake Oswego,6087 Carman Dr,"$186,500",,,137 days
+4,$716,Main Lake,3142 Lakeview Blvd,"$3,980,000",5,"5,554",138 days
+3,$235,Lake Oswego,5402 Carman Dr,"$400,000",1,"1,699",142 days
+4,$199,Lake Oswego,4369 Sundew Ct,"$640,000",2.5,"3,207",143 days
+4,$273,LAKE GROVE,4867 Upper Dr,"$779,000",3,"2,845",148 days
+5,$209,Westlake,14489 Camden Ln,"$590,000",2.5,"2,816",148 days
+4,$340,Lake Oswego,3190 Douglas Cir,"$1,650,000",4,"4,840",149 days
+4,$341,Lake Oswego,3137 Douglas Cir,"$1,450,000",3.5,"4,246",151 days
+4,$194,Lake Oswego,15585 Partridge Dr,"$507,000",2.5,"2,604",156 days
+3,$139,LAKE GROVE,6286 Harrington Ave,"$450,000",2,"3,219",157 days
+4,$179,Lake Oswego,15837 Allison Pl,"$635,000",2.5,"3,534",158 days
+4,$204,Lake Oswego,17568 Erin Ct,"$615,000",3,"3,008",159 days
+4,$217,Lake Oswego,14850 Twin Fir Rd,"$439,900",3,"2,018",159 days
+4,$263,Bryant Woods - Westbay,17446 Bryant Rd,"$925,000",4,"3,506",162 days
+4,$339,Lake Oswego,3133 Douglas Cir,"$1,350,000",3.5,"3,981",162 days
+3,$227,Lake Oswego,4333 Woodside Cir,"$349,000",2,"1,532",164 days
+4,$303,Lake Oswego,4150 Upper Dr,"$1,050,000",3.5,"3,465",166 days
+3,$301,ROSEWOOD,18088 Belmore Ave,"$393,000",1.5,"1,304",169 days
+4,$308,Lake Oswego,4287 Haven St,"$1,235,000",3.5,"4,007",171 days
+3,$241,Lake Oswego,3759 Lanewood St,"$430,000",2.5,"1,783",173 days
+4,$231,Lake Oswego,4810 Lakeview Blvd,"$814,000",4.5,"3,511",173 days
+3,$345,Lake Oswego,6213 Harrington Ave,"$332,000",1,960,173 days
+3,$146,Lake Oswego,5800 SW Seville Rd,"$309,500",1.5,"2,113",176 days
+4,$157,Lake Oswego,4660 Upper Dr,"$489,000",3,"3,100",176 days
+3,$261,Lake Oswego,17273 Bryant Rd,"$380,000",1.5,"1,452",176 days
+5,$235,Lake Oswego,6140 Burma Rd,"$390,000",2,"1,656",184 days
+4,$275,Lake Oswego,4845 Upper Dr,"$785,000",3,"2,852",184 days
+3,$262,Lake Oswego,5475 Bonita Rd,"$500,000",2,"1,904",185 days
+2,$176,Lake Oswego,4000 Carman Dr Apt 62,"$176,000",2,999,185 days
+3,$252,Lake Oswego,15655 Fieldstone Dr,"$695,000",2.5,"2,750",186 days
+2,$166,Waluga,15938 Quarry Rd Apt 3A,"$164,511",1,988,187 days
+5,$217,Lake Oswego,3820 S Shore Blvd,"$1,055,000",4,"4,855",190 days
+4,$178,Lake Oswego,6402 Frost St,"$499,000",2.5,"2,800",190 days
+4,$382,Main Canal,17264 Lake Haven Dr,"$1,495,000",3.5,"3,911",191 days
+2,$279,Lake Oswego,5554 Royal Oaks Dr,"$520,000",2,"1,861",192 days
+4,$244,Carman Ridge,14356 Holly Springs Rd #14,"$475,000",2.5,"1,939",193 days
+2,$111,Lake Grove Condos,4634 Lower Dr Unit A1,"$139,900",1.5,"1,260",193 days
+,,Lake Oswego,4250 Upper Dr,"$700,000",,,200 days
+4,$219,Lake Oswego,6059 Frost Ln,"$499,600",2.5,"2,281",204 days
+4,$257,WESTLAKE,5192 Coventry Ct,"$581,000",2.5,"2,259",204 days
+2,$183,FOREST CONDOS,4000 Carman Dr Apt 12,"$158,500",2,866,206 days
+5,$344,Lake Oswego,16661 Graef Cir,"$1,000,000",2.5,"2,904",218 days
+3,$206,WEST GROVE VILLAGE,6411 Frost St,"$503,000",2.5,"2,430",219 days
+2,$207,Uplands Park,3910 Carman Dr,"$234,000",2.5,"1,129",221 days
+3,$242,LAKE GROVE,4230 Sunset Dr,"$379,000",3,"1,563",221 days
+5,$156,Lake Oswego,6192 Harrington Ave,"$440,000",3,"2,817",222 days
+4,$210,Ashley Park,17347 Ashley Ct,"$445,000",2.5,"2,117",228 days
+4,$231,WESTLAKE,5336 Coventry Ct,"$545,000",2.5,"2,358",229 days
+3,$443,Main Lake,3796 Lakeview Blvd,"$1,840,000",3,"4,150",234 days
+3,$281,Lake Haven,17520 Redfern Ave,"$499,999",2,"1,776",235 days
+2,$185,Lake Oswego,4000 Carman Dr #74,"$155,000",2,836,235 days
+4,$260,Lake,17346 Canal Cir,"$887,500",3,"3,406",241 days
+4,$244,Lake Oswego,5934 Kenny St,"$391,000",2,"1,596",241 days
+3,$305,Lake Oswego,17454 Canal Cir,"$755,000",2.5,"2,475",242 days
+3,$218,Lake Oswego townhomes,3674 Carman Dr,"$430,000",2.5,"1,965",242 days
+3,$136,Oswego Bay Condominiums,5225 Jean Rd Apt 201,"$205,000",2,"1,500",246 days
+6,$194,BRYANT WOODS,18223 Indian Creek Dr,"$525,000",2,"2,700",249 days
+3,$372,Lake Oswego,16500 Lake Forest Blvd,"$357,500",1,960,249 days
+2,$238,Lake Oswego,6073 Harrington Ave,"$250,000",1,"1,050",253 days
+2,$308,Lake Oswego,16524 SW Roosevelt Ave,"$349,000",1,"1,131",254 days
+3,$207,Lake Oswego,5749 Windfield Loop,"$388,600",3,"1,873",255 days
+3,$232,Lake Oswego,14754 Davis Ln,"$448,000",2.5,"1,925",255 days
+4,$275,WESTLAKE,4595 Hastings Pl,"$600,000",2.5,"2,176",256 days
+4,$249,Pilkington Glen,18009 Braeden Ct,"$820,000",2.5,"3,286",256 days
+3,$228,MT PARK,14752 Davis Ln,"$447,000",2.5,"1,954",257 days
+5,$194,Lake Oswego,5875 Bonita Rd,"$515,000",3.5,"2,650",262 days
+3,$210,Rosewood,18275 Pilkington Rd,"$440,000",2,"2,088",262 days
+3,$321,Lake Oswego,5882 Kennycroft Way,"$409,000",2,"1,272",267 days
+4,$224,Lake Oswego,5336 Tree StSold by: Redfin,"$379,950",2,"1,696",269 days
+2,$255,Lake Oswego,3696 Spring Ln Unit 3B,"$285,000",2,"1,117",270 days
+2,$155,Lake Oswego,4000 Carman Dr Unit G107,"$171,013",2,"1,100",270 days
+4,$215,Uplands Twin Fir Wembley,15001 Twin Fir Rd,"$575,000",3,"2,664",271 days
+3,$210,Bryant Woods,4226 Woodside Cir,"$332,500",2,"1,578",275 days
+3,$255,Lake Oswego,4200 Upper Dr,"$350,000",1,"1,371",275 days
+4,$250,Lake Oswego,5833 Stewart Glenn Ct,"$815,000",2.5,"3,258",277 days
+3,$209,Woodside Circle,4291 Woodside Cir,"$425,000",2,"2,026",277 days
+2,$172,Springbrook Park,15230 Boones Way Unit 1-D,"$205,000",2,"1,185",278 days
+,,Lake Oswego,15868 Parker Rd,"$261,000",,,283 days
+2,$154,Lake Oswego,4000 Carman Dr Apt 33,"$170,000",2,"1,100",289 days
+,,Lake Oswego,#36,"$420,000",,,291 days
+4,$222,Lake Oswego,15590 Tanager Dr,"$562,500",2.5,"2,532",299 days
+4,$179,Uplands/Rainbow Terrace,14674 Rainbow Dr,"$556,500",3,"3,100",303 days
+4,$188,Summer Wood,6155 Frost Ln,"$444,888",2.5,"2,364",309 days
+3,$438,LAKE GROVE,5220 Firwood Rd,"$1,100,000",2.5,"2,507",310 days
+4,$180,Springbrook Park,15144 Boones Way,"$435,000",3.5,"2,409",311 days
+3,$269,Trillium Woods,4403 Oakridge Rd,"$540,000",2.5,"2,004",312 days
+3,$285,Lake Oswego,3180 SW Edgemont Rd,"$487,000",2.5,"1,704",312 days
+2,$208,Lake Oswego,3926 Carman Dr,"$234,900",2.5,"1,129",316 days
+3,$261,Trillium Woods/Lake Grove,4582 Trillium Woods,"$480,350",2.5,"1,835",318 days
+3,$235,Lake Oswego,5748 Windfield LoopSold by: Redfin,"$399,000",3,"1,693",318 days
+3,$251,Lake Oswego,17872 Pilkington Rd,"$265,100",2,"1,056",323 days
+4,$406,Lake Oswego,17320 Lake Haven Dr,"$1,100,000",3,"2,703",324 days
+3,$215,Rivendell Estates,3497 SW Devonshire Dr,"$335,000",2,"1,556",330 days
+4,$166,Lake View Villas,2701 Lakeview Blvd,"$575,000",2.5,"3,448",332 days
+3,$327,Lake Oswego,15879 SW Kimball St,"$352,277",1.5,"1,076",337 days
+3,$342,Lake Oswego,5467 Kenny St,"$329,000",1,960,337 days
+3,$296,Lake Oswego,16536 SW Inverurie Rd,"$315,000",1,"1,064",339 days
+3,$236,Lake Oswego,16173 Lake Forest Blvd,"$315,000",1,"1,334",344 days
+2,$161,Lake Oswego,3652 Spring Ln Unit 4F,"$180,000",2,"1,117",348 days
+3,$213,Lake Oswego,14666 Doris Ave,"$385,000",2,"1,800",352 days
+3,$218,Lake Oswego,4725 Lakeview Blvd,"$347,500",2,"1,589",352 days
+3,$297,Lake Oswego,6331 SW Shakespeare St,"$295,000",1.5,992,353 days
+3,$281,Lake Oswego,15960 Parker Rd,"$722,500",2.5,"2,566",354 days
+2,$250,Lake Oswego,5725 Windfield Loop,"$405,000",2,"1,615",354 days
+3,$217,Carman Park,15601 Tanager Dr,"$445,000",2.5,"2,046",358 days
+3,$157,Lake Oswego,15112 Quarry Rd,"$310,000",2,"1,968",358 days
+5,$244,Main Lake,3072 Lakeview Blvd,"$985,000",5.5,"4,030",358 days
+4,$197,LAKEVIEW,17359 Ashley Ct,"$468,000",2.5,"2,370",358 days
+3,$157,Oswego Bay Condominiums,5225 Jean Rd Apt 203,"$219,950",2,"1,400",358 days
+3,$203,Lake Oswego,16538 Carnegie Ave,"$240,000",1.5,"1,182",359 days
+,,Lake Oswego,Carman Dr,"$179,900",,,360 days
+2,$181,Lake Oswego,4000 Carman Dr Apt 25,"$152,000",2,836,362 days
+3,$263,Morrison Estates,5364 Langford Ln,"$797,000",2.5,"3,022",366 days
+3,$294,Lake Oswego,5392 Tree St,"$362,500",1.5,"1,232",368 days
+4,$194,Lake Oswego,6276 Frost Ln,"$449,000",3.5,"2,304",369 days
+3,$229,Oxford Downs,4220 Albert Cir,"$553,000",3,"2,406",369 days
+3,$241,Westlake,14480 Camden Ln,"$469,000",2.5,"1,944",373 days
+4,$270,Westlake,5045 Greensborough Ct,"$570,000",2.5,"2,107",374 days
+3,$245,Lake Oswego,16946 Lower Meadows Dr,"$440,000",2.5,"1,795",376 days
+4,$305,Lake Grove,3508 Red Cedar Way,"$436,003",2,"1,425",376 days
+,,Rainbow Terrace,14599 Doris Ave,"$275,000",,,379 days
+,,Lake Oswego,SW Carmen,"$79,000",,,379 days
+3,$161,Lake Oswego,14973 Boones Way,"$475,000",2.5,"2,948",380 days
+4,$269,Lake Oswego,5547 Washington Ct,"$349,900",2,"1,300",381 days
+4,$170,Summer Woods,16889 Wight Ln,"$438,500",2.5,"2,579",382 days
+3,$269,Lake View Villas,15930 Twin Fir Rd,"$705,000",2.5,"2,620",383 days
+4,$252,Pilkington Glen,5590 Koderra Ave,"$829,000",2.5,"3,289",387 days
+4,$570,Lakefront,16707 Graef Cir,"$2,189,634",3.5,"3,841",393 days
+5,$187,Carman Ridge,14383 Holly Springs Rd #19,"$419,250",3,"2,238",393 days
+3,$152,Lake Oswego,17270 Bryant Rd,"$399,000",3,"2,619",394 days
+3,$249,Carmen Ridge,14594 Wilmot Way #55,"$426,500",2.5,"1,710",396 days
+4,$249,Lake View Villas,4040 Virginia Way,"$655,000",2.5,"2,623",397 days
+3,$203,Lake Oswego,17348 Hunter Ct,"$609,900",2.5,"2,991",400 days
+4,$471,West Bay,16645 Graef Cir,"$1,450,000",4.5,"3,075",400 days
+3,$233,Lake Oswego,15921 SW Kimball St,"$540,000",2,"2,309",401 days
+2,$352,Bryant Acres 03,5276 W Sunset Dr,"$296,000",1,840,402 days
+3,$186,Lake Oswego,5431 Willow Ct,"$460,000",2.5,"2,465",402 days
+3,$201,Off Pilkington,17336 Hunter Ct,"$609,900",2.5,"3,023",402 days
+5,$208,Lake Oswego,22 Hotspur St,"$835,000",3.5,"4,002",402 days
+4,$283,Lake View Villas,3301 Upper Dr,"$1,290,000",3.5,"4,555",404 days
+3,$251,Lake Grove,16444 Bonaire Ave,"$349,900",2,"1,392",408 days
+3,$362,Lake View Villas,15365 Twin Fir Rd,"$435,000",1,"1,201",409 days
+3,$177,Bryant,3919 S Shore Blvd,"$425,000",4,"2,398",409 days
+5,$302,Lake Oswego,4350 Lords Ln,"$1,175,000",4,"3,888",409 days
+4,$206,Lake Oswego,4730 Firwood Rd,"$438,700",2,"2,124",409 days
+4,$259,Lake Oswego,17572 Shepherds Ct,"$775,000",3,"2,983",410 days
+4,$189,Lake Grove,15941 SW Inverurie Rd,"$495,000",2,"2,611",410 days
+4,$300,Lake View Villas,3140 Douglas Cir,"$1,300,000",3.5,"4,333",410 days
+4,$309,Lake Oswego,4579 Upper Dr,"$1,150,000",3.5,"3,720",410 days
+3,$270,Lake Oswego,17065 Tualatin St,"$739,900",2.5,"2,733",415 days
+2,$216,Lake Oswego,15495 Brianne Ct,"$280,000",2.5,"1,292",415 days
+2,$251,Woodside,4324 Woodside Cir,"$305,900",2,"1,216",416 days
+4,$273,Lake Oswego,5695 Washington Ct,"$483,000",2,"1,769",417 days
+4,$256,Lake Oswego,17583 Shepherds Ct,"$770,000",3,"2,997",421 days
+3,$189,Lake Oswego,4263 Sunset Dr,"$615,000",2.5,"3,250",421 days
+2,$286,Lake Oswego,17780 Hill Way,"$275,000",1,960,422 days
+4,$224,Lake Grove,4725 Firwood Rd,"$575,000",2.5,"2,557",423 days
+4,$189,Lake Oswego,4596 Lamont Way,"$424,500",2,"2,236",424 days
+3,$210,Lake Oswego,5221 Rosewood St,"$469,000",2.5,"2,226",425 days
+2,$238,Lake Oswego,14710 Davis Ln,"$399,999",2.5,"1,680",428 days
+2,$104,Sunny Grove Condominiums,4630 Lower Dr,"$131,500",1.5,"1,260",428 days
+4,$232,Tabaridge/Holly Farm/Westridge,14309 Meadow Grass St,"$610,000",2.5,"2,620",428 days
+2,$174,Forest Condos,4000 Carman Dr Unit G101,"$152,000",2,869,429 days
+3,$205,Lake Oswego,6288 SW Seville Rd,"$302,500",2,"1,470",430 days
+2,$202,Lake Oswego,5860 Lakeview Blvd,"$289,900",1.5,"1,435",430 days
+3,$290,Pfeifer Farm,14536 Pfeifer Dr,"$1,100,000",3.5,"3,781",438 days
+3,$241,Lake Oswego,5210 Coventry Ct,"$515,000",2.5,"2,135",439 days
+4,$177,Lake Oswego,6310 Alyssa Ter,"$435,000",2.5,"2,452",442 days
+4,$233,Lake Oswego,4201 Haven St,"$625,000",3,"2,678",442 days
+3,$181,Rosewood,5189 Tualata Ln,"$440,000",2,"2,422",442 days
+3,$204,Lake Oswego,15434 Stephanie Ct,"$320,000",2.5,"1,566",442 days
+4,$220,Mountain Park/Westlake,63 Touchstone,"$545,000",3,"2,472",449 days
+4,$218,Lake Grove,5364 Rosewood St,"$433,000",2.5,"1,980",450 days
+4,$172,Lake Oswego,16875 Tracy Ave,"$315,000",2,"1,825",453 days
+5,$199,PARHILLL,4945 Parkhill St,"$659,900",2.5,"3,302",456 days
+3,$253,Lake Oswego,5364 Greystoke Dr,"$458,500",2.5,"1,807",457 days
+2,$159,Oswego West,15938 Quarry Rd Unit A-5,"$159,000",1,996,467 days
+3,$250,Lake Oswego,4161 SW Collins Way,"$350,000",2,"1,398",471 days
+3,$239,Lake Oswego,16472 Bonaire Ave,"$350,000",2,"1,464",473 days
+3,$171,Lake Oswego,3144 SW Diane Dr,"$280,000",1.5,"1,632",473 days
+2,$155,The Forest Condominiums,4000 Carman Dr Unit A17,"$171,200",2,"1,100",479 days
+4,$207,Lake Oswego,4909 Lower Dr,"$413,500",2.5,"1,992",479 days
+2,$221,Lake Oswego,15472 Brianne Ct,"$268,000",2.5,"1,208",479 days
+3,$501,Lake,17335 Canal Cir,"$1,050,000",3,"2,092",482 days
+2,$150,Lake Oswego,5225 Jean Rd,"$165,000",2,"1,100",485 days
+2,$132,Lake Oswego,15220 Boones Way Unit 1C,"$168,000",1.5,"1,266",487 days
+2,$151,Lake Oswego,5225 Jean Rd Apt 311,"$167,000",2,"1,100",488 days
+2,$190,Uplands/Oak Creek,3970 Carman Dr,"$215,000",2.5,"1,129",492 days
+4,$204,Lake Grove,4733 Firwood Rd,"$472,000",3,"2,310",493 days
+4,$244,PFEIFER FARM,14488 Pfeifer Dr,"$869,700",3.5,"3,563",493 days
+3,$204,Bryant,5043 Rosewood St,"$605,000",2.5,"2,963",498 days
+3,$210,Lake Oswego,15364 Twin Fir Rd,"$338,000",2,"1,608",498 days
+3,$224,Lake Oswego,16201 Lake Forest Blvd,"$415,000",2.5,"1,846",499 days
+3,$263,Lake Oswego,6138 Kenny St,"$314,000",1.5,"1,190",500 days
+3,$206,Lake Grove,16805 Gassner Ln,"$225,000",2,"1,092",505 days
+3,$249,Winfield,5926 Dove Ct,"$450,000",2,"1,807",506 days
+3,$234,LAKE GROVE / LAKE VIEW VILLAS,3402 Lake Grove Ave,"$395,000",2,"1,686",507 days
+3,$160,LAKERIDGE/WEST BAY,4524 Lower Dr Unit A3,"$265,000",2.5,"1,650",512 days
+3,$223,Lake Oswego,17617 Arbor Ln,"$390,000",2,"1,745",513 days
+2,$91,Sunny Grove,4650 Lower Dr,"$115,000",1.5,"1,260",515 days
+5,$170,Lake Oswego,4146 Lakeview Blvd,"$350,000",1.5,"2,056",522 days
+3,$212,Westlake,14372 Camden Ln,"$500,000",2.5,"2,348",523 days
+4,$188,Lake Grove Newer,17393 SW Schalit Way,"$545,000",2.5,"2,897",523 days
+4,$222,Royal Oaks,15885 White Oaks Dr,"$624,000",2.5,"2,802",526 days
+3,$245,Lake Oswego,4261 Cobb Way,"$575,000",3,"2,345",527 days
+2,$158,The Forest,4000 Carman Dr Apt 55,"$137,000",2,866,529 days
+3,$239,Lake Oswego,3563 Sunwood Ct,"$245,000",1,"1,025",533 days
+4,$232,Lake View Vills,2950 Upper Dr,"$785,000",3.5,"3,373",533 days
+3,$175,Lake Oswego,5185 Carman Dr,"$325,000",1.5,"1,848",533 days
+6,,Lake Oswego,18183 Deerbrush Ave,"$549,000",4,,533 days
+2,$216,SUNSET CROSSING,5053 W Sunset Dr,"$373,000",2.5,"1,720",533 days
+3,$243,Lake Osewgo,4504 Wildwood St,"$402,250",2,"1,655",533 days
+4,$234,Carman Ridge,14353 Holly Springs Rd #11,"$525,000",3,"2,238",534 days
+3,$212,Lake Oswego,4729 Firwood Rd,"$550,000",2.5,"2,594",534 days
+2,$136,Lake Grove,3930 Lake Grove Ave Unit A1,"$130,000",1,952,540 days
+3,$258,Lake Forest,6101 Harrington Ave,"$361,500",2.5,"1,400",554 days
+4,$223,"Mountain Park, Mt. Park",14 Hotspur St,"$610,000",2.5,"2,726",556 days
+3,$279,Lake Oswego,16442 SW Kimball St,"$335,000",1,"1,200",559 days
+3,$222,Lake Oswego,4630 Wildwood St,"$460,000",2,"2,067",561 days
+2,$170,Lake Oswego,4000 Carman Dr #23,"$148,000",2,866,561 days
+4,$264,Lake Oswego,5055 Lakeview Blvd,"$925,032",3.5,"3,498",561 days
+3,$276,Lake Grove,5275 Oakridge Rd,"$350,000",1,"1,267",571 days
+1,$121,Lake Oswego,4619 Lakeview Blvd Unit D3,"$91,500",1,753,585 days
+2,$167,"Lake Oswego, The Forest",4000 Carman Dr Apt 5,"$145,500",2,869,586 days
+2,$141,Lake Grove,15938 Quarry Rd Apt 1A,"$140,000",1,991,591 days
+2,$141,Lake Grove,3930 Lake Grove Ave Unit 2A,"$134,819",1,952,591 days
+,,Bryant Acres 03,5410 Washington Ct,"$350,000",,,596 days
+2,$109,Lake Grove/Lake Oswego,4636 Lower Dr Unit B-1,"$128,000",1.5,"1,170",596 days
+2,$91,Lake Oswego,4610 Lower Dr Unit A1,"$114,900",1.5,"1,260",600 days
+4,$218,Westlake,5726 Charles Cir,"$692,500",3.5,"3,173",600 days
+3,$187,Lake Oswego,16990 Lower Meadows Dr,"$374,900",2.5,"2,000",603 days
+6,$143,Lake Oswego,15180 Boones Way,"$560,000",3.5,"3,905",604 days
+4,$222,Westlake,5674 Charles Cir,"$595,000",2.5,"2,679",610 days
+4,$225,Westlake,5747 Victoria Ct,"$549,000",2.5,"2,432",611 days
+3,$196,Lake Oswego,16266 Lake Forest Blvd,"$365,000",2,"1,860",617 days
+3,$236,Lake Oswego,15444 Boones Way,"$820,000",2.5,"3,464",618 days
+1,$344,Lake Grove,5326 W Sunset Dr,"$259,900",1,754,631 days
+4,$225,Upper Drive Area,3411 Lake Grove Ave,"$1,000,000",3.5,"4,434",638 days
+4,$179,Lake Oswego,3718 Lake Grove Ave,"$452,000",3,"2,523",646 days
+3,$241,Lake Oswego,15470 Boones Way,"$850,000",2.5,"3,515",652 days
+2,$147,Lake Oswego,15938 Quarry Rd Unit B-5,"$146,570",1,996,654 days
+5,$140,Mt Park,76 Touchstone,"$400,000",2.5,"2,856",669 days
+4,$364,Lake Oswego,3130 Douglas Cir,"$1,448,000",3.5,"3,970",674 days
+2,$139,Oswego Bay Condos,5225 Jean Rd Apt 605,"$195,000",2,"1,400",680 days
+3,$277,Lake Forest,5010 Oakridge Rd,"$328,000",2,"1,182",694 days
+6,$144,Lake Oswego,15001 Boones Way,"$430,500",4,"2,976",705 days
+,,Lake Oswego,18151 Deerbrush Ave,"$400,000",,,710 days
+4,$219,Carmen Park,15422 Partridge Dr,"$405,000",2.5,"1,841",716 days
+3,$291,Lake Oswego,5950 Harrington Ave,"$280,000",1,960,726 days
+3,$257,Trillium Woods/Lake Oswego,4581 Trillium Woods,"$570,000",2.5,"2,211",743 days
+3,$203,Tabaridge,14318 Meadow Grass St,"$473,142",2.5,"2,326",744 days
+3,$232,Bryant Acres,5172 Lakeview Blvd,"$335,000",2,"1,438",744 days
+4,$227,Ford Estates,16673 Ford Pl,"$705,000",3,"3,100",754 days
+2,$215,Lake Oswego,5073 W Sunset Dr,"$371,500",2.5,"1,720",754 days
+3,$220,Waluga Neighborhood,4261 SW Collins Way,"$325,000",2,"1,476",757 days
+4,$237,Lake Oswego,5088 Lakeview Blvd,"$809,699",2.5,"3,414",758 days
+5,$200,Lakeview Blvd,4728 Lakeview Blvd,"$570,000",3.5,"2,838",759 days
+4,$407,Lake Oswego,2926 Lakeview Blvd,"$2,000,000",4.5,"4,902",760 days
+3,$219,Lake Grove,4296 Sunset Dr,"$369,000",2.5,"1,680",765 days
+2,$186,Lake Oswego,3956 Carman Dr,"$207,000",2.5,"1,107",766 days
+5,$186,Lake Oswego,4311 Upper Dr,"$940,000",3.5,"5,051",768 days
+,,Lake Oswego,3120 Upper Dr,"$460,000",,,775 days
+3,$224,Lake Grove,4900 Upper Dr,"$555,000",2,"2,468",778 days
+5,$176,Blackhawk/Royal Arms,4973 Hartford Pl,"$649,900",3.5,"3,672",779 days
+3,,Lake Oswego,15029 Boones Way,"$450,000",2,,787 days
+4,$166,Lake Oswego,4303 Sundew Ct,"$560,000",2.5,"3,355",794 days
+3,$203,Lake Oswego,3727 Upper Dr,"$965,000",3.5,"4,731",800 days
+4,$222,Lake Oswego,16126 SW Inverurie Rd,"$555,000",2.5,"2,492",806 days
+5,$321,Lake Oswego,3232 Lakeview Blvd,"$2,250,000",5,"7,000",807 days
+3,$267,Westlake,5063 Greensborough Ct,"$440,000",2.5,"1,647",808 days
+3,$124,OSWEGO BAY CONDOS,5225 Jean Rd Apt 404,"$187,300",2,"1,500",813 days
+4,$208,Lake Oswego,14559 Pfeifer Way,"$700,000",2.5,"3,356",813 days
+4,$221,Westlake,5746 Charles Cir,"$605,000",2.5,"2,737",815 days
+4,$325,Lake Oswego Waterfront,16767 Graef Cir,"$1,405,550",4.5,"4,320",820 days
+4,$176,Waluga,16041 Waluga Dr,"$349,900",2,"1,982",820 days
+2,$189,Lake Grove Condominiums,4514 Lower Dr Unit B3,"$312,000",2.5,"1,644",823 days
+4,$633,main lake,3748 Lakeview Blvd,"$2,200,000",4,"3,474",827 days
+4,$220,Windfield Estates,5559 Royal Oaks Dr,"$463,800",2.5,"2,105",831 days
+4,$202,Riverwood Park,18020 Jenifers Way,"$600,000",2.5,"2,966",841 days
+5,$549,Lake front,3690 Lakeview Blvd,"$3,500,000",5.5,"6,366",844 days
+4,$194,Summer Woods,6151 Summer Woods,"$490,000",3,"2,520",855 days
+5,$241,PILKINGTON GLEN,5502 Koderra Ave,"$635,000",2.5,"2,633",862 days
+,,Lake Oswego,Lakeview Blvd,"$350,000",,,869 days
+3,$181,Lake Forest,6380 Washington Ct,"$312,500",2,"1,720",869 days
+5,$215,Lake Oswego,18042 Jenifers Way,"$635,000",3,"2,946",870 days
+3,$209,Bryant,4216 Albert Cir,"$446,500",2,"2,130",872 days
+3,$277,Kennycroft,18148 Belmore Ave,"$279,900",1,"1,008",876 days
+3,$176,Lake Oswego,16275 Waluga Dr,"$471,500",3,"2,677",886 days
+4,$178,Lake Oswego,15956 Parker Rd,"$570,000",2.5,"3,200",898 days
+3,$308,Lake Oswego,15360 Twin Fir Rd,"$315,000",1,"1,020",905 days
+3,$206,Bryant Acres,4690 Lower Dr,"$329,000",2.5,"1,596",907 days
+2,$195,Lake Oswego,5057 W Sunset Dr,"$336,000",2.5,"1,720",911 days
+3,$183,Lake Oswego,18108 Pilkington Rd,"$758,000",3.5,"4,129",925 days
+2,$145,Lake Oswego,4000 Carman Dr Apt 106,"$144,000",2,993,925 days
+4,$265,Lake Oswego,4601 Upper Dr,"$1,045,000",4,"3,943",928 days
+3,$230,Lake Grove Older,4912 Lower Dr,"$355,000",2,"1,539",935 days
+5,$214,PILKINGTON GLEN,18064 Jenifers Way,"$635,000",3,"2,965",939 days
+4,$207,Lake Oswego,3474 Lanewood St,"$410,000",2,"1,980",943 days
+4,$215,Lake Oswego,16758 Mellon Ave,"$565,000",2.5,"2,622",947 days
+2,$141,Lake Grove/Waluga,15938 Quarry Rd Unit B-4,"$140,000",1,991,956 days
+3,$176,Lake Oswego,4990 Oakridge Rd,"$300,000",2,"1,700",974 days
+2,$136,Lake Oswego,15938 Quarry Rd Apt 4A,"$135,000",1,991,981 days
+2,$270,Lake Grove,5103 Madrona St,"$360,000",2,"1,329",995 days
+3,$195,Lake Oswego,17500 Pilkington Rd,"$204,900",1,"1,050",996 days
+4,$194,Lake Grove,16838 Wight Ln,"$460,000",2.5,"2,364",998 days
+5,$205,Lake Oswego,3149 Douglas Cir,"$1,075,000",4,"5,237",1009 days
+2,$365,South Shore,4200 W Bay Rd,"$345,000",1,944,1017 days
+2,$133,Lake Oswego,5225 Jean Rd Apt 401,"$144,400",2,"1,080",1018 days
+2,$108,Lake Oswego,3930 Lake Grove Ave Unit 3B,"$103,000",1,952,1037 days
+4,$214,Lake Oswego,17650 Deemar Way,"$295,000",2,"1,375",1041 days
+2,$197,Lake Oswego,16616 Lake Forest Blvd,"$209,000",1,"1,056",1048 days
+3,$236,Lake Oswego,14854 Twin Fir Rd,"$305,000",2,"1,287",1054 days
+2,$213,Sunset Crossing,5051 W Sunset Dr,"$370,000",2.5,"1,734",1058 days
+3,$277,Lake Oswego,3616 Lake Grove Ave,"$319,000",2,"1,150",1059 days
+2,$231,Lake Oswego,4260 S Shore Blvd,"$294,000",2,"1,268",1069 days
+3,$139,Lake Oswego,17521 Hill Way,"$318,500",2,"2,283",1072 days
+4,$167,Summer Woods,16966 Summer Pl,"$513,000",2.5,"3,065",1083 days
+2,$115,Lake Grove Condos,4000 Carman Dr,"$115,000",2,993,1083 days
+3,$222,,4527 Trillium Woods,"$505,000",2.5,"2,273",
+3,$244,,17570 Hill Way,"$337,000",2,"1,378",
+4,$186,,6109 Summer Woods,"$434,000",2.5,"2,331",
+3,$134,,4948 SW Meadow Ave,"$220,000",2,"1,633",
+4,$392,,18205 Pilkington Rd,"$676,500",2,"1,725",
+,$170,,4000 Carman Dr Unit B23,"$148,000",2,866,
+3,$199,,5432 Kenny St,"$269,150",1,"1,352",
+2,$136,,3930 Lake Grove Ave Unit 1A,"$130,000",1,952,
+1,$162,,4000 Carman Dr Unit C45,"$125,000",1,767,
+3,$210,,15622 Fieldstone Dr,"$668,950",2.5,"3,181",
+,$130,,5225 Jean Rd Apt 602,"$156,000",2,"1,200",
+,$150,,5225 Jean Rd Apt 512,"$165,000",2,"1,100",
+2,$209,,5755 Windfield Loop,"$327,500",2,"1,561",
+3,$260,,4011 W Bay Rd,"$830,000",4,"3,192",
+2,$692,,16719 Boones Ferry Rd,"$650,000",1,938,
+3,$295,,4330 Country Woods Ct,"$355,000",2,"1,200",
+3,$237,,5110 Oakridge Rd,"$335,000",2,"1,412",
+3,$244,,16508 Bonaire Ave,"$260,000",1,"1,064",
+4,$236,,16211 Waluga Dr,"$386,000",2,"1,630",
+3,$186,,18000 Pilkington Rd,"$230,000",2,"1,235",
+2,$141,,15938 Quarry Rd Apt 4B,"$140,000",1,991,
+3,$308,,5110 W Sunset Dr,"$420,000",1,"1,362",
+2,$147,,15938 Quarry Rd Apt 5B,"$146,570",1,991,
+3,$197,,4191 SW Collins Way,"$357,000",2.5,"1,805",
+2,$496,,4910 Lower Dr,"$413,500",1,832,
+2,$166,,4000 Carman Dr Unit C43,"$145,000",2,869,
+2,$176,,18050 Tualata Ave,"$240,000",2,"1,360",
+,,,,"$42,000",,,
+3,$184,,6110 SW Shakespeare St,"$290,000",1.5,"1,570",
+2,$109,,4636 Lower Dr,"$128,000",1.5,"1,170",
+2,$104,,4630 Lower Dr Unit A2,"$131,500",1.5,"1,260",
+2,$104,,4626 Lower Dr Unit A1,"$132,000",1.5,"1,260",
+3,$269,,16191 Lake Forest Blvd,"$233,000",1,864,
+3,$26,,4256 Lakeview Blvd,"$80,000",2.5,"3,004",
+3,$194,,5175 Firwood Rd,"$233,000",2,"1,199",
+3,$280,,16043 SW Kimball St,"$400,000",1.5,"1,428",
+3,$136,,3984 Carman Dr,"$186,000",1,"1,360",
+3,$129,,3600 Spring Ln,"$500,000",3,"3,865",
+4,$352,,3519 Lake Grove Ave,"$495,000",2.5,"1,406",
+3,$170,,5292 Firwood Rd,"$200,000",1,"1,170",
+3,$177,,16508 Mellon Ave,"$220,000",1.5,"1,240",
+3,$225,,3230 Upper Dr,"$475,000",2,"2,104",
+2,$302,,6252 Carman Dr,"$360,000",1,"1,190",
+4,$195,,4161 Chapman Way,"$415,000",2.5,"2,120",
+3,$213,,5804 Kennycroft Way,"$215,500",1.5,"1,008",
+,$146,,5225 Jean Rd Apt 501,"$219,000",2,"1,500",
+4,$170,,4105 Upper Dr,"$485,000",3.5,"2,846",
+2,$160,,15938 Quarry Rd Apt 5A,"$159,000",1,991,
+4,$210,,18301 Wood Thrush Cir,"$445,000",2.5,"2,114",
+4,$166,,6126 Frost Ln,"$399,950",2.5,"2,400",
+,,,17823 SW Central Ave,"$416,120",,,
+3,$176,,17839 Tamara Ct,"$275,000",1.5,"1,562",
+,,,18125 Pilkington Rd,"$905,000",,,
+4,$196,,18281 Wood Thrush Cir,"$440,000",2.5,"2,240",
+3,$274,,4731 Lamont Way,"$427,500",2,"1,560",
+3,$429,,17274 Canal Cir,"$625,000",2,"1,456",
+3,$241,,4291 SW Douglas Way,"$330,000",2,"1,365",
+2,$75,,4654 Lower Dr,"$95,000",1.5,"1,260",
+2,$201,,5079 W Sunset Dr,"$350,000",2.5,"1,734",
+3,$213,,4224 Lakeview Blvd,"$550,000",2,"2,580",
+3,$215,,16711 Mellon Ave,"$290,000",2,"1,346",
+3,$141,,6263 Washington Ct,"$293,000",3,"2,070",
+,,,6447 Frost St,"$480,100",,,
+4,$211,,5650 Victoria Ct,"$650,000",3,"3,080",
+2,$389,,18147 Pilkington Rd,"$465,000",1,"1,193",
+,$69,,16006 SW Kimball St,"$184,850",,"2,643",
+5,$174,,5330 Lower Dr,"$350,000",2,"2,010",
+4,$74,,4256 Woodside Cir,"$150,000",2,"2,016",
+4,$80,,16845 Wight Ln,"$215,000",2.5,"2,675",
+,$122,,4000 Carman Dr Apt 41,"$102,000",2,836,

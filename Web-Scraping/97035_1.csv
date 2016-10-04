@@ -1,0 +1,464 @@
+beds,$sqft,location,address,price,baths,sqft,days
+3,$183,Lake Oswego,20 Monticello DrListed by: Redfin,"$705,000",3.5,"3,848",44 days
+3,$183,Lake Oswego,2545 Orchard Hill LnListed by: Redfin,"$422,000",2,"2,297",59 days
+5,$170,Lake Oswego,20 Juarez St,"$590,000",4,"3,464",33 days
+2,$191,Lake Oswego,47 Greenridge Ct,"$225,000",1.5,"1,176",106 days
+5,$185,Lake Oswego,2 Creekside TerSold by: Redfin,"$540,000",2.5,"2,906",135 days
+3,$101,Lake Oswego,48 Eagle Crest Dr Apt 2D,"$165,000",2,"1,623",141 days
+3,$218,Lake Oswego,104 Garibaldi St,"$671,880",2.5,"3,074",162 days
+2,$234,MOUNTAIN PARK,21 Oriole LnSold by: Redfin,"$345,000",2,"1,473",197 days
+2,$174,MOUNTAIN PARK,45 Eagle Crest Dr Apt 208,"$182,500",2,"1,046",199 days
+3,$233,Jameson Ridge Townhomes,12802 SW Boones Ferry Rd,"$339,000",2.5,"1,454",267 days
+4,$161,"Mt. Park, Mountain Park",96 Garibaldi St,"$778,445",3.5,"4,819",284 days
+3,$282,Lake Oswego,25 Oriole Ln,"$412,000",2,"1,460",302 days
+2,$182,Mountain Park,10 Condolea Dr,"$240,000",2,"1,312",380 days
+6,$122,Lake Oswego,19 Monticello Dr,"$450,500",3,"3,678",432 days
+4,$219,Mountain Park,44 Aquinas St,"$410,000",2,"1,870",457 days
+3,$151,Lake Oswego,25 Partridge LnSold by: Redfin,"$476,000",2.5,"3,148",459 days
+3,$102,Mountain Park,103 Garibaldi St,"$340,000",3.5,"3,322",501 days
+4,$126,Lake Oswego,7 Bernini Ct,"$420,000",2.5,"3,314",506 days
+2,$267,Lake Oswego,12465 SW Boones Ferry Rd,"$280,000",1,"1,048",523 days
+3,$193,Mountain Park,47 Oriole Ln,"$378,000",2.5,"1,958",540 days
+3,$187,Lake Oswego,129 Kingsgate Rd,"$300,000",2,"1,604",599 days
+3,$188,MOUNTAIN PARK,47 Da Vinci St,"$462,000",2.5,"2,445",603 days
+4,$212,Mountain Park,20 Aquinas St,"$385,000",2.5,"1,814",634 days
+3,$152,Mountain Park,2 Morningview Cir,"$450,000",2.5,"2,954",680 days
+3,$210,Lake Oswego,43 Aquinas St,"$449,000",2.5,"2,138",716 days
+4,$204,Westlake,13053 Sierra Ct,"$452,500",2.5,"2,215",740 days
+4,$135,Mountain Park,12 Partridge Ln,"$450,000",2.5,"3,309",793 days
+2,$101,Lake Oswego,3101 McNary Pkwy Apt 12,"$176,000",2.5,"1,726",841 days
+3,$151,Lake Oswego,28 Greenridge Ct,"$288,500",2,"1,900",848 days
+4,$186,"Westlake, Bay Creek",13057 Sierra Vista Dr,"$469,000",2.5,"2,510",855 days
+2,$235,Lake Oswego,12892 Boones Ferry Rd #106,"$267,500",2.5,"1,136",883 days
+2,$255,Lake Oswego,12894 Boones Ferry Rd,"$290,000",2.5,"1,136",915 days
+3,$136,Lake Oswego,10 Juarez St,"$510,000",2.5,"3,740",925 days
+3,$152,Lake Oswego,45 Eagle Crest Dr Apt 522,"$205,000",2,"1,348",1032 days
+3,$172,Mountain Park,2 Abelard St,"$419,900",3.5,"2,435",1040 days
+4,$216,Westlake / Bay Creek Estates,5482 Bay Creek Dr,"$552,878",2.5,"2,554",1090 days
+3,$155,Mountain Park,9 Bernini Ct,"$493,000",2.5,"3,166",1093 days
+2,$148,Mountain Park,47 Eagle Crest Dr Unit 21,"$138,800",1,932,2 days
+4,$238,SUMMIT AT MOUNTAIN PARK,30 Morningview Cir,"$543,000",3,"2,276",3 days
+2,$172,MOUNTAIN PARK,3433 McNary Pkwy Apt 301,"$208,000",2.5,"1,208",5 days
+2,$173,Jefferson Park Condo,86 Cervantes Cir #86,"$158,000",1.5,912,5 days
+2,$172,Lake Oswego,42 Cervantes Cir Unit 4-B,"$157,000",1.5,912,9 days
+2,$209,Lake Oswego,24 Condolea Dr,"$303,000",2,"1,448",12 days
+2,$189,MT. PARK RECREATION CENTER,20 Crestfield Ct,"$175,000",1.5,923,15 days
+2,$161,Lake Oswego,61 Oswego Smt #61,"$196,000",2,"1,212",15 days
+3,$190,Greenridge Townhomes,44 Greenridge Ct,"$380,000",2.5,"1,996",15 days
+3,$156,MT. PARK,86 Greenridge Ct,"$414,000",2,"2,652",16 days
+2,$144,Lake Oswego,74 Galen St,"$143,464",2,995,24 days
+2,$167,Lake Oswego,44 Eagle Crest Dr Apt 32,"$152,000",1,908,24 days
+3,$211,Lake Oswego,32 Morningview Cir,"$587,500",2.5,"2,783",29 days
+2,$167,Lake Oswego,342 Cervantes Cir Unit 2-C,"$185,000",1.5,"1,104",29 days
+4,$224,MOUNTAIN PARK,32 Spinosa,"$570,000",3.5,"2,542",29 days
+2,$190,Mountain Park,309 Cervantes,"$229,900",2,"1,209",30 days
+2,$174,Ridgecrest,44 Eagle Crest Dr,"$158,000",1,908,32 days
+3,$304,Lake Oswego,7 Peacock Pl,"$422,000",2.5,"1,388",36 days
+4,$221,Lake Oswego,21 Partridge Ln,"$548,000",3,"2,478",37 days
+2,$129,Lake Oswego,47 Eagle Crest Dr Unit 17,"$120,500",1,932,38 days
+4,$257,Alto Park Acres,12747 SW 22nd Ave,"$1,170,000",3.5,"4,546",38 days
+2,$197,MOUNTAIN PARK,4083 Jefferson Pkwy #30,"$239,000",2.5,"1,210",43 days
+3,$208,MT. PARK,19 Aquinas St,"$497,100",2.5,"2,379",44 days
+2,$173,Mtn Park,334 Cervantes Cir Unit 13-A,"$144,350",1,832,44 days
+1,$205,Mountain Park,65 Galen St,"$141,500",1,689,45 days
+2,$191,Mountain Park,241 Cervantes,"$265,000",2,"1,384",45 days
+3,$181,Lake Oswego,48 Eagle Crest Dr Apt 5B,"$281,000",2,"1,550",46 days
+3,$240,Mountain Park,128 Kingsgate Rd,"$407,000",2.5,"1,689",50 days
+2,$147,Lake Oswego,30 Cervantes Cir Unit 5-B,"$164,000",1.5,"1,112",50 days
+2,$257,Lake Oswego,26 Preakness Ct,"$377,500",1.5,"1,464",50 days
+2,$241,MT. PARK,26 Northview Ct,"$506,000",3,"2,095",52 days
+2,$255,Lake Oswego,4 Morningview Pl,"$480,000",2.5,"1,880",52 days
+3,$205,Lake Oswego,67 Condolea Ter,"$487,500",3,"2,373",53 days
+3,$201,Lake Oswego,5 Partridge Ln,"$559,000",2.5,"2,780",53 days
+3,$178,Greenridge Townhomes Mt Park,90 Greenridge Ct,"$352,500",2.5,"1,980",54 days
+2,$160,MT. PARK RECREATION CENTER,77 Galen St,"$158,900",2,993,57 days
+2,$159,MOUNTAIN PARK,206 Oswego Smt #206,"$240,000",2,"1,506",61 days
+3,$239,Galen Park Estates,13005 Princeton Ct,"$549,000",2.5,"2,294",61 days
+3,$224,Arnold Creek / Stephenson,12511 Boones Ferry Rd,"$423,000",2,"1,887",67 days
+3,$189,Eagles Crest Condominium,45 Eagle Crest Dr Apt 519,"$275,000",2,"1,453",72 days
+2,$119,OSWEGO SUMMIT CONDO,167 Oswego Smt #167,"$180,000",2,"1,506",73 days
+2,$180,Mountain Park,165 Oswego Smt #165,"$250,000",2,"1,383",74 days
+2,$178,KINGSGATE,45 Crestfield Ct #45,"$165,000",1.5,923,78 days
+2,$244,MT PARK,12 Summit Ridge Ct,"$428,000",2.5,"1,750",81 days
+4,$195,Lake Oswego,72 Nansen Smt,"$879,000",3,"4,485",82 days
+2,$244,Mt Park,5 Summit Ridge Ct,"$385,000",2.5,"1,576",85 days
+1,$235,OSWEGO SUMMIT,57 Oswego Smt #57,"$180,000",1,764,85 days
+3,$299,Lake Oswego,5674 La Mesa Ct,"$540,000",2,"1,802",87 days
+2,$175,Lake Oswego,48 Eagle Crest Dr Apt 1C,"$245,000",2,"1,399",92 days
+4,$249,Lake Oswego,5876 Ridgetop Ct,"$819,000",2.5,"3,280",96 days
+3,$170,Ridgecrest Condo,44 Eagle Crest Dr Apt 28,"$185,000",2,"1,085",100 days
+3,$210,Lake Oswego,2 Eagle Crest Dr,"$385,000",2,"1,830",102 days
+1,$168,Lake Oswego,Undisclosed,"$129,050",1,764,106 days
+2,$149,Lake Oswego,36 Oswego Smt #36,"$170,000",2,"1,140",106 days
+4,$272,Mountain Park,44 Da Vinci St,"$546,000",2,"2,005",108 days
+2,$217,Lake Oswego,11 Summit Ridge Ct,"$342,500",2.5,"1,576",110 days
+2,$171,OSWEGO SUMMIT CONDO,191 Oswego Smt #191,"$258,000",2,"1,506",113 days
+2,$180,MOUNTAIN PARK,213 Cervantes,"$220,000",1.5,"1,216",115 days
+1,$232,OSWEGO SUMMIT CONDO,50 Oswego Smt #50,"$175,000",1,752,116 days
+2,$126,Lake Oswego,205 Oswego Smt,"$175,000",2,"1,383",120 days
+4,$255,West Lake,12844 Sierra Vista Dr,"$640,000",2.5,"2,501",120 days
+2,$128,Lake Oswego,73 Oswego Smt #73,"$155,500",2,"1,212",121 days
+4,$244,MOUNTAIN PARK,51 Tanglewood Dr,"$575,000",2.5,"2,351",123 days
+2,$217,Mountain Park,282 Cervantes,"$229,000",2,"1,052",123 days
+2,$107,Mountain Park,44 Oswego Smt #44,"$122,000",2,"1,140",130 days
+2,$143,Lake Oswego,205 Cervantes,"$175,000",1.5,"1,216",131 days
+4,$163,Mountain Park,24 Partridge Ln,"$528,000",2.5,"3,238",134 days
+2,$178,MT. PARK RECREATION CENTER,69 Galen St,"$164,900",1,923,135 days
+4,$206,Westlake - Bay Creek,5937 Bay Point Dr,"$701,000",2.5,"3,402",135 days
+3,$187,MOUNTAIN PARK,29 Spinosa,"$611,000",3,"3,262",141 days
+2,$178,Condolea,69 Condolea Ter,"$385,000",2.5,"2,157",141 days
+2,$240,MOUNTAIN PARK,8 Summit Ridge Ct,"$395,000",2.5,"1,642",148 days
+2,$148,MOUNTAIN PARK,67 Oswego Smt #67,"$180,000",2,"1,212",155 days
+1,$181,Mt. Park,104 Oswego Smt #104,"$145,000",1,800,159 days
+4,$154,Mountain Park,230 Cervantes,"$355,000",4,"2,304",163 days
+2,$172,MOUNTAIN PARK,44 Eagle Crest Dr Apt 1,"$156,500",1,908,176 days
+3,$182,GREENRIDGE TOWNHOMES MT PARK,59 Greenridge Ct,"$365,000",2.5,"2,004",176 days
+2,$185,MT. PARK RECREATION CENTER,31 Crestfield Ct,"$184,500",2,995,176 days
+2,$122,Lake Oswego,65 Oswego Smt #65,"$140,000",2,"1,140",179 days
+2,$262,MT. PARK,235 Cervantes,"$289,000",2,"1,100",183 days
+2,$136,Lake Oswego,48 Eagle Crest Dr Apt 5E,"$197,000",2,"1,443",191 days
+1,$169,Lake Oswego,44 Eagle Crest Dr Apt 6,"$135,000",1,798,197 days
+2,$94,OSWEGO SUMMIT,95 Oswego Smt,"$105,000",1.5,"1,116",198 days
+2,$210,Mt. Park,17 Summit Ridge Ct,"$327,500",2.5,"1,558",198 days
+2,$115,Lake Oswego,15 Oswego Smt #15,"$140,000",2,"1,212",201 days
+4,$214,Mountain Park,225 Hidalgo St,"$492,500",2.5,"2,299",204 days
+2,$111,MOUNTAIN PARK,115 Oswego Smt #115,"$135,000",2,"1,212",211 days
+3,$87,Lake Oswego,48 Eagle Crest Dr Apt 2C,"$142,500",2,"1,623",212 days
+3,$151,Lake Oswego,76 Condolea Dr,"$415,000",4.5,"2,746",226 days
+1,$200,MT. PARK RECREATION CENTER,61 Galen St,"$110,000",1,550,235 days
+2,$179,Mt. :Park Recreation Center,75 Galen St,"$178,500",2,993,236 days
+4,$181,Sundance Lot 2 Block2 Map 4226,2602 Orchard Hill Ln,"$529,000",3,"2,914",239 days
+3,$218,Lake Oswego,27 Aquinas St,"$342,000",2.5,"1,568",239 days
+1,$151,Mountain Park,66 Oswego Smt #66,"$115,500",1,764,240 days
+2,$107,Oswego Summit,192 Oswego Smt #192,"$148,600",2,"1,383",242 days
+3,$275,Mountain Park,42 Oriole Ln,"$355,000",2,"1,290",246 days
+2,$143,MOUNTAIN PARK,52 Cervantes Cir Unit 3-A,"$193,000",1.5,"1,344",246 days
+2,$162,Lake Oswego,53 Galen Rd #53,"$161,000",2,993,253 days
+3,$175,GREENRIDGE TOWNHOMES MT PARK,15 Greenridge Ct,"$350,000",2.5,"1,996",255 days
+4,$121,Lake Oswego,116 Greenridge Ct,"$344,900",2.5,"2,832",262 days
+4,$213,Westlake/Bay Creek Estates,12777 Sierra Vista Dr,"$671,000",2.5,"3,144",262 days
+3,$253,"MT PARK, MOUNTAIN PARK",23 Masaryk St,"$724,000",2.5,"2,861",288 days
+3,$149,MOUNTAIN PARK,6 Grouse Ter,"$534,900",3,"3,576",288 days
+4,$202,Lake Oswego,39 Nova Ct,"$525,000",2.5,"2,590",292 days
+2,$176,Mt. Park Recreation Center,17 Crestfield Ct,"$163,000",1,923,302 days
+3,$200,Lake Oswego,26 Spinosa,"$415,000",2.5,"2,065",304 days
+5,$208,BAY CREEK ESTATES,5724 La Mesa Ct,"$763,500",2.5,"3,669",304 days
+3,$169,Lake Oswego,120 Condolea Dr,"$500,000",3,"2,958",306 days
+3,$180,Mt Park,7 Hidalgo St,"$433,500",2.5,"2,408",309 days
+2,$173,Mt Park UNIT # 704,3433 McNary Pkwy Apt 704,"$174,900",2,"1,008",309 days
+2,$103,Lake Oswego,47 Eagle Crest Dr Unit 20,"$104,000",1,"1,009",313 days
+3,$230,Lake Oswego,5466 Bay Creek Dr,"$585,000",3,"2,535",318 days
+2,$148,MOUNTAIN PARK,3433 McNary Pkwy Apt 401,"$178,900",2.5,"1,208",318 days
+3,$166,Lake Oswego,319 Cervantes,"$201,000",2,"1,209",318 days
+2,$164,Park Place Condominiums,48 Eagle Crest Dr Apt 3B,"$245,000",2,"1,489",320 days
+2,$124,Lake Oswego,50 Cervantes Cir Unit 3-B,"$170,000",1.5,"1,368",320 days
+4,$263,Westlake,5635 Bay Creek Dr,"$800,000",2.5,"3,036",323 days
+3,$218,Summit at Mountain Park,38 Morningview Cir,"$525,000",3,"2,408",325 days
+2,$191,MOUNTAIN PARK,4097 Jefferson Pkwy,"$260,000",2.5,"1,359",325 days
+1,$135,Lake Oswego,47 Eagle Crest Dr Unit 51,"$90,000",1,666,327 days
+2,$313,Mountain Park,147 Kingsgate Rd,"$350,600",2,"1,120",330 days
+1,$112,Lake Oswego,44 Eagle Crest Dr Apt 10,"$90,000",1,798,330 days
+2,$194,MOUNTAIN PARK,4045 Jefferson Pkwy,"$230,000",2.5,"1,182",330 days
+1,$131,Mountain Park,47 Eagle Crest Dr Unit 14,"$87,500",1,666,331 days
+3,$158,Lake Oswego,39 SW Condolea Ct,"$347,500",3,"2,198",334 days
+2,$266,Jameson Ridge,12844 Boones Ferry Rd,"$306,900",2.5,"1,152",337 days
+4,$202,mountain park,35 Churchill Downs,"$460,000",3,"2,271",338 days
+,,Mountain Park,14 Juarez St,"$187,500",,,338 days
+2,$137,Mountain Park,48 Eagle Crest Dr Apt 4E,"$204,000",2,"1,489",338 days
+2,$116,Building 25,203 Oswego Smt #203,"$175,900",2,"1,506",339 days
+2,$122,Lake Oswego,48 Eagle Crest Dr Apt 4A,"$182,000",2,"1,489",340 days
+2,$193,Mountain Park,196 Cervantes,"$240,000",1.5,"1,241",344 days
+5,$207,Westlake,13010 Sierra Vista Dr,"$715,000",3.5,"3,450",344 days
+4,$181,Lake Oswego,13010 Sierra Ct,"$555,000",2.5,"3,065",345 days
+3,$158,Lake Oswego,48 Eagle Crest Dr Apt 1A,"$245,000",2,"1,550",346 days
+3,$223,Mountain Park,41 Spinosa,"$535,000",2.5,"2,389",347 days
+3,$225,Mt. Park 15,143 Kingsgate Rd,"$476,500",2,"2,110",348 days
+2,$120,Lake Oswego,103 Oswego Smt #103,"$135,000",1.5,"1,116",351 days
+4,$190,Mountain Park,31 Walking Woods Dr,"$550,000",3,"2,889",355 days
+2,$133,Mountain Park,47 Eagle Crest Dr Unit 27,"$126,500",1,947,358 days
+1,$124,Mountain Park,41 Oswego Smt #41,"$95,000",1,764,358 days
+1,$138,Lake Oswego,47 Eagle Crest Dr Unit 24,"$92,836",1,672,365 days
+4,$218,Westlake,5650 Bay Creek Dr,"$799,900",2.5,"3,668",365 days
+3,$195,Arnold Creek,2705 Orchard Hill Pl,"$440,000",2.5,"2,250",365 days
+2,$270,Jameson Ridge,12826 Boones Ferry Rd,"$307,000",2.5,"1,136",366 days
+4,$179,SEQUOIA WOODS,12448 Orchard Hill Rd,"$599,000",3,"3,336",366 days
+3,$166,Mountain Park,258 Cervantes,"$385,000",2.5,"2,312",366 days
+2,$283,Jameson Ridge,12828 Boones Ferry Rd,"$322,000",2.5,"1,136",372 days
+3,$197,Lake Oswego,27 Becket St,"$539,000",2,"2,724",374 days
+1,$176,Lake Oswego,44 Eagle Crest Dr Apt 29,"$140,500",1,798,379 days
+4,$186,Mountain Park,8 Hidalgo St,"$582,000",3.5,"3,123",379 days
+3,$245,Westlake,5020 Hampton Ct,"$552,000",2.5,"2,253",379 days
+1,$191,MOUNTAIN PARK,45 Eagle Crest Dr Apt 216,"$115,000",1,600,379 days
+2,$131,Oswego Summit,4 Oswego Smt #4,"$150,000",2,"1,140",379 days
+3,$234,Lake Oswego,236 Greenridge Dr,"$350,000",2,"1,492",380 days
+5,$194,Mountain Park,3 Mountain View Ln,"$715,000",4,"3,672",382 days
+4,$184,Mountain Park,11 Churchill Downs,"$430,500",2.5,"2,336",386 days
+3,$217,Lake Oswego,234 Greenridge Dr,"$325,000",2,"1,492",386 days
+2,$145,Mountain Park,47 Eagle Crest Dr Unit 18,"$135,950",1,932,393 days
+2,$152,Lake Oswego,4 Crestfield Ct #4,"$140,500",1,923,396 days
+3,$193,Greenridge,22 Greenridge Ct,"$309,000",2,"1,596",396 days
+3,$221,Lake Oswego,12519 SW 27th Pl,"$435,000",2.5,"1,964",396 days
+2,$176,MT. Park,3433 McNary Pkwy Apt 701,"$200,000",2.5,"1,136",396 days
+4,$232,Westlake,5441 Bay Creek Dr,"$725,000",2.5,"3,117",397 days
+2,$118,Mountain Park,336 Cervantes Cir Unit 2-F,"$132,000",1.5,"1,112",397 days
+2,$122,Mt. Park,208 Oswego Smt #208,"$169,900",2,"1,383",401 days
+3,$288,Lake Oswego,1 Peacock Pl,"$360,000",2.5,"1,248",401 days
+3,$134,Lake Oswego,272 Cervantes,"$163,000",2,"1,209",402 days
+4,$172,Arnold Creek,2705 Orchard Hill Ln,"$489,000",2.5,"2,841",410 days
+1,$168,Lake Oswego,16 Crestfield Ct,"$92,500",1,550,415 days
+3,$266,Mountain Park,10 Oriole Ln,"$410,000",2,"1,536",416 days
+1,$162,Lake Oswego,45 Eagle Crest Dr Apt 214,"$170,000",2,"1,046",417 days
+2,$166,Mt. Park Recreation Center,19 Crestfield Ct,"$154,000",1,923,425 days
+3,$208,Lake Oswego,15 Nansen Smt,"$647,100",2.5,"3,098",428 days
+2,$123,Mt. Park,47 Eagle Crest Dr Unit 43,"$115,000",1,932,432 days
+4,$157,Lake Oswego,12615 SW 21st Ct,"$725,000",3.5,"4,594",435 days
+2,$162,Mt. Park,48 Eagle Crest Dr Apt 3D,"$233,000",2,"1,434",438 days
+2,$122,KINGSGATE,54 Galen St,"$121,500",2,995,439 days
+3,$123,Lake Oswego,45 Eagle Crest Dr Apt 219,"$190,000",2,"1,537",439 days
+2,$137,Lake Oswego,44 Cervantes Cir Unit 4-A,"$125,000",1.5,912,443 days
+4,$270,Crestview Estates,77 Garibaldi St,"$817,000",2.5,"3,023",444 days
+2,$164,Mountain Park,44 Northview Ct,"$385,000",3,"2,340",444 days
+3,$159,Condolea,7 Condolea Dr,"$380,000",3,"2,388",444 days
+2,$130,Ridgecrest condo,44 Eagle Crest Dr Apt 39,"$142,000",2,"1,085",449 days
+3,$162,Lake Oswego,62 Greenridge Ct,"$260,000",2,"1,596",449 days
+2,$179,Mt Park,4107 Jefferson Pkwy,"$245,000",2.5,"1,367",450 days
+3,$165,Lake Oswego,9 Condolea Dr,"$364,500",3,"2,198",452 days
+3,$218,Westlake,5866 Ridgetop Ct,"$407,500",2,"1,866",452 days
+3,$155,Lake Oswego,321 Cervantes,"$385,000",2.5,"2,474",453 days
+1,$139,Lake Oswego,66 Galen St,"$96,000",1,689,456 days
+4,$178,Lake Oswego,13166 Peters Rd,"$460,000",2.5,"2,575",456 days
+3,$269,Jameson Ridge,12804 SW Boones Ferry Rd,"$316,000",2.5,"1,174",456 days
+2,$150,RIDGECREST CONDO,44 Eagle Crest Dr Apt 26,"$136,500",1,908,456 days
+3,$205,Mountain Park,17 Oriole Ln,"$370,000",2.5,"1,800",465 days
+3,$134,Lake Oswego,3 Condolea Dr,"$296,500",3,"2,198",467 days
+2,$131,Lake Oswego,120 Oswego Smt #120,"$149,900",2,"1,140",470 days
+3,$131,Lake Oswego,44 Eagle Crest Dr Apt 3,"$142,900",2,"1,085",471 days
+1,$126,Lake Oswego,47 Eagle Crest Dr Unit 52,"$84,000",1,666,472 days
+2,$144,Lake Oswego,320 Cervantes Cir Unit 12-B,"$120,000",1,832,473 days
+4,$201,Lake Oswego,11 Juarez St,"$525,000",2.5,"2,600",479 days
+2,$136,Lake Oswego,3433 McNary Pkwy Apt 208,"$138,000",2,"1,008",481 days
+2,$123,Lake Oswego,47 Eagle Crest Dr Unit 41,"$115,000",1,932,484 days
+3,$221,Mountain Park - Westlake area,134 Kingsgate Rd,"$397,100",2.5,"1,794",485 days
+4,$163,Lake Oswego-Mountain Park,6 Northview Ct,"$522,000",3.5,"3,200",485 days
+3,$93,Lake Oswego,48 Eagle Crest Dr Apt 2B,"$152,500",2,"1,623",485 days
+4,$182,Mountain Park,44 Oriole Ln,"$393,000",2.5,"2,156",486 days
+4,$209,Lake Oswego,11 Mountain View Ln,"$766,000",3.5,"3,659",486 days
+2,$162,Lake Oswego,3433 McNary Pkwy Apt 506,"$185,000",2.5,"1,136",491 days
+3,$159,Mountain Park,48 Spinosa,"$455,000",2.5,"2,848",494 days
+2,$142,"Kingsgate, Mt. Park",56 Galen St,"$142,500",2,"1,000",494 days
+2,$145,Lake Oswego,6 Cervantes Cir Unit 7-D,"$132,402",1.5,912,499 days
+5,$120,Lake Oswego,12460 SW Boones Ferry Rd,"$441,500",3,"3,650",501 days
+2,$159,Lake Oswego,43 SW Condolea Ct,"$345,000",2.5,"2,157",501 days
+2,$56,Mountain Park,169 Oswego Smt #169,"$75,000",2,"1,330",502 days
+2,$144,Oswego Summit,106 Oswego Smt #106,"$165,000",2,"1,140",507 days
+4,$196,Lake Oswego,12836 Sierra Vista Dr,"$425,000",2.5,"2,166",508 days
+2,$133,Mountain Park,368 Cervantes Cir Unit 14-B,"$117,999",1,882,512 days
+1,$70,Oswego Summit-Mtn Park,18 Oswego Smt #18,"$53,500",1,764,513 days
+3,$202,Orchard Hill,2508 Orchard Hill Pl,"$452,000",2.5,"2,229",515 days
+2,$115,Lake Oswego,116 Oswego Smt #116,"$132,000",2,"1,140",516 days
+1,$137,Lake Oswego,1 Crestfield Ct,"$95,000",1,689,519 days
+4,$230,Lake Oswego,13024 Rogers Rd,"$769,000",3.5,"3,333",519 days
+5,$162,Arnold Creek,12511 SW Shelby Ct,"$592,000",3.5,"3,641",520 days
+4,$159,Mountain Park,8 Walking Woods Dr,"$495,000",3,"3,105",521 days
+2,$157,Lake Oswego,45 Eagle Crest Dr Apt 308,"$165,000",2,"1,046",528 days
+5,$143,Lake Oswego,67 Nansen Smt,"$714,000",4,"4,992",529 days
+3,$156,Lake Oswego,123 Condolea Dr,"$335,000",3,"2,143",533 days
+4,$230,Westlake,5590 Kilchurn Ave,"$570,900",2.5,"2,472",533 days
+2,$150,Kingsgate Park Condo Stage 02,28 Crestfield Ct,"$150,000",2,995,535 days
+4,$212,Mountain Park,2 Pimlico Ter,"$490,000",2.5,"2,301",540 days
+4,$290,Mountain Park,63 Nansen Smt,"$931,290",3.5,"3,202",541 days
+2,$84,Mt. Park/Oswego Summit,181 Oswego Smt #181,"$117,500",2,"1,383",548 days
+2,$160,Lake Oswego,4077 Jefferson Pkwy,"$234,500",2.5,"1,462",557 days
+2,$129,Oswego Summit,40 Oswego Smt,"$148,000",2,"1,140",564 days
+3,$129,Ridgecrest,44 Eagle Crest Dr Apt 11,"$140,866",2,"1,085",565 days
+2,$106,Lake Oswego,43 Crestfield Ct,"$98,000",1,923,576 days
+2,$149,Mt. Park Recreation Center,76 Galen Rd #76,"$148,000",2,989,582 days
+2,$152,Mountain Park,4089 Jefferson Pkwy,"$207,500",2.5,"1,361",582 days
+4,$101,Lake Oswego,3 Bolivar St,"$485,000",3.5,"4,782",591 days
+3,$145,Lake Oswego,205 Hidalgo St,"$440,000",3.5,"3,032",593 days
+4,$224,Mountain Park,27 Oriole Ln,"$415,000",2.5,"1,851",600 days
+3,$200,Mountain Park,37 Churchill Downs,"$475,000",2.5,"2,372",604 days
+2,$200,Summit Ridge Townhomes,21 Summit Ridge Ct,"$332,000",2.5,"1,654",606 days
+2,$136,Mountain Park,216 Cervantes Unit A,"$182,000",1,"1,336",610 days
+5,$140,Mountain Park,2 Walking Woods Dr,"$580,000",3,"4,116",612 days
+2,$119,Lake Oswego,98 Oswego Smt #98,"$136,000",2,"1,140",617 days
+2,$70,Lake Oswego,87 Oswego Smt #87,"$79,000",1.5,"1,116",624 days
+3,$189,Mountain Park,137 Kingsgate Rd,"$449,000",2.5,"2,372",627 days
+1,$106,Lake Oswego,44 Eagle Crest Dr Apt 15,"$85,000",1,798,631 days
+2,$126,Mt. Park,45 Eagle Crest Dr Apt 409,"$153,000",2,"1,214",633 days
+3,$169,Mountain Park,92 Greenridge Ct #92,"$335,000",2.5,"1,980",635 days
+2,$103,Mountain Park,94 Oswego Smt #94,"$117,500",2,"1,140",638 days
+4,$155,Lake Oswego,12391 SW Clara Ln,"$424,570",2.5,"2,734",645 days
+4,$137,Lake Oswego,38 Northview Ct,"$430,000",4,"3,125",645 days
+3,$212,Westlake,5440 Bay Creek Dr,"$520,000",2.5,"2,442",648 days
+4,$184,Summit at Mountain Park,24 Morningview Cir,"$520,000",3.5,"2,817",648 days
+4,$145,Lake Oswego,244 Cervantes,"$337,000",4,"2,320",653 days
+3,$162,Orchard Hill,2822 Orchard Hill Pl,"$454,900",2.5,"2,806",653 days
+5,$149,Lake Oswego,3 Walking Woods Dr,"$575,000",3,"3,853",653 days
+4,$174,Lake Oswego,12402 SW Shelby Ct,"$544,000",3,"3,120",653 days
+2,$164,Mountain Park,10 Cervantes Cir Unit 7-B,"$149,900",1.5,912,654 days
+4,$168,Haley Estates,12642 SW 21st Ct,"$539,000",2.5,"3,192",654 days
+3,$213,Royal Heights,5023 Hampton Ct,"$487,000",2,"2,284",656 days
+3,$256,Mountain Park,1 Eagle Crest Dr,"$324,000",2,"1,265",656 days
+4,$380,Mountain Park,218 Greenridge Dr,"$475,000",2,"1,250",656 days
+1,$167,Lake Oswego,45 Eagle Crest Dr Apt 218,"$128,500",1,768,656 days
+2,$122,ridgecrest condominiums,44 Eagle Crest Dr Apt 41,"$111,000",1,908,659 days
+2,$79,Oswego Summit,155 Oswego Smt #155,"$120,460",2,"1,506",667 days
+4,$144,Lake Oswego,32 Northview Ct,"$442,000",3.5,"3,063",681 days
+3,$213,Mountain Park,10 Abelard St,"$400,000",2,"1,874",687 days
+2,$118,Mt. Park,245 Cervantes,"$153,500",2,"1,292",687 days
+3,$188,Summit at Mountain Park,33 Morningview Cir,"$515,000",2.5,"2,737",687 days
+2,$164,Mountain Park,366 Cervantes Cir Unit 14-C,"$136,500",1,832,694 days
+1,$91,Lake Oswego,52 Oswego Smt #52,"$64,000",1,700,708 days
+3,$137,Lake Oswego,77 Condolea Dr,"$295,000",3,"2,143",708 days
+2,$130,Lake Oswego,73 Condolea Dr #73,"$277,224",2,"2,131",709 days
+2,$144,Lake Oswego,50 SW Condolea Ct,"$398,000",3,"2,760",715 days
+3,$155,Mtn Park,25 Monticello Dr,"$405,000",2.5,"2,606",716 days
+4,$188,MOUNTAIN PARK,54 Aquinas St,"$495,000",2.5,"2,632",716 days
+5,$110,Lake Oswego,11 Masaryk St,"$535,000",4,"4,823",716 days
+3,$200,MT. PARK,135 Kingsgate Rd,"$344,500",2.5,"1,720",722 days
+3,$193,Bay Creek,5415 Bay Creek Dr,"$600,000",2.5,"3,105",723 days
+2,$133,Mountain Park,370 Cervantes Cir Unit 14-A,"$111,000",1,832,723 days
+3,$202,Mountain Park,164 Kingsgate Rd,"$355,000",2,"1,757",729 days
+5,$222,Bay Creek Estates,5807 Ridgetop Ct,"$590,000",2.5,"2,650",729 days
+3,$130,Eagle Crest Condominium,45 Eagle Crest Dr Apt 100,"$200,000",2,"1,537",736 days
+2,$119,Mountain Park,174 Oswego Smt #174,"$179,900",2,"1,506",736 days
+2,$145,Lake Oswego,44 Eagle Crest Dr Apt 37,"$131,900",1,908,738 days
+2,$114,Mountain Park,45 Eagle Crest Dr Apt 405,"$150,000",1.5,"1,308",746 days
+3,$155,Greenridge Townhouses,46 Greenridge Ct,"$333,000",2.5,"2,136",747 days
+4,$128,Mt. Park  Greenridge HOA,60 Greenridge Ct,"$295,000",2.5,"2,296",750 days
+3,$142,Greenridge Townhouses,77 Greenridge Ct,"$300,000",2.5,"2,102",751 days
+3,$167,Lake Oswego,221 Hidalgo St,"$448,000",2.5,"2,680",752 days
+3,$113,Mountain Park,3101 McNary Pkwy Apt 9,"$215,000",2.5,"1,894",753 days
+3,$157,Greenridge,53 Greenridge Ct,"$260,000",2,"1,646",759 days
+3,$181,MOUNTAIN PARK,11 Abelard St,"$360,000",2.5,"1,985",759 days
+4,$160,Mountain Park,4 Churchill Downs,"$512,000",3.5,"3,188",761 days
+3,$211,Orchard Hill,2803 Orchard Hill Pl,"$369,900",2.5,"1,749",775 days
+3,$143,Mountainside Terrace,4047 Jefferson Pkwy #4,"$176,750",2.5,"1,228",775 days
+2,$180,Lake Oswego,198 Cervantes,"$229,000",1.5,"1,266",778 days
+3,$177,Mt Park,18 Morningview Cir,"$520,000",2.5,"2,931",779 days
+3,$140,Mountain Park,9 Masaryk St,"$378,500",3,"2,692",779 days
+3,$250,Forestbrook,13152 Vermeer Dr,"$525,000",2.5,"2,092",779 days
+3,$216,MT. PARK,136 Kingsgate Rd,"$340,000",2.5,"1,570",780 days
+3,$208,Forestbrook,13134 Vermeer Dr,"$412,000",2.5,"1,972",780 days
+4,$200,Mountain Park,99 Garibaldi St,"$526,000",2.5,"2,626",782 days
+2,$164,Lake Oswego,46 Cervantes Cir Unit 3-D,"$150,000",1.5,912,785 days
+4,$208,Westlake,5796 Bay Point Dr,"$485,000",2.5,"2,328",786 days
+2,$107,Oswego Summit,109 Oswego Smt #109,"$130,000",2,"1,212",786 days
+4,$156,Mt. Park,3 Creekside Ter,"$680,127",3.5,"4,355",787 days
+2,$114,MOUNTAIN PARK,225 Cervantes,"$139,000",1.5,"1,216",799 days
+3,$165,Mountain Park,39 Greenridge Ct,"$275,000",1.5,"1,664",806 days
+3,$163,Lake Oswego,2823 Orchard Hill Pl,"$375,000",2.5,"2,288",807 days
+3,$116,Lake Oswego,46 SW Condolea Ct,"$345,000",3,"2,958",808 days
+2,$135,Kingsgate Park Condos,78 Galen St,"$135,000",2,995,808 days
+6,$157,Lake Oswego,214 Greenridge Dr,"$585,000",4,"3,714",813 days
+5,$111,Mountain Park,5 Abelard St,"$519,000",3,"4,660",813 days
+2,$152,Lake Oswego,12 Condolea Dr,"$200,000",2,"1,312",820 days
+5,$196,WESTLAKE,12967 Rogers Rd,"$775,000",3.5,"3,945",820 days
+2,$125,Mountain Parks,3433 McNary Pkwy Apt 206,"$126,000",2,"1,008",828 days
+2,$113,Mountain Park,149 Oswego Smt #149,"$137,000",2,"1,212",855 days
+3,$160,Lake Oswego,61 Condolea Ter,"$380,000",2.5,"2,373",859 days
+3,$117,Park Place Condos,48 Eagle Crest Dr Apt 1B,"$190,000",2,"1,623",865 days
+1,$111,Lake Oswego,88 Oswego Smt #88,"$85,000",1,764,866 days
+4,$202,Mountain Park,1 Preakness Ct,"$480,000",3,"2,373",869 days
+5,$155,Mountain Park,55 Aquinas St,"$579,900",3,"3,720",869 days
+2,$107,Oswego Summit,97 Oswego Smt #97,"$130,000",2,"1,212",878 days
+3,$192,Lake Oswego,6 Pheasant Run,"$333,000",2.5,"1,734",892 days
+3,$144,GREENRIDGE,17 Greenridge Ct,"$275,000",3,"1,900",899 days
+2,$157,Jefferson Park,16 Cervantes Cir Unit 6E,"$144,000",1.5,912,907 days
+2,$107,Mt park,3433 McNary Pkwy Apt 305,"$130,000",2.5,"1,208",911 days
+4,$167,Mt Park,24 Becket St,"$423,000",2.5,"2,527",925 days
+3,$131,Mt. Park,45 Eagle Crest Dr Apt 501,"$176,900",2,"1,348",926 days
+2,$143,Lake Oswego,3433 McNary Pkwy Apt 702,"$163,000",2.5,"1,136",928 days
+3,$219,Bay Creek Estates,13036 Sierra Ct,"$485,000",2,"2,214",933 days
+3,$185,Lake Oswego,133 Kingsgate Rd,"$335,500",2.5,"1,812",935 days
+,,Crestview Estates,2 Hidalgo St #2,"$170,000",,,947 days
+4,$131,Lake Oswego,6 Juarez St,"$507,500",3.5,"3,865",953 days
+2,$116,Mountain Park,3433 McNary Pkwy Apt 405,"$141,000",2.5,"1,208",971 days
+2,$85,Ridgeview Condos,47 Eagle Crest Dr Unit C31,"$86,000",1,"1,009",981 days
+4,$173,Bay Creek Estates,13008 Rogers Rd,"$425,000",2.5,"2,448",981 days
+2,$182,Summit Ridge Townhomes,15 Summit Ridge Ct,"$320,000",2.5,"1,750",983 days
+2,$111,KINGSGATE PARK CONDO,47 Crestfield Ct,"$103,000",1,923,991 days
+2,$167,Eaglecrest Condo,45 Eagle Crest Dr Apt 508,"$175,000",2,"1,046",995 days
+2,$120,Mountain Park,143 Oswego Smt #143,"$146,000",2,"1,212",995 days
+5,$137,Mt. Park,45 Tanglewood Dr,"$433,900",3.5,"3,166",996 days
+2,$129,Mountain Park,220 Cervantes Unit C,"$178,000",2,"1,378",997 days
+3,$279,MT. PARK,8 Bernini Ct,"$410,000",2,"1,465",999 days
+3,$146,Mountain Park,98 Garibaldi St,"$545,000",2.5,"3,713",1002 days
+,,Lake Oswego,16 Nansen Smt #16,"$225,000",,,1003 days
+,,Mt. Park,17 Nansen Smt #17,"$225,000",,,1003 days
+3,$172,Mountain Park,6 Oriole Ln,"$265,000",2.5,"1,539",1009 days
+3,$211,MOUNTAIN PARK,9 Eagle Crest Dr,"$315,000",2,"1,492",1009 days
+3,$112,Mt. Park,47 Eagle Crest Dr Unit 60,"$115,000",2,"1,026",1012 days
+2,$112,Lake Oswego,159 Oswego Smt #159,"$170,000",2,"1,506",1016 days
+3,$180,Mountain Park,1 Hidalgo St,"$448,500",2.5,"2,489",1017 days
+2,$127,Baldwin Heights,262 Cervantes,"$252,000",2.5,"1,984",1020 days
+1,$137,Mountain Park,45 Eagle Crest Dr Apt 204,"$105,500",1,768,1024 days
+4,$117,Mt. Park,48 Aquinas St,"$310,000",2,"2,635",1025 days
+3,$217,Westlake Bay Creek Estates,13043 Rogers Rd,"$480,500",2,"2,213",1027 days
+2,$88,Lake Oswego,284 Cervantes,"$92,650",2,"1,052",1037 days
+1,$127,Lake Oswego,13 Crestfield Ct,"$70,000",0.5,550,1038 days
+2,$145,Mt. Park,3433 SW McNary Pkwy #504,"$165,000",2.5,"1,136",1041 days
+3,$212,Lake Oswego,12808 SW Boones Ferry Rd,"$250,000",2.5,"1,174",1041 days
+3,$203,Mountain Park,33 Spinosa,"$450,000",2.5,"2,215",1044 days
+4,$280,Lake Oswego,12210 Orchard Hill Rd,"$1,300,000",4,"4,640",1051 days
+2,$102,Lake Oswego,37 Crestfield Ct,"$95,000",1,923,1051 days
+1,$108,KINGSGATE,57 Galen St,"$75,000",1,689,1052 days
+3,$241,"Mountain Park,  Westlake",16 Aquinas St,"$400,000",2.5,"1,658",1060 days
+2,$100,Mt. Park,205 Cervantes #205,"$122,050",1.5,"1,216",1062 days
+3,$186,Mountain Park,45 Aquinas St,"$556,500",2.5,"2,981",1065 days
+2,$165,Lake Oswego,26 Condolea Dr,"$235,500",2,"1,420",1065 days
+1,$106,Lake Oswego,47 Eagle Crest Dr Apt 48,"$73,800",1,696,1066 days
+2,$140,Mountain Park,247 Cervantes,"$194,700",2,"1,384",1067 days
+5,$136,Mountain Park,20 Walking Woods Dr,"$430,000",3,"3,144",1074 days
+2,$164,Lake Oswego,12868 Boones Ferry Rd,"$187,000",2.5,"1,136",1077 days
+2,$150,Mountain Park,13 Erasmus St,"$216,500",2.5,"1,434",1079 days
+3,$180,Mountain Park,31 Oriole Ln,"$355,000",3,"1,968",1086 days
+3,$128,Mt. Park,45 Eagle Crest Dr Apt 119,"$172,900",2,"1,348",1093 days
+3,$195,Mountain Park,15 Spinosa,"$449,000",3,"2,300",1094 days
+2,$136,,216 Cervantes,"$182,000",1.5,"1,336",
+2,$154,,3433 McNary Pkwy Apt 602,"$175,000",2.5,"1,136",
+3,$195,,12443 Orchard Hill Rd,"$344,000",2,"1,756",
+3,$116,,46 SW Condolea Ct,"$345,000",3,"2,958",
+1,$122,,47 Eagle Crest Dr Unit 40,"$85,000",1,696,
+,$518,,1 Jefferson Pkwy,"$63,000,000",,"121,443",
+3,$169,,2707 Orchard Hill Pl,"$390,875",2,"2,312",
+4,$172,,54 Aquinas St,"$495,000",2.5,"2,870",
+3,$124,,73 Condolea Dr,"$265,000",3,"2,131",
+3,$195,,295 Cervantes,"$275,000",2.5,"1,406",
+4,$111,,5449 Bay Creek Dr,"$270,000",2.5,"2,422",
+2,$283,,111 Garibaldi St,"$415,000",2.5,"1,464",
+5,$104,,16 Monticello Dr,"$427,000",3.5,"4,098",
+2,$146,,70 Galen St,"$135,000",1,923,
+2,$129,,220 Cervantes,"$178,000",2,"1,378",
+,,,12 Hidalgo St,"$170,000",,,
+,$198,,5460 Bay Creek Dr,"$425,000",2.5,"2,145",
+3,$169,,92 Greenridge Ct,"$335,000",2.5,"1,980",
+4,$171,,13250 Princeton Ct,"$495,000",2.5,"2,884",
+,$193,,12424 Orchard Hill Rd,"$581,340",3,"3,004",
+3,$185,,19 Greenridge Ct,"$250,000",2,"1,348",
+2,$201,,52 Galen St,"$200,000",2,995,
+2,$145,,3433 McNary Pkwy Apt 504,"$165,000",2.5,"1,136",
+2,$85,,47 Eagle Crest Dr Unit 31,"$86,000",1,"1,009",
+2,$152,,4 Crestfield Ct,"$140,500",1,923,
+2,$148,,76 Galen St,"$148,000",2,995,
+2,$129,,40 Oswego Smt #40,"$148,000",2,"1,140",
+2,$149,,3433 McNary Pkwy Apt 604,"$170,000",2.5,"1,136",
+3,$187,,11 Abelard St,"$360,000",2.5,"1,923",
+2,$165,,3433 McNary Pkwy Apt 802,"$188,000",2.5,"1,136",
+3,$119,,49 SW Condolea Ct,"$285,000",3,"2,388",
+3,$121,,3433 McNary Pkwy Apt 307,"$163,000",2,"1,344",
+5,$200,,25 Becket St,"$463,150",3,"2,315",
+3,$175,,29 Greenridge Ct,"$279,900",2,"1,596",
+3,$166,,224 Greenridge Dr,"$235,000",2,"1,410",
+3,$127,,5408 Bay Creek Dr,"$295,000",2.5,"2,322",
+3,$237,,42 Northview Ct,"$505,000",3.5,"2,125",
+2,$146,,195 Oswego Smt #195,"$220,467",2,"1,506",
+2,$128,,47 Eagle Crest Dr Unit 63,"$106,875",1,830,
+1,$106,,47 Eagle Crest Dr Unit 48-C,"$73,800",1,696,
+2,$186,,30 Condolea Dr,"$265,000",2,"1,420",
+2,$114,,360 Cervantes Cir Unit 14-F,"$95,000",1,832,
+3,$175,,14 Greenridge Ct,"$317,907",2.5,"1,815",
+4,$307,,5 Grouse Ter,"$479,000",3,"1,556",
+,,,92 Greenridge Ct,"$335,000",,,
+,$506,,65 Nansen Smt,"$849,158",3.5,"1,678",

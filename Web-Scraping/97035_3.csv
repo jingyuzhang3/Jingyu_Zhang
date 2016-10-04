@@ -1,0 +1,454 @@
+beds,$sqft,location,address,price,baths,sqft,days
+4,$185,Lake Oswego,18978 Indian Springs RdListed by: Redfin,"$529,900",3,"2,860",44 days
+4,$205,Lake Oswego,5157 Woodcrest LnListed by: Redfin,"$645,000",2.5,"3,144",449 days
+4,$199,Lake Oswego,4252 Albert Cir,"$590,000",2.5,"2,964",30 days
+4,$264,Lake Oswego,5829 Benfield Ct,"$461,000",2.5,"1,744",50 days
+4,$297,Lake Oswego,5182 Tree St,"$520,000",2,"1,750",57 days
+4,$215,Riverwood Park,18106 Pilkington Rd,"$770,000",4.5,"3,575",57 days
+4,$327,Tualata Grove,18547 Timbergrove Ct,"$468,455",2,"1,432",64 days
+4,$194,BRYANT ACRES,5124 Lakeview Blvd,"$570,000",3,"2,932",95 days
+3,$224,RIVERGROVE,6413 McDuff Ct,"$694,500",2.5,"3,091",114 days
+3,$300,Lake Oswego,6210 Childs Rd,"$390,000",1.5,"1,296",120 days
+3,$215,Indian Meadows,5340 Chinook Ct,"$401,000",2,"1,862",169 days
+3,$195,South Shore,4331 Lords Ln,"$452,500",3,"2,320",192 days
+3,$270,Pilkington Glen,18086 Jenifers Way,"$699,000",2.5,"2,582",316 days
+4,$267,Rosewood,5051 Tualata Ln,"$423,000",2,"1,581",393 days
+4,$269,Lake Oswego,18430 Pilkington Rd,"$795,000",3,"2,946",421 days
+4,$177,WOODSIDE,4283 Woodside Cir,"$359,900",2,"2,032",428 days
+4,$227,Oxford Downs,4258 Albert Cir,"$625,000",2.5,"2,745",509 days
+3,$282,Lake Oswego,5487 Tualata Ct,"$339,455",2,"1,200",514 days
+3,$248,Lake Oswego,18275 SW Terry Ct,"$315,000",1.5,"1,270",540 days
+3,$247,Lake Oswego,5048 Tree St,"$305,000",1.5,"1,232",571 days
+3,$273,Lake Oswego,5344 Tualata CtSold by: Redfin,"$344,927",2,"1,263",584 days
+3,$241,Lake Grove,6243 SW Dawn St,"$302,500",1.5,"1,254",627 days
+3,$270,Lake Oswego,18543 Don Lee WaySold by: Redfin,"$250,000",1,924,631 days
+3,$252,Lake Oswego,18963 Longfellow Ave,"$311,000",1.5,"1,232",638 days
+3,$234,Rosewood,5713 Kenny St,"$325,000",2,"1,384",659 days
+3,$210,Lake Oswego,18978 Indian Springs Cir,"$400,000",2,"1,900",662 days
+4,$142,Indian Creek,19180 Indian Creek Ave,"$342,000",3,"2,392",673 days
+4,$178,Rivergrove,17900 Canal Rd,"$535,000",3,"2,992",687 days
+4,$161,Lake Oswego,18893 Indian Springs Cir,"$460,000",3,"2,841",695 days
+3,$212,Lake Oswego,5284 Red Leaf StSold by: Redfin,"$455,000",2.5,"2,142",759 days
+3,$269,River Grove,5875 Kenny StSold by: Redfin,"$300,000",1,"1,113",759 days
+3,$192,Lake Oswego,17653 Mardee Ave,"$336,000",2,"1,742",864 days
+3,$177,Bryant Woods,18600 Indian Creek Dr,"$285,000",2,"1,607",953 days
+3,$212,Lake Grove,5139 Tualata Ln,"$324,000",2,"1,524",990 days
+5,$181,Bryant Woods,4860 Centerwood St,"$460,000",2.5,"2,533",1037 days
+4,$201,Lake Oswego,5272 Tualata Ln,"$510,000",3,"2,529",1081 days
+3,$275,LAKE GROVE,17470 Hill Way,"$430,000",2,"1,561",8 days
+4,$290,Lake Oswego,4667 Shepherds Ln,"$869,900",3,"2,999",24 days
+5,$236,LAKE OSWEGO,17763 Mardee Ave,"$545,000",3,"2,300",26 days
+3,$260,RIVERGROVE,18906 Kristi Way,"$485,000",2,"1,864",26 days
+,,Lake Oswego,5566 Luce Ln,"$328,250",,,36 days
+4,$234,Grove Park,5598 Luce Ln,"$790,000",3,"3,372",45 days
+3,$293,Lake Grove Acreage Estates,17614 SW Schalit Way,"$460,000",2,"1,569",51 days
+3,$227,Lake Oswego,5266 Charleton Ct,"$470,000",2,"2,063",57 days
+6,$148,Lake Oswego,6720 Childs Rd,"$1,027,000",5.5,"6,915",59 days
+3,$186,Lake Oswego,18820 65th Ave,"$422,150",3,"2,268",61 days
+3,$266,RIVERGROVE,4902 Childs Rd,"$375,000",1.5,"1,407",71 days
+6,$209,BRYANT WOODS,18161 Deerbrush Ave,"$462,000",2,"2,204",72 days
+4,$162,Bryantwoods,4871 Centerwood St,"$425,000",3,"2,619",73 days
+3,$201,Lake Oswego,4251 Woodside Cir,"$417,500",2,"2,068",73 days
+4,$258,Bryant Woods,18386 Deerbrush Ave,"$625,000",3,"2,420",79 days
+3,$249,Lake Oswego,18630 Kristi Way,"$435,000",2,"1,743",80 days
+3,$328,Lake Oswego,19060 Indian Springs Cir,"$445,000",2,"1,355",82 days
+2,$193,Sparrow Run Condo,6925 SW Montauk Cir,"$187,000",1,968,87 days
+4,$270,Lake Oswego,4725 Jean Rd,"$388,200",2,"1,433",89 days
+3,$355,Lake Oswego,6343 Hiawatha Ct,"$375,362",1,"1,056",92 days
+3,$161,Lake Oswego,4640 SW Dogwood Dr,"$570,000",3,"3,531",94 days
+2,$340,RIVERGROVE,18922 Kristi Way,"$475,000",2,"1,397",96 days
+3,$273,Lake Oswego,17755 Hill Way,"$521,000",3,"1,907",110 days
+5,$312,CHAPMAN ESTATES,19342 SW Lorna Ln,"$1,285,000",3.5,"4,114",116 days
+4,$223,Lake Oswego,4657 SW Dogwood Dr,"$870,000",4,"3,890",120 days
+4,$302,Lake Oswego,5311 Childs Rd,"$534,500",2.5,"1,766",121 days
+5,$234,Lake Oswego,4208 Albert Cir,"$650,000",3,"2,777",122 days
+3,$700,Lake Oswego,17622 Lake Haven Dr,"$980,000",2,"1,400",124 days
+3,$257,Rivergrove Woods East,5004 Woodcrest Ln,"$650,000",2.5,"2,522",134 days
+2,$222,Lake Oswego,6155 SW McEwan Rd,"$288,000",2,"1,294",137 days
+3,$283,RIVER GROVE,19416 Tualamere Ave,"$368,000",0.5,"1,296",148 days
+4,$204,Lake Oswego,17568 Erin Ct,"$615,000",3,"3,008",159 days
+4,$263,Bryant Woods - Westbay,17446 Bryant Rd,"$925,000",4,"3,506",162 days
+3,$227,Lake Oswego,4333 Woodside Cir,"$349,000",2,"1,532",164 days
+5,$196,Lake Oswego,19285 Megly Ct,"$645,000",3,"3,275",165 days
+3,$301,ROSEWOOD,18088 Belmore Ave,"$393,000",1.5,"1,304",169 days
+3,$370,ROSEWOOD,5329 Charleton Ct,"$415,000",2,"1,120",169 days
+4,$220,Lake Oswego,19251 Indian Creek Ave,"$341,000",2,"1,550",176 days
+3,$272,ROSEWOOD,6355 SW Dawn St,"$345,900",2,"1,268",183 days
+3,$339,ROSEWOOD,5849 Fernbrook Cir,"$421,000",1.5,"1,239",194 days
+3,$263,River Grove,6150 Kenny St,"$545,000",2.5,"2,070",198 days
+3,$280,Lake Oswego,18802 SW Red Wing Way,"$435,000",2,"1,550",227 days
+3,$281,Lake Haven,17520 Redfern Ave,"$499,999",2,"1,776",235 days
+4,$244,Lake Oswego,5934 Kenny St,"$391,000",2,"1,596",241 days
+2,$243,Ponderosa Villa,19229 Longfellow Ave,"$423,000",2,"1,740",243 days
+3,$136,Oswego Bay Condominiums,5225 Jean Rd Apt 201,"$205,000",2,"1,500",246 days
+6,$194,BRYANT WOODS,18223 Indian Creek Dr,"$525,000",2,"2,700",249 days
+3,$326,Lake Oswego,18305 Fernbrook Ct,"$425,000",2,"1,300",253 days
+4,$223,BRYANT WOODS/INDIAN CREEK,18529 Deerbrush Ave,"$550,000",2.5,"2,461",254 days
+4,$249,Pilkington Glen,18009 Braeden Ct,"$820,000",2.5,"3,286",256 days
+3,$210,Rosewood,18275 Pilkington Rd,"$440,000",2,"2,088",262 days
+3,$263,Lake Oswego,5253 Timbergrove St,"$372,000",2,"1,410",262 days
+3,$246,Lake Oswego,18561 Kristi Way,"$355,000",2.5,"1,440",263 days
+4,$224,Lake Oswego,5063 Centerwood St,"$470,000",3,"2,094",264 days
+3,$321,Lake Oswego,5882 Kennycroft Way,"$409,000",2,"1,272",267 days
+4,$224,Lake Oswego,5336 Tree StSold by: Redfin,"$379,950",2,"1,696",269 days
+3,$227,Lake Oswego,18620 Indian Creek Dr,"$469,900",2,"2,064",274 days
+3,$210,Bryant Woods,4226 Woodside Cir,"$332,500",2,"1,578",275 days
+3,$231,Indian Meadows,5280 Chinook Ct,"$337,500",1.5,"1,457",277 days
+3,$209,Woodside Circle,4291 Woodside Cir,"$425,000",2,"2,026",277 days
+4,$135,RIVERGROVE,18910 SW Terry Ave,"$579,900",3.5,"4,290",278 days
+3,$308,Lake Grove,18690 Don Lee Way,"$350,000",2,"1,136",282 days
+3,$174,Lake Oswego,4840 SW Dogwood Dr,"$475,000",3,"2,716",302 days
+3,$321,River Grove,19113 SW Terry Ave,"$434,000",2,"1,352",310 days
+4,$235,Lake Oswego,18707 Tualata Ave,"$605,000",3,"2,569",311 days
+3,$283,Rivergrove,19431 Tualamere Ave,"$340,000",1.5,"1,200",317 days
+3,$370,Lake Oswego,6053 SW Fernbrook St,"$338,000",1,912,318 days
+3,$251,Lake Oswego,17872 Pilkington Rd,"$265,100",2,"1,056",323 days
+3,$342,Lake Oswego,5467 Kenny St,"$329,000",1,960,337 days
+5,$236,Renaissance Woods,5148 Woodcrest Ln,"$735,111",3,"3,110",348 days
+3,$242,Lake Oswego,7140 Childs Rd,"$630,000",3,"2,600",351 days
+3,$209,Lake Oswego,4545 SW Dogwood Dr,"$519,000",2,"2,483",352 days
+4,$237,River Grove,5861 Benfield Ct,"$370,000",2,"1,557",353 days
+3,$223,Lake Oswego,5132 Timbergrove St,"$320,000",2,"1,430",358 days
+3,$157,Oswego Bay Condominiums,5225 Jean Rd Apt 203,"$219,950",2,"1,400",358 days
+3,$294,Lake Oswego,5392 Tree St,"$362,500",1.5,"1,232",368 days
+3,$229,Oxford Downs,4220 Albert Cir,"$553,000",3,"2,406",369 days
+4,$238,Chapman Estates,19320 SW Lorna Ln,"$1,000,000",3.5,"4,192",379 days
+2,$218,Lake Oswego,6145 SW McEwan Rd,"$405,000",2.5,"1,850",381 days
+4,$232,Lake Grove,6484 McDuff Ct,"$724,100",4,"3,120",386 days
+4,$252,Pilkington Glen,5590 Koderra Ave,"$829,000",2.5,"3,289",387 days
+4,$254,Bryant Woods,18420 Deer Oak Ave,"$630,000",3,"2,476",390 days
+3,$244,Lake Oswego,6352 SW Dawn St,"$412,000",2,"1,684",393 days
+5,$215,Lake Oswego,19226 Childs Ct,"$550,000",2.5,"2,552",395 days
+3,$186,Lake Oswego,5431 Willow Ct,"$460,000",2.5,"2,465",402 days
+4,$223,Lake Oswego,18581 Waxwing Way,"$464,000",2.5,"2,076",402 days
+5,$302,Lake Oswego,4350 Lords Ln,"$1,175,000",4,"3,888",409 days
+4,$259,Lake Oswego,17572 Shepherds Ct,"$775,000",3,"2,983",410 days
+3,$293,Rivergrove,5312 Childs Rd,"$735,000",3,"2,507",411 days
+4,$189,Lake Oswego,6461 Edgewood St,"$370,000",2.5,"1,950",411 days
+2,$251,Woodside,4324 Woodside Cir,"$305,900",2,"1,216",416 days
+4,$256,Lake Oswego,17583 Shepherds Ct,"$770,000",3,"2,997",421 days
+2,$286,Lake Oswego,17780 Hill Way,"$275,000",1,960,422 days
+4,$244,River Grove,18651 Don Lee Way,"$399,000",2,"1,630",425 days
+2,$202,Lake Oswego,5860 Lakeview Blvd,"$289,900",1.5,"1,435",430 days
+3,$275,Lake Oswego,5600 SW Dogwood Dr,"$525,000",2,"1,908",435 days
+3,$181,Rosewood,5189 Tualata Ln,"$440,000",2,"2,422",442 days
+3,$298,Rivergrove,5326 SW Childs Rd,"$538,000",2.5,"1,801",443 days
+3,$246,Bryant Woods,18481 Waxwing Cir,"$453,000",2.5,"1,840",443 days
+4,$252,Oswego Acres,18640 Tualata Ave,"$525,000",2,"2,076",463 days
+3,$285,Lake Oswego,18660 Don Lee Way,"$270,000",1,946,477 days
+2,$150,Lake Oswego,5225 Jean Rd,"$165,000",2,"1,100",485 days
+3,$162,Bryant Woods,18768 Wood Duck St,"$477,500",3,"2,940",486 days
+2,$151,Lake Oswego,5225 Jean Rd Apt 311,"$167,000",2,"1,100",488 days
+4,$219,Lake Oswego,18863 Indian Springs Rd,"$439,900",3,"2,001",491 days
+3,$212,Lake Oswego,4841 SW Dawn St,"$330,000",2,"1,550",499 days
+3,$263,Lake Oswego,6138 Kenny St,"$314,000",1.5,"1,190",500 days
+4,$221,Indian Wells,19242 Indian Springs Rd,"$745,000",2.5,"3,365",505 days
+4,$196,Rivergrove,18929 SW Terry Ave,"$480,000",2,"2,441",509 days
+3,$223,Lake Oswego,17617 Arbor Ln,"$390,000",2,"1,745",513 days
+6,,Lake Oswego,18183 Deerbrush Ave,"$549,000",4,,533 days
+3,$243,Lake Osewgo,4504 Wildwood St,"$402,250",2,"1,655",533 days
+5,$210,Rivergrove,5907 Fernbrook Cir,"$398,950",2,"1,892",543 days
+4,$197,Rivergrove,19211 SW Terry Ave,"$370,000",2,"1,872",555 days
+3,$222,Lake Oswego,4630 Wildwood St,"$460,000",2,"2,067",561 days
+4,$207,Bryant Woods,4940 Centerwood St,"$435,000",2.5,"2,093",563 days
+4,$229,Lake Oswego,18650 Tualata Ave,"$735,000",4,"3,196",575 days
+5,$162,Lake Oswego,18951 Indian Springs Cir,"$465,000",3,"2,865",577 days
+3,$231,Indian Meadows,5281 Chinook Ct,"$339,900",2,"1,471",591 days
+5,$251,Chapman Estates,19354 SW Lorna Ln,"$1,049,888",3.5,"4,169",605 days
+2,$286,Lake Oswego,6550 Childs Rd,"$385,000",2,"1,346",613 days
+4,$274,Lake Oswego,5978 Fernbrook Cir,"$442,000",2.5,"1,612",620 days
+2,$130,Pipers Run,6928 SW Montauk Cir,"$125,000",1,960,638 days
+3,$254,Rivergrove,6262 Wayzata Ct,"$325,000",1.5,"1,276",646 days
+4,$221,LAKE GROVE,Undisclosed,"$899,500",3.5,"4,055",646 days
+4,$181,Lake Oswego,5005 SW Dogwood Dr,"$753,000",3.5,"4,156",659 days
+3,$323,Lake Oswego,4821 SW Dawn St,"$600,000",2,"1,854",661 days
+3,$245,River Grove,18852 Longfellow Ave,"$303,000",1.5,"1,232",666 days
+4,$174,Rivergrove,19040 Indian Springs Cir,"$505,000",3,"2,900",668 days
+3,$260,Rivergrove & Bridgeport areas,18325 65th Ave,"$278,750",1.5,"1,071",674 days
+2,$139,Oswego Bay Condos,5225 Jean Rd Apt 605,"$195,000",2,"1,400",680 days
+3,$272,Lake Oswego,4250 Haven St,"$525,000",3,"1,924",684 days
+3,$159,Lake Oswego,4271 Woodside Cir,"$340,000",2,"2,126",684 days
+4,$315,Lake Oswego,19363 Riverwood Ln,"$940,000",3,"2,984",684 days
+3,$247,Lake Oswego,18929 Longfellow Ave,"$446,000",2,"1,800",690 days
+5,$180,clackamas county,5101 SW Dawn St,"$487,500",3,"2,700",694 days
+4,$137,Lake Oswego,6810 Childs Rd,"$450,000",2.5,"3,282",701 days
+3,$179,Lake Oswego,6360 SW McEwan Rd,"$260,000",1.5,"1,450",703 days
+4,$184,Rivergrove,5300 SW Dawn St,"$470,000",3,"2,544",708 days
+,,Lake Oswego,18151 Deerbrush Ave,"$400,000",,,710 days
+3,$190,RIVER GROVE,5720 Kenny St,"$270,000",2,"1,416",715 days
+3,$245,Lake Oswego,6136 Fernbrook Cir,"$306,455",1,"1,250",725 days
+3,$233,Lake Grove Acres Estates,17440 Hill Way,"$348,000",2,"1,492",725 days
+3,$228,Lake Oswego,19200 Indian Creek Ave,"$330,000",2,"1,443",729 days
+4,$246,Bryant Woods,18212 Indian Creek Dr,"$554,900",2.5,"2,251",729 days
+4,$212,Lake Oswego,4591 SW Dogwood Dr,"$889,000",3.5,"4,177",729 days
+3,$232,Bryant Acres,5172 Lakeview Blvd,"$335,000",2,"1,438",744 days
+2,$142,Lake Oswego,5225 Jean Rd Apt 506,"$157,000",2,"1,100",746 days
+4,$244,Lake Oswego,4515 West Rd,"$1,285,000",3.5,"5,262",751 days
+4,$225,Lake Oswego,5365 Lakeview Blvd,"$395,000",2.5,"1,754",759 days
+4,$298,Main Canal,18000 Sarah Hill Ln,"$979,000",2.5,"3,280",759 days
+4,$206,Rivergrove,6457 McDuff Ct,"$643,000",3.5,"3,120",760 days
+4,$227,Black Forest Estates,4639 Black Forest Ct,"$499,000",2.5,"2,197",767 days
+3,$210,Lake Oswego,19220 SW Red Wing Ct,"$346,500",2,"1,647",772 days
+4,$250,Lake Oswego,18717 Pilkington Rd,"$673,000",2.5,"2,684",773 days
+4,$228,Lake Oswego,17488 Mardee Ave,"$495,000",2.5,"2,168",773 days
+3,$188,Lake Oswego,4948 Childs Rd,"$279,000",1,"1,480",775 days
+4,$218,Renaissance Woods,5184 Woodcrest Ln Lot 1,"$639,900",2.5,"2,935",775 days
+2,$228,Lake Oswego,5675 Childs Rd,"$380,000",2.5,"1,663",780 days
+4,$209,Lake Oswego,4867 Sage Hen Way,"$529,600",2.5,"2,523",789 days
+4,$229,Renaissance Woods,5112 Woodcrest Ln,"$768,000",4.5,"3,340",806 days
+4,$230,Bryant Woods,18491 Waxwing Cir,"$446,000",2.5,"1,934",806 days
+3,$242,Lake Oswego,18307 Longfellow Ave,"$348,500",2,"1,440",808 days
+3,$124,OSWEGO BAY CONDOS,5225 Jean Rd Apt 404,"$187,300",2,"1,500",813 days
+3,$288,Rosewood,19244 Benfield Ave,"$347,000",2,"1,202",817 days
+5,$191,Oswego Acres,18360 Tualata Ave,"$518,500",2.5,"2,703",827 days
+3,$281,Lake Oswego,6397 SW McEwan Rd,"$284,000",2,"1,008",830 days
+4,$202,Riverwood Park,18020 Jenifers Way,"$600,000",2.5,"2,966",841 days
+3,$230,Renaissance Woods,5076 Woodcrest Ln Unit 10E,"$618,049",2.5,"2,676",852 days
+3,$181,Lake Oswego,18555 SW Edgewood Ct,"$431,000",2.5,"2,380",856 days
+5,$241,PILKINGTON GLEN,5502 Koderra Ave,"$635,000",2.5,"2,633",862 days
+4,$207,Renaissance Woods,5011 Woodcrest Ln Unit 17E,"$638,099",3.5,"3,082",866 days
+4,$206,Renaissance Woods,19333 Riverwood Ln #104,"$642,616",2.5,"3,110",869 days
+3,$227,Lake Oswego,19071 Longfellow Ave,"$245,700",1,"1,080",869 days
+3,$206,Lake Oswego,6132 Minnehaha Ct,"$255,000",1.5,"1,232",869 days
+4,$208,Renaissance Woods,5023 Woodcrest Ln,"$633,783",2.5,"3,040",869 days
+5,$215,Lake Oswego,18042 Jenifers Way,"$635,000",3,"2,946",870 days
+3,$209,Bryant,4216 Albert Cir,"$446,500",2,"2,130",872 days
+3,$277,Kennycroft,18148 Belmore Ave,"$279,900",1,"1,008",876 days
+3,$206,Bryant Woods,18385 Wood Thrush Way,"$379,000",2,"1,832",879 days
+3,$233,Renaissance Woods,5004 Woodcrest Ln Unit 16 E,"$590,149",2.5,"2,523",898 days
+3,$222,Lake Oswego,18011 Tualata Ave,"$330,000",2,"1,482",899 days
+4,$197,Rosewood,18341 Fernbrook Ct,"$369,999",2,"1,872",899 days
+3,$183,Lake Oswego,18108 Pilkington Rd,"$758,000",3.5,"4,129",925 days
+6,$174,Lake Oswego,5350 Lakeview Blvd,"$450,000",4.5,"2,580",925 days
+3,$259,Renaissance Woods,5185 Woodcrest Ln Unit 24E,"$649,239",2.5,"2,500",928 days
+5,$214,PILKINGTON GLEN,18064 Jenifers Way,"$635,000",3,"2,965",939 days
+4,$399,Oswego Canal,17700 Lake Haven Dr,"$1,600,000",3.5,"4,006",941 days
+4,$193,Renaissance Woods,19321 Riverwood Ln Lot 3W,"$651,957",3.5,"3,367",956 days
+4,$216,Renaissance Woods,19342 Riverwood Ln Lot 6W,"$607,291",2.5,"2,806",956 days
+3,$247,Lake Oswego,6025 Kenny St,"$309,900",1.5,"1,254",957 days
+4,$209,Bryant Acres,5164 Lakeview Blvd,"$235,000",2,"1,120",971 days
+3,$227,Renaissance Woods,5172 Woodcrest Ln Lot 2E,"$569,456",2.5,"2,500",971 days
+3,$192,Bryant Woods,18321 Wood Thrush Cir,"$449,600",2.5,"2,333",992 days
+3,$195,Lake Oswego,17500 Pilkington Rd,"$204,900",1,"1,050",996 days
+4,$220,Lake Oswego,5780 Childs Rd,"$610,000",2,"2,770",1003 days
+2,$114,Lake Oswego,5225 Jean Rd Apt 306,"$160,000",2,"1,400",1012 days
+2,$133,Lake Oswego,5225 Jean Rd Apt 401,"$144,400",2,"1,080",1018 days
+3,$173,Lake Oswego,4361 Albert Cir,"$430,000",2.5,"2,472",1020 days
+3,$145,Lake Oswego,5836 Lakeview Ct,"$188,000",1,"1,296",1020 days
+4,$189,Lake Oswego,5267 Lakeview Blvd,"$653,000",3.5,"3,454",1023 days
+,,Lake Oswego,Woodcrest Ln Lot 16,"$200,000",,,1024 days
+,,Lake Oswego,Woodcrest Ln Lot 18,"$200,000",,,1024 days
+5,$147,Lake Oswego,19201 Maree Ct,"$600,000",2.5,"4,070",1026 days
+3,$221,Lake Grove,6420 SW McEwan Rd,"$269,900",2,"1,220",1030 days
+3,$199,Lake Oswego,6241 Wayzata Ct,"$245,500",1,"1,232",1033 days
+3,$211,Bryant Neighborhood,17833 SW Central Ave,"$324,000",2,"1,533",1033 days
+4,$207,Renaissance Woods,5064 Woodcrest Ln Lot 11,"$668,530",2.5,"3,215",1038 days
+3,$245,Indian Springs,18971 Indian Springs Cir,"$375,000",2,"1,525",1041 days
+4,$214,Lake Oswego,17650 Deemar Way,"$295,000",2,"1,375",1041 days
+3,$262,Lake Grove,18420 Don Lee Way,"$243,000",1,924,1045 days
+4,$208,Renaissance Woods,19305 Riverwood Ln Lot 1W,"$647,802",4,"3,110",1045 days
+4,$202,Renaissance Woods,5052 Woodcrest Ln Lot 12,"$675,000",3.5,"3,340",1047 days
+4,$182,Riverwood Park,5501 Rachel Royal Ct,"$640,000",3,"3,509",1047 days
+4,$206,Lake Oswego,5405 Childs Rd,"$910,000",3.5,"4,402",1055 days
+3,$139,Lake Oswego,17521 Hill Way,"$318,500",2,"2,283",1072 days
+3,$225,Lake Oswego,5859 Kennycroft Way,"$278,500",1.5,"1,235",1072 days
+3,$157,Childs Road Estates,6479 McDuff Ct,"$501,000",2.5,"3,173",1079 days
+5,$201,Lake Oswego,5320 Childs Rd,"$915,000",3,"4,539",1082 days
+,,Lake Oswego,Indian Springs Rd,"$149,000",,,1082 days
+3,$202,Lake Oswego,18545 Kristi Way,"$265,000",1.5,"1,307",1086 days
+4,$195,Bryant Woods,18781 Indian Creek Way,"$460,000",2.5,"2,355",1093 days
+5,$197,Renaissance Woods,19318 Riverwood Ln Lot 8W,"$613,887",4,"3,110",1095 days
+3,$209,Lake Oswego,4420 Bernard St,"$385,000",2.5,"1,835",1095 days
+4,$216,,6236 Wayzata Ct,"$460,000",2.5,"2,127",
+3,$244,,17570 Hill Way,"$337,000",2,"1,378",
+4,$392,,18205 Pilkington Rd,"$676,500",2,"1,725",
+3,$199,,5432 Kenny St,"$269,150",1,"1,352",
+,$130,,5225 Jean Rd Apt 602,"$156,000",2,"1,200",
+,$150,,5225 Jean Rd Apt 512,"$165,000",2,"1,100",
+3,$186,,18000 Pilkington Rd,"$230,000",2,"1,235",
+3,$257,,6447 SW McEwan Rd,"$234,775",1,912,
+2,$176,,18050 Tualata Ave,"$240,000",2,"1,360",
+3,$340,,6010 Fernbrook Cir,"$332,200",2,975,
+3,$179,,18438 Sandpiper Cir,"$310,000",2,"1,726",
+3,$173,,6288 Nokomis Ct,"$330,000",1.5,"1,904",
+3,$213,,5804 Kennycroft Way,"$215,500",1.5,"1,008",
+,$146,,5225 Jean Rd Apt 501,"$219,000",2,"1,500",
+4,$210,,18301 Wood Thrush Cir,"$445,000",2.5,"2,114",
+3,$197,,18411 Deer Oak Cir,"$411,000",2.5,"2,084",
+3,$201,,6426 Edgewood St,"$230,000",1,"1,144",
+,,,17823 SW Central Ave,"$416,120",,,
+3,$176,,17839 Tamara Ct,"$275,000",1.5,"1,562",
+3,$234,,5813 Kennycroft Way,"$277,000",1,"1,182",
+,,,18125 Pilkington Rd,"$905,000",,,
+3,$262,,18975 Indian Springs Rd,"$460,000",2.5,"1,750",
+4,$196,,18281 Wood Thrush Cir,"$440,000",2.5,"2,240",
+2,$322,,17927 Belmore Ave,"$309,500",1,960,
+4,$152,,18045 SW Central Ave,"$368,500",3,"2,416",
+8,$71,,6695 Childs Rd,"$278,750",4,"3,872",
+3,$254,,5185 Woodcrest Ln,"$649,339",2.5,"2,554",
+4,$201,,5011 Woodcrest Ln,"$638,099",2.5,"3,173",
+4,$194,,5052 Woodcrest Ln,"$675,000",3.5,"3,464",
+5,$194,,5064 Woodcrest Ln,"$668,530",3.5,"3,433",
+3,$223,,5076 Woodcrest Ln,"$618,049",2.5,"2,760",
+4,$215,,5184 Woodcrest Ln,"$639,900",2.5,"2,972",
+3,$223,,5172 Woodcrest Ln,"$569,556",2.5,"2,548",
+4,$195,,19302 Riverwood Ln,"$628,150",3.5,"3,211",
+4,$209,,19342 Riverwood Ln,"$607,291",2.5,"2,898",
+4,$191,,19318 Riverwood Ln,"$613,887",3,"3,202",
+5,$190,,19321 Riverwood Ln,"$651,957",3.5,"3,430",
+5,$204,,19333 Riverwood Ln,"$642,616",6,"3,142",
+4,$209,,19305 Riverwood Ln,"$647,802",2.5,"3,089",
+3,$298,,19329 Riverwood Ln,"$538,000",2,"1,801",
+2,$389,,18147 Pilkington Rd,"$465,000",1,"1,193",
+4,$403,,5526 Kenny St,"$697,000",2,"1,728",
+4,$74,,4256 Woodside Cir,"$150,000",2,"2,016",
+4,$185,Lake Oswego,18978 Indian Springs RdListed by: Redfin,"$529,900",3,"2,860",44 days
+4,$205,Lake Oswego,5157 Woodcrest LnListed by: Redfin,"$645,000",2.5,"3,144",449 days
+4,$199,Lake Oswego,4252 Albert Cir,"$590,000",2.5,"2,964",30 days
+4,$264,Lake Oswego,5829 Benfield Ct,"$461,000",2.5,"1,744",50 days
+4,$297,Lake Oswego,5182 Tree St,"$520,000",2,"1,750",57 days
+4,$215,Riverwood Park,18106 Pilkington Rd,"$770,000",4.5,"3,575",57 days
+4,$327,Tualata Grove,18547 Timbergrove Ct,"$468,455",2,"1,432",64 days
+4,$194,BRYANT ACRES,5124 Lakeview Blvd,"$570,000",3,"2,932",95 days
+3,$224,RIVERGROVE,6413 McDuff Ct,"$694,500",2.5,"3,091",114 days
+3,$300,Lake Oswego,6210 Childs Rd,"$390,000",1.5,"1,296",120 days
+3,$215,Indian Meadows,5340 Chinook Ct,"$401,000",2,"1,862",169 days
+3,$195,South Shore,4331 Lords Ln,"$452,500",3,"2,320",192 days
+3,$270,Pilkington Glen,18086 Jenifers Way,"$699,000",2.5,"2,582",316 days
+4,$267,Rosewood,5051 Tualata Ln,"$423,000",2,"1,581",393 days
+4,$269,Lake Oswego,18430 Pilkington Rd,"$795,000",3,"2,946",421 days
+4,$177,WOODSIDE,4283 Woodside Cir,"$359,900",2,"2,032",428 days
+4,$227,Oxford Downs,4258 Albert Cir,"$625,000",2.5,"2,745",509 days
+3,$282,Lake Oswego,5487 Tualata Ct,"$339,455",2,"1,200",514 days
+3,$248,Lake Oswego,18275 SW Terry Ct,"$315,000",1.5,"1,270",540 days
+3,$247,Lake Oswego,5048 Tree St,"$305,000",1.5,"1,232",571 days
+3,$273,Lake Oswego,5344 Tualata CtSold by: Redfin,"$344,927",2,"1,263",584 days
+3,$241,Lake Grove,6243 SW Dawn St,"$302,500",1.5,"1,254",627 days
+3,$270,Lake Oswego,18543 Don Lee WaySold by: Redfin,"$250,000",1,924,631 days
+3,$252,Lake Oswego,18963 Longfellow Ave,"$311,000",1.5,"1,232",638 days
+3,$234,Rosewood,5713 Kenny St,"$325,000",2,"1,384",659 days
+3,$210,Lake Oswego,18978 Indian Springs Cir,"$400,000",2,"1,900",662 days
+4,$142,Indian Creek,19180 Indian Creek Ave,"$342,000",3,"2,392",673 days
+4,$178,Rivergrove,17900 Canal Rd,"$535,000",3,"2,992",687 days
+4,$161,Lake Oswego,18893 Indian Springs Cir,"$460,000",3,"2,841",695 days
+3,$212,Lake Oswego,5284 Red Leaf StSold by: Redfin,"$455,000",2.5,"2,142",759 days
+3,$269,River Grove,5875 Kenny StSold by: Redfin,"$300,000",1,"1,113",759 days
+3,$192,Lake Oswego,17653 Mardee Ave,"$336,000",2,"1,742",864 days
+3,$177,Bryant Woods,18600 Indian Creek Dr,"$285,000",2,"1,607",953 days
+3,$212,Lake Grove,5139 Tualata Ln,"$324,000",2,"1,524",990 days
+5,$181,Bryant Woods,4860 Centerwood St,"$460,000",2.5,"2,533",1037 days
+4,$201,Lake Oswego,5272 Tualata Ln,"$510,000",3,"2,529",1081 days
+3,$275,LAKE GROVE,17470 Hill Way,"$430,000",2,"1,561",8 days
+4,$290,Lake Oswego,4667 Shepherds Ln,"$869,900",3,"2,999",24 days
+5,$236,LAKE OSWEGO,17763 Mardee Ave,"$545,000",3,"2,300",26 days
+3,$260,RIVERGROVE,18906 Kristi Way,"$485,000",2,"1,864",26 days
+,,Lake Oswego,5566 Luce Ln,"$328,250",,,36 days
+4,$234,Grove Park,5598 Luce Ln,"$790,000",3,"3,372",45 days
+3,$293,Lake Grove Acreage Estates,17614 SW Schalit Way,"$460,000",2,"1,569",51 days
+3,$227,Lake Oswego,5266 Charleton Ct,"$470,000",2,"2,063",57 days
+6,$148,Lake Oswego,6720 Childs Rd,"$1,027,000",5.5,"6,915",59 days
+3,$186,Lake Oswego,18820 65th Ave,"$422,150",3,"2,268",61 days
+3,$266,RIVERGROVE,4902 Childs Rd,"$375,000",1.5,"1,407",71 days
+6,$209,BRYANT WOODS,18161 Deerbrush Ave,"$462,000",2,"2,204",72 days
+4,$162,Bryantwoods,4871 Centerwood St,"$425,000",3,"2,619",73 days
+3,$201,Lake Oswego,4251 Woodside Cir,"$417,500",2,"2,068",73 days
+4,$185,Lake Oswego,18978 Indian Springs RdListed by: Redfin,"$529,900",3,"2,860",44 days
+4,$205,Lake Oswego,5157 Woodcrest LnListed by: Redfin,"$645,000",2.5,"3,144",449 days
+4,$199,Lake Oswego,4252 Albert Cir,"$590,000",2.5,"2,964",30 days
+4,$264,Lake Oswego,5829 Benfield Ct,"$461,000",2.5,"1,744",50 days
+4,$297,Lake Oswego,5182 Tree St,"$520,000",2,"1,750",57 days
+4,$215,Riverwood Park,18106 Pilkington Rd,"$770,000",4.5,"3,575",57 days
+4,$327,Tualata Grove,18547 Timbergrove Ct,"$468,455",2,"1,432",64 days
+4,$194,BRYANT ACRES,5124 Lakeview Blvd,"$570,000",3,"2,932",95 days
+3,$224,RIVERGROVE,6413 McDuff Ct,"$694,500",2.5,"3,091",114 days
+3,$300,Lake Oswego,6210 Childs Rd,"$390,000",1.5,"1,296",120 days
+3,$215,Indian Meadows,5340 Chinook Ct,"$401,000",2,"1,862",169 days
+3,$195,South Shore,4331 Lords Ln,"$452,500",3,"2,320",192 days
+3,$270,Pilkington Glen,18086 Jenifers Way,"$699,000",2.5,"2,582",316 days
+4,$267,Rosewood,5051 Tualata Ln,"$423,000",2,"1,581",393 days
+4,$269,Lake Oswego,18430 Pilkington Rd,"$795,000",3,"2,946",421 days
+4,$177,WOODSIDE,4283 Woodside Cir,"$359,900",2,"2,032",428 days
+4,$227,Oxford Downs,4258 Albert Cir,"$625,000",2.5,"2,745",509 days
+3,$282,Lake Oswego,5487 Tualata Ct,"$339,455",2,"1,200",514 days
+3,$248,Lake Oswego,18275 SW Terry Ct,"$315,000",1.5,"1,270",540 days
+3,$247,Lake Oswego,5048 Tree St,"$305,000",1.5,"1,232",571 days
+3,$273,Lake Oswego,5344 Tualata CtSold by: Redfin,"$344,927",2,"1,263",584 days
+3,$241,Lake Grove,6243 SW Dawn St,"$302,500",1.5,"1,254",627 days
+3,$270,Lake Oswego,18543 Don Lee WaySold by: Redfin,"$250,000",1,924,631 days
+3,$252,Lake Oswego,18963 Longfellow Ave,"$311,000",1.5,"1,232",638 days
+3,$234,Rosewood,5713 Kenny St,"$325,000",2,"1,384",659 days
+3,$210,Lake Oswego,18978 Indian Springs Cir,"$400,000",2,"1,900",662 days
+4,$142,Indian Creek,19180 Indian Creek Ave,"$342,000",3,"2,392",673 days
+4,$178,Rivergrove,17900 Canal Rd,"$535,000",3,"2,992",687 days
+4,$161,Lake Oswego,18893 Indian Springs Cir,"$460,000",3,"2,841",695 days
+3,$212,Lake Oswego,5284 Red Leaf StSold by: Redfin,"$455,000",2.5,"2,142",759 days
+3,$269,River Grove,5875 Kenny StSold by: Redfin,"$300,000",1,"1,113",759 days
+3,$192,Lake Oswego,17653 Mardee Ave,"$336,000",2,"1,742",864 days
+3,$177,Bryant Woods,18600 Indian Creek Dr,"$285,000",2,"1,607",953 days
+3,$212,Lake Grove,5139 Tualata Ln,"$324,000",2,"1,524",990 days
+5,$181,Bryant Woods,4860 Centerwood St,"$460,000",2.5,"2,533",1037 days
+4,$201,Lake Oswego,5272 Tualata Ln,"$510,000",3,"2,529",1081 days
+3,$275,LAKE GROVE,17470 Hill Way,"$430,000",2,"1,561",8 days
+4,$290,Lake Oswego,4667 Shepherds Ln,"$869,900",3,"2,999",24 days
+5,$236,LAKE OSWEGO,17763 Mardee Ave,"$545,000",3,"2,300",26 days
+3,$260,RIVERGROVE,18906 Kristi Way,"$485,000",2,"1,864",26 days
+,,Lake Oswego,5566 Luce Ln,"$328,250",,,36 days
+4,$234,Grove Park,5598 Luce Ln,"$790,000",3,"3,372",45 days
+3,$293,Lake Grove Acreage Estates,17614 SW Schalit Way,"$460,000",2,"1,569",51 days
+3,$227,Lake Oswego,5266 Charleton Ct,"$470,000",2,"2,063",57 days
+6,$148,Lake Oswego,6720 Childs Rd,"$1,027,000",5.5,"6,915",59 days
+3,$186,Lake Oswego,18820 65th Ave,"$422,150",3,"2,268",61 days
+3,$266,RIVERGROVE,4902 Childs Rd,"$375,000",1.5,"1,407",71 days
+6,$209,BRYANT WOODS,18161 Deerbrush Ave,"$462,000",2,"2,204",72 days
+4,$162,Bryantwoods,4871 Centerwood St,"$425,000",3,"2,619",73 days
+3,$201,Lake Oswego,4251 Woodside Cir,"$417,500",2,"2,068",73 days
+4,$185,Lake Oswego,18978 Indian Springs RdListed by: Redfin,"$529,900",3,"2,860",44 days
+4,$205,Lake Oswego,5157 Woodcrest LnListed by: Redfin,"$645,000",2.5,"3,144",449 days
+4,$199,Lake Oswego,4252 Albert Cir,"$590,000",2.5,"2,964",30 days
+4,$264,Lake Oswego,5829 Benfield Ct,"$461,000",2.5,"1,744",50 days
+4,$297,Lake Oswego,5182 Tree St,"$520,000",2,"1,750",57 days
+4,$215,Riverwood Park,18106 Pilkington Rd,"$770,000",4.5,"3,575",57 days
+4,$327,Tualata Grove,18547 Timbergrove Ct,"$468,455",2,"1,432",64 days
+4,$194,BRYANT ACRES,5124 Lakeview Blvd,"$570,000",3,"2,932",95 days
+3,$224,RIVERGROVE,6413 McDuff Ct,"$694,500",2.5,"3,091",114 days
+3,$300,Lake Oswego,6210 Childs Rd,"$390,000",1.5,"1,296",120 days
+3,$215,Indian Meadows,5340 Chinook Ct,"$401,000",2,"1,862",169 days
+3,$195,South Shore,4331 Lords Ln,"$452,500",3,"2,320",192 days
+3,$270,Pilkington Glen,18086 Jenifers Way,"$699,000",2.5,"2,582",316 days
+4,$267,Rosewood,5051 Tualata Ln,"$423,000",2,"1,581",393 days
+4,$269,Lake Oswego,18430 Pilkington Rd,"$795,000",3,"2,946",421 days
+4,$177,WOODSIDE,4283 Woodside Cir,"$359,900",2,"2,032",428 days
+4,$227,Oxford Downs,4258 Albert Cir,"$625,000",2.5,"2,745",509 days
+3,$282,Lake Oswego,5487 Tualata Ct,"$339,455",2,"1,200",514 days
+3,$248,Lake Oswego,18275 SW Terry Ct,"$315,000",1.5,"1,270",540 days
+3,$247,Lake Oswego,5048 Tree St,"$305,000",1.5,"1,232",571 days
+3,$273,Lake Oswego,5344 Tualata CtSold by: Redfin,"$344,927",2,"1,263",584 days
+3,$241,Lake Grove,6243 SW Dawn St,"$302,500",1.5,"1,254",627 days
+3,$270,Lake Oswego,18543 Don Lee WaySold by: Redfin,"$250,000",1,924,631 days
+3,$252,Lake Oswego,18963 Longfellow Ave,"$311,000",1.5,"1,232",638 days
+3,$234,Rosewood,5713 Kenny St,"$325,000",2,"1,384",659 days
+3,$210,Lake Oswego,18978 Indian Springs Cir,"$400,000",2,"1,900",662 days
+4,$142,Indian Creek,19180 Indian Creek Ave,"$342,000",3,"2,392",673 days
+4,$178,Rivergrove,17900 Canal Rd,"$535,000",3,"2,992",687 days
+4,$161,Lake Oswego,18893 Indian Springs Cir,"$460,000",3,"2,841",695 days
+3,$212,Lake Oswego,5284 Red Leaf StSold by: Redfin,"$455,000",2.5,"2,142",759 days
+3,$269,River Grove,5875 Kenny StSold by: Redfin,"$300,000",1,"1,113",759 days
+3,$192,Lake Oswego,17653 Mardee Ave,"$336,000",2,"1,742",864 days
+3,$177,Bryant Woods,18600 Indian Creek Dr,"$285,000",2,"1,607",953 days
+3,$212,Lake Grove,5139 Tualata Ln,"$324,000",2,"1,524",990 days
+5,$181,Bryant Woods,4860 Centerwood St,"$460,000",2.5,"2,533",1037 days
+4,$201,Lake Oswego,5272 Tualata Ln,"$510,000",3,"2,529",1081 days
+3,$275,LAKE GROVE,17470 Hill Way,"$430,000",2,"1,561",8 days
+4,$290,Lake Oswego,4667 Shepherds Ln,"$869,900",3,"2,999",24 days
+5,$236,LAKE OSWEGO,17763 Mardee Ave,"$545,000",3,"2,300",26 days
+3,$260,RIVERGROVE,18906 Kristi Way,"$485,000",2,"1,864",26 days
+,,Lake Oswego,5566 Luce Ln,"$328,250",,,36 days
+4,$234,Grove Park,5598 Luce Ln,"$790,000",3,"3,372",45 days
+3,$293,Lake Grove Acreage Estates,17614 SW Schalit Way,"$460,000",2,"1,569",51 days
+3,$227,Lake Oswego,5266 Charleton Ct,"$470,000",2,"2,063",57 days
+6,$148,Lake Oswego,6720 Childs Rd,"$1,027,000",5.5,"6,915",59 days
+3,$186,Lake Oswego,18820 65th Ave,"$422,150",3,"2,268",61 days
+3,$266,RIVERGROVE,4902 Childs Rd,"$375,000",1.5,"1,407",71 days
+6,$209,BRYANT WOODS,18161 Deerbrush Ave,"$462,000",2,"2,204",72 days
+4,$162,Bryantwoods,4871 Centerwood St,"$425,000",3,"2,619",73 days
+3,$201,Lake Oswego,4251 Woodside Cir,"$417,500",2,"2,068",73 days

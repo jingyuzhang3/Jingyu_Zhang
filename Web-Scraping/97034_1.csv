@@ -1,0 +1,478 @@
+beds,$sqft,location,address,price,baths,sqft,days
+4,$286,Lake Oswego,12870 Elk Rock Rd,"$785,000",3,"2,742",12 days
+5,$176,Country Commons,639 Carrera Ln,"$759,000",3.5,"4,305",95 days
+3,$244,Lake Oswego,13855 Verte Ct,"$449,000",2.5,"1,835",226 days
+5,$192,Lake Oswego,13060 Elk Rock Rd,"$710,000",3,"3,681",295 days
+3,$204,Lake Oswego,796 1st St,"$841,350",2.5,"4,108",348 days
+3,$279,Lake Oswego,1293 Hide A Way LnSold by: Redfin,"$480,000",2.5,"1,720",367 days
+3,$290,Forest Hills,555 Country Club Rd,"$619,950",3,"2,133",395 days
+2,$244,First Addition,550 2nd St,"$376,000",2,"1,540",450 days
+5,$229,Lake Oswego,1380 Bonniebrae Dr,"$675,000",3,"2,940",471 days
+3,$398,FIRST ADDITION,980 C Ave,"$522,500",2,"1,312",477 days
+4,$351,FIRST ADDITION,816 4th St,"$949,900",2.5,"2,699",484 days
+4,$217,Country Commons,1051 Country Commons Ln,"$779,900",2.5,"3,582",533 days
+3,$165,Red Fox Hills,1803 Boca Ratan DrSold by: Redfin,"$288,000",2.5,"1,739",541 days
+3,$157,Red Fox Hills,1531 Boca Ratan Dr,"$277,000",2,"1,755",603 days
+4,$218,Lake Oswego,14144 Goodall Rd,"$765,000",3,"3,499",621 days
+4,$147,Lake Oswego,1818 Country Club Rd,"$300,000",2,"2,032",666 days
+2,$283,first addition/downtown lo,466 5th St #14,"$310,000",1.5,"1,092",673 days
+2,$251,First Addition,432 5th St #1,"$275,000",1.5,"1,092",681 days
+2,$326,First Addition,529 2nd St,"$437,500",2,"1,339",682 days
+2,$289,First Addition,562 2nd St,"$377,000",2.5,"1,302",687 days
+4,$217,Forest Highlands,13777 Cameo Ct,"$1,585,000",5.5,"7,300",690 days
+3,$310,First Addition,827 5th St,"$659,000",2,"2,124",704 days
+4,$217,"1st Addition, First Addition",755 6th St,"$909,000",3.5,"4,170",722 days
+2,$158,Red Fox Hills Townhouse Assoc,1368 Boca Ratan Dr,"$255,000",2,"1,611",726 days
+3,$173,RED FOX HILLS,1796 Bonniebrae Dr,"$310,000",2.5,"1,782",821 days
+4,$226,Forest Hills,920 SW York Rd,"$415,000",2.5,"1,836",941 days
+4,$185,Lake Oswego,621 Country Club Rd,"$613,000",2.5,"3,300",960 days
+4,$264,Lake Oswego,280 E Ave,"$660,000",2.5,"2,500",967 days
+3,$184,Lake Oswego,791 Briercliff Ln,"$320,000",2.5,"1,736",991 days
+3,$228,Lake Oswego,895 SW York Rd,"$440,000",2,"1,924",1017 days
+2,$163,Oswego Pointe,5056 Foothills Dr Unit D,"$205,000",2,"1,252",1032 days
+4,$147,1st Addition,908 Cumberland Pl,"$400,000",3,"2,715",1065 days
+2,$196,Talisman,750 1st St Unit A12,"$265,000",2,"1,350",2 days
+2,$336,FIRST ADDITION,534 2nd St #16,"$469,000",2.5,"1,394",3 days
+5,$435,FOREST HILLS,1255 Chandler Rd,"$1,400,000",3,"3,212",3 days
+2,$287,Lake Oswego,528 2nd St,"$489,900",2.5,"1,703",4 days
+5,$289,Lake Oswego,784 3rd St,"$1,200,000",5,"4,138",8 days
+3,$334,KNAUS/ATWATER,610 Atwater Rd,"$992,000",2.5,"2,969",10 days
+3,$460,FIRST ADDITION,711 7th St,"$1,425,000",3,"3,097",10 days
+3,$340,First Addition,659 4th St,"$812,475",2.5,"2,388",15 days
+3,$344,First Addition,412 8th St,"$888,000",2.5,"2,580",17 days
+4,$287,Lake Oswego,448 Country Club Rd,"$1,400,000",3.5,"4,873",19 days
+3,$433,Lake Oswego,348 5th St,"$875,000",2.5,"2,019",23 days
+3,$213,Country Commons,839 Country Commons Ln,"$660,000",2.5,"3,089",30 days
+3,$358,First Addition,454 9th St,"$1,174,000",4,"3,278",36 days
+4,$402,Lake Oswego,1269 Lake Garden Ct,"$828,000",2.5,"2,056",36 days
+3,$433,Lake Oswego,336 5th St,"$875,000",2.5,"2,018",36 days
+4,$367,Lake Oswego,301 Iron Mountain Blvd,"$1,082,500",4,"2,946",47 days
+4,$325,ALTO PARK ESTATES,12812 Alto Park Rd,"$1,314,000",3.5,"4,040",51 days
+3,$240,UPLANDS,14540 Uplands Dr,"$650,000",2.5,"2,704",51 days
+5,$318,First Addition,575 B Ave,"$1,125,000",3.5,"3,534",53 days
+5,$236,Lake Oswego,14261 Uplands Dr,"$910,000",4,"3,843",57 days
+4,$257,Lake Oswego,645 Country Club Rd,"$899,000",2.5,"3,494",57 days
+3,$459,FIRST ADDITION,608 6th St,"$675,000",2,"1,470",57 days
+4,$245,UPLANDS,2152 Wembley Pl,"$700,000",3,"2,854",59 days
+3,$297,Lake Oswego,853 G Ave,"$535,000",2,"1,800",61 days
+4,$379,FIRST ADDITION,630 8th St,"$1,075,000",2.5,"2,832",61 days
+3,$234,FOREST HILLS,642 Iron Mountain Blvd,"$1,072,500",3,"4,575",64 days
+4,$401,Country Commons,13237 Knaus Rd,"$1,965,000",4.5,"4,900",64 days
+4,$188,Lake Oswego,14435 Uplands Dr,"$908,890",3.5,"4,822",66 days
+4,$369,Lake Oswego,839 E Ave,"$637,000",2.5,"1,722",67 days
+3,$333,FIRST ADDITION,588 9th St,"$1,180,000",3.5,"3,536",67 days
+3,$424,FIRST ADDITION,844 5th St,"$1,100,000",3,"2,590",71 days
+5,$320,Alto Park Estates,12842 Alto Park Rd,"$1,399,000",5,"4,359",74 days
+2,$313,LAKE OSWEGO CONDOS,456 5th St #11Sold by: Redfin,"$342,000",1.5,"1,092",78 days
+4,$363,Lake Oswego,14380 Uplands Dr,"$1,089,500",3.5,"2,996",80 days
+4,$191,Lake Oswego,1145 Timberline Dr,"$875,000",2,"4,564",86 days
+2,$296,Lake Oswego,676 9th St,"$560,000",1,"1,888",87 days
+2,$223,Lake Oswego,5057 Foothills Dr Unit F,"$284,500",2,"1,272",92 days
+4,$321,Lake Oswego,13056 Knaus Rd,"$1,688,000",3.5,"5,244",94 days
+4,$342,FOREST HIGHLANDS,13050 Knaus Rd,"$1,650,000",3.5,"4,821",95 days
+5,$202,GOODALL ROAD,13852 Shireva Dr,"$540,000",3,"2,664",96 days
+4,$213,Lake Oswego,919 Cumberland Rd,"$605,000",3,"2,828",103 days
+3,$386,First Addition,531 7th St,"$1,089,000",2.5,"2,818",107 days
+4,$316,Uplands,14626 Uplands Dr,"$934,900",3,"2,951",107 days
+3,$308,First Addition,625 3rd St,"$815,000",2.5,"2,643",110 days
+4,$321,Alto Park,12838 Alto Park Rd,"$1,437,500",3.5,"4,475",113 days
+5,$258,North Shore/Country Club,480 Iron Mountain Blvd,"$794,250",3.5,"3,067",114 days
+4,$398,Lake Oswego,14056 Goodall Rd,"$2,389,650",5.5,"6,000",116 days
+4,$417,FOREST HIGHLANDS,915 Atwater Rd,"$1,712,500",4.5,"4,102",116 days
+6,$264,FIRST ADDITION,667 3rd St,"$825,000",6,"3,120",120 days
+5,$279,Lake Oswego,1979 Country Club Rd,"$1,149,000",5.5,"4,115",123 days
+4,$269,Lake Oswego,670 Iron Mountain Blvd,"$1,459,000",4,"5,421",124 days
+4,$279,Lake Oswego,1899 Country Club Rd,"$450,000",2,"1,612",127 days
+2,$286,Lake Oswego,510 2nd St #24,"$435,000",2,"1,520",127 days
+5,$191,Lake Oswego,490 G Ave,"$408,000",2,"2,126",130 days
+5,$306,First Addition,556 7th St,"$1,198,000",3.5,"3,911",135 days
+4,$320,Forest Highlands,13900 Goodall Rd,"$1,350,000",3.5,"4,212",135 days
+2,$219,Lake Oswego,5056 Foothills Dr Unit C,"$275,000",2,"1,252",136 days
+3,$298,Lake Oswego,13680 Shireva Dr,"$448,900",2,"1,504",137 days
+4,$189,LAKE OSWEGO,741 Briercliff Ln,"$525,000",3,"2,765",137 days
+3,$241,RED FOX HILLS,1273 Rockinghorse Ln,"$530,000",2.5,"2,192",143 days
+3,$393,"1st Addition, Lake Oswego",822 6th St,"$1,082,000",3,"2,748",150 days
+2,$408,Lake Oswego,547 2nd St #202,"$625,000",2,"1,529",155 days
+5,$284,FOREST HIGHLANDS,13599 Knaus Rd,"$1,953,000",7,"6,874",156 days
+,,Lake Oswego,1801 Ridgecrest Dr,"$2,100,000",,,157 days
+,,Lake Oswego,1640 Country Commons Ln,"$460,000",,,157 days
+3,$261,Dolph Place,14221 Dolph Ct,"$545,000",2.5,"2,081",169 days
+4,$501,THE HIGHLANDS,1933 Highlands Loop,"$2,525,000",3.5,"5,031",171 days
+6,$354,FOREST HILLS,1144 Bayberry Rd,"$1,250,000",3,"3,523",176 days
+4,$382,First Addition,717 5th St,"$1,075,000",2.5,"2,809",177 days
+2,$324,FIRST ADDITION,136 D Ave,"$565,000",2.5,"1,741",178 days
+4,$352,Lake Oswego,667 Iron Mountain Blvd,"$1,650,000",4.5,"4,679",179 days
+2,$404,Lake Oswego,886 9th St,"$1,150,000",2.5,"2,842",183 days
+2,$295,Lake Oswego,454 5th St,"$323,000",1.5,"1,092",183 days
+2,$255,Lake Oswego,524 Country Club Rd,"$555,000",2,"2,168",185 days
+,,Lake Oswego,1007 Sunningdale Rd,"$560,000",,,197 days
+4,$349,ALTO PARK ESTATES,12822 Alto Park Rd,"$1,199,000",4.5,"3,426",197 days
+4,$393,1ST ADDITION,806 6th St,"$1,075,000",2.5,"2,730",204 days
+3,$204,Red Fox Hills Townhome Assoc,1857 Boca Ratan Dr,"$330,000",2,"1,611",204 days
+4,$317,Lake Oswego,13624 Goodall Rd,"$1,399,000",5,"4,411",211 days
+4,$338,Forest Hills,1455 Chandler Rd,"$1,275,000",3.5,"3,764",225 days
+5,$306,FOREST HIGHLANDS,1300 Forest Meadows Way,"$1,144,500",3.5,"3,734",226 days
+4,$397,First Addition,706 5th St,"$1,085,000",2.5,"2,730",229 days
+6,$228,"Forest Hills,1st. Addition",1211 Bayberry Rd,"$977,750",5,"4,277",234 days
+5,$317,FIRST ADDITION,769 2nd St,"$1,050,000",2.5,"3,308",239 days
+3,$391,1ST ADDITION,725 5th St,"$1,075,000",3,"2,748",241 days
+3,$206,Lake Oswego,1293 Timberline Dr,"$612,000",3,"2,957",242 days
+4,$359,Forest Hills,1097 Chandler Rd,"$1,910,000",4.5,"5,313",250 days
+5,$209,Lake Oswego,14121 SW Redwood Ct,"$567,500",3.5,"2,703",253 days
+4,$307,First Addition,599 7th St,"$758,000",3,"2,468",253 days
+4,$302,Lake Oswego,13710 Knaus Rd,"$1,750,000",5,"5,780",262 days
+5,$314,Lake Oswego,1075 Chandler Rd,"$1,794,421",4.5,"5,710",270 days
+4,$229,Lake Oswego,13084 Knaus Rd,"$755,000",2.5,"3,285",277 days
+3,$282,Lake Oswego,49 SW Briarwood Rd,"$610,000",2,"2,162",282 days
+6,$289,Lake Oswego,635 Iron Mountain Blvd,"$1,369,000",3.5,"4,736",289 days
+4,$359,1st Addition LO,475 8th St,"$970,000",2.5,"2,699",290 days
+3,$174,Lake Oswego,1638 Boca Ratan Dr,"$245,000",1.5,"1,403",295 days
+3,$199,Lake Oswego,1325 Bonniebrae Dr,"$277,500",2,"1,393",295 days
+2,$502,First Addition,581 2nd St #581,"$1,100,000",2.5,"2,190",297 days
+3,$183,Oswego Point Condos,5052 Foothills Dr #44,"$230,000",2,"1,252",299 days
+4,$197,Lake Oswego,12635 Adrian Ct,"$526,994",2.5,"2,662",307 days
+3,$357,Lake Oswego,701 4th St,"$1,030,000",2.5,"2,885",309 days
+3,$265,First Addition,595 D Ave,"$1,000,000",3,"3,760",309 days
+4,$237,Country Commons,13265 Fox Run,"$620,500",2.5,"2,614",312 days
+3,$218,RED FOX HILLS,1819 Boca Ratan Dr,"$307,500",2.5,"1,405",313 days
+2,$456,Lake Oswego,583 2nd St #401,"$1,000,000",2.5,"2,190",319 days
+2,$252,Red Fox Hills,1448 Bonniebrae Dr,"$255,000",1.5,"1,008",320 days
+3,$401,FOREST HILLS,1189 Sun Ct,"$831,000",2.5,"2,072",323 days
+3,$299,Lake Oswego,1361 Country Commons Ln,"$935,000",2.5,"3,118",323 days
+2,$379,FIrst Addition,523 2nd St #105,"$459,000",2,"1,208",330 days
+4,$324,Uplands,14360 Uplands Dr,"$837,000",4,"2,577",332 days
+5,$287,First Addition,400 D Ave,"$1,150,000",3.5,"4,000",333 days
+4,$297,FIRST ADDITION,401 9th St,"$1,275,000",3.5,"4,288",333 days
+4,$223,Uplands,13951 SW Shireva Ct,"$489,000",3,"2,185",334 days
+3,$270,Red Fox Hills,1270 SW Hideaway Ct,"$625,000",2.5,"2,312",340 days
+,,The Highlands,1893 Highlands Loop,"$1,390,000",,,344 days
+4,$320,1ST ADDITION,426 7th St,"$976,600",2.5,"3,046",345 days
+3,$160,Lake Oswego,855 G Ave,"$509,000",1.5,"3,165",345 days
+2,$295,East End,434 5th St #2,"$323,200",1.5,"1,092",348 days
+4,$261,First Addition,891 G Ave,"$635,000",2.5,"2,431",348 days
+5,$352,Forest Hills/OLCC Golf course,1345 Chandler Rd,"$2,398,000",4.5,"6,800",351 days
+4,$307,Lake Oswego,1000 Atwater Rd,"$1,962,500",5,"6,391",355 days
+3,$341,Lake Oswego,345 E Ave,"$540,000",2,"1,582",355 days
+4,$334,The Highlands,1836 Highlands Loop,"$1,805,000",5.5,"5,400",358 days
+5,$284,First Addition,462 9th St,"$1,240,000",3.5,"4,357",359 days
+3,$327,Lake Oswego,1097 C Ave,"$540,000",2,"1,650",361 days
+4,$247,Inglenook Estates,12723 Adrian Ct,"$777,427",3,"3,142",365 days
+2,$310,First Addition,643 2nd St,"$452,500",2,"1,457",366 days
+5,$259,First Addition,827 8th St,"$1,000,000",3.5,"3,852",367 days
+4,$197,Lake Oswego,760 Timberline Dr,"$605,000",3,"3,058",375 days
+4,$241,Forest Hills,930 Cumberland Rd,"$715,000",2.5,"2,960",379 days
+2,$175,Talisman,750 1st St Unit C14,"$237,150",2,"1,350",379 days
+4,$190,Lake Oswego,925 SW York Rd,"$425,000",3,"2,232",379 days
+4,$319,Lake Oswego,251 D Ave,"$842,200",3,"2,635",380 days
+1,$136,Lake Oswego,750 1st St Unit 32,"$135,000",1,986,382 days
+3,$221,Lake Oswego,1988 Bonniebrae Dr,"$308,000",2,"1,393",382 days
+6,$146,Dunthorpe,50 SW Briarwood Rd,"$880,000",6,"6,000",386 days
+4,$117,Lake Oswego,686 8th St,"$375,000",3,"3,200",390 days
+4,$365,FIRST ADDITION,851 9th St,"$987,500",2.5,"2,699",393 days
+4,$332,Forest Hills,1168 Andrews Rd #1,"$1,210,000",3,"3,636",395 days
+,,Lake Oswego,13211 Knaus Rd,"$500,000",,,396 days
+,,Lake Oswego,Knaus,"$500,000",,,396 days
+4,$314,Lake Oswego,610 9th St,"$1,160,000",3.5,"3,690",400 days
+5,$258,Lake Oswego,14084 Goodall Rd,"$1,395,000",5.5,"5,399",400 days
+,,Lake Oswego,13707 Fielding Rd,"$240,000",,,403 days
+,,Portland,4th St,"$117,500",,,408 days
+4,$173,Lake Oswego,820 Boca Ratan Dr,"$386,100",3,"2,220",410 days
+4,$267,Knaus/Goodall,1120 Hoodview Ln,"$925,000",3,"3,454",410 days
+4,$315,Lake Oswego,13012 Knaus Rd,"$1,539,000",4,"4,875",421 days
+4,$207,Lake Oswego,14145 SW Redwood Ct,"$508,000",3,"2,452",422 days
+3,$295,Lake Oswego,504 10th St,"$672,500",2,"2,277",423 days
+4,$289,First Addition,605 4th St,"$905,000",3,"3,127",429 days
+4,$198,Red Fox Hills,2031 Bonniebrae Dr,"$319,900",2,"1,611",435 days
+5,$435,Country Club,290 Iron Mountain Blvd,"$2,060,000",5,"4,733",437 days
+3,$198,Oswego Pointe,5062 Foothills Dr Unit H,"$249,000",2,"1,252",438 days
+2,$214,First Addition,683 5th St,"$450,000",1,"2,100",442 days
+2,$288,First Addition,556 6th St,"$450,000",1,"1,560",442 days
+,,Lake Oswego,5th St,"$450,000",,,442 days
+4,$293,Lake Oswego,496 8th St,"$850,000",2,"2,899",443 days
+3,$284,Lake Oswego,1297 Hide A Way Ln,"$522,000",2.5,"1,832",443 days
+2,$202,Red Fox Hills,1400 Bonniebrae Dr,"$175,000",1,864,449 days
+4,$187,Country Commons,13371 Atwater Ln,"$899,000",3,"4,795",450 days
+4,$360,Lake Oswego,893 10th St,"$979,000",2.5,"2,719",456 days
+5,$246,Goodall/ Country Club,13286 Goodall Rd,"$1,682,500",6.5,"6,819",456 days
+4,$250,Lake Oswego,13017 Knaus Rd,"$1,175,000",3.5,"4,690",456 days
+3,$367,First Addition,715 4th St,"$1,015,000",2.5,"2,762",463 days
+2,$378,First Addition,629 5th St,"$425,000",1,"1,122",467 days
+4,$276,Lake Oswego,1222 Timberline Dr,"$900,000",3,"3,256",471 days
+4,$387,Forest Hills,1059 Bayberry Rd,"$1,375,000",3.5,"3,550",474 days
+2,$297,First Addition,578 2nd St #6,"$415,000",2.5,"1,394",480 days
+4,$360,First Addition,703 5th St,"$979,000",2.5,"2,719",484 days
+3,$232,Dolph Place,14201 Dolph Ct,"$432,500",2,"1,864",488 days
+3,$303,First Addition,797 F Ave,"$705,000",2.5,"2,323",500 days
+2,$376,Lake Oswego,834 6th St,"$400,000",1,"1,062",500 days
+5,$336,Lake Oswego,13612 Goodall Rd,"$1,469,000",4.5,"4,362",501 days
+,,The Highlands,Street of Dreams Lot 8,"$820,000",,,506 days
+,,The Highlands,Street of Dreams Lot 4,"$595,000",,,506 days
+,,The Highlands,Street of Dreams Lot 6,"$670,000",,,507 days
+3,$318,First Addition,568 9th St,"$900,000",3.5,"2,825",508 days
+5,$255,Lake Oswego,12810 Alto Park Rd,"$981,000",3.5,"3,834",509 days
+4,$205,Red Fox Hills,751 Briercliff Ln,"$519,950",3,"2,534",512 days
+2,$313,First Addition,124 D Ave,"$550,000",2.5,"1,754",514 days
+3,$168,Lake OswegoTownhouses,1349 Bonniebrae Dr,"$219,600",1.5,"1,303",515 days
+,,The Highlands,Street of Dreams Lot 1,"$695,000",,,541 days
+4,$269,Alto Park Estates,12830 Alto Park Rd,"$939,000",3.5,"3,478",547 days
+,,The Highlands,Street of Dreams Lot 3,"$625,000",,,547 days
+2,$308,First Addition,435 7th St,"$620,000",2,"2,010",550 days
+4,$345,Lake Oswego,616 4th St,"$1,049,000",2.5,"3,034",558 days
+,,The Highlands,Street of Dreams Lot 5,"$595,000",,,561 days
+,,The Highlands,Street of Dreams Lot 7,"$725,000",,,565 days
+,,The Highlands,Street of Dreams Lot 2,"$670,000",,,565 days
+3,$346,FIRST ADDITION,754 5th St,"$755,000",3,"2,179",577 days
+2,$377,First Addition,571 2nd St #307,"$589,500",2,"1,561",582 days
+3,$191,Oswego Pointe,5060 Foothills Dr #90,"$240,000",2,"1,252",593 days
+2,$357,Lake Oswego,533 2nd St #110,"$455,000",2,"1,274",599 days
+4,$179,First Addition,804 2nd St,"$400,000",3,"2,224",604 days
+2,$213,Lake Oswego,5057 Foothills Dr Unit H,"$267,500",2,"1,252",610 days
+2,$276,First Addition,468 5th St #13,"$302,000",1.5,"1,092",611 days
+3,$225,First Addition,831 4th St,"$505,000",1.5,"2,240",612 days
+4,$225,The Highlands-SOD 2015,9 Street of Dreams Rd,"$900,000",3.5,"4,000",624 days
+3,$279,Country Commons,13327 Atwater Ln,"$840,000",2,"3,004",627 days
+5,$205,Lake Oswego,14122 Goodall Rd,"$930,000",4.5,"4,530",631 days
+3,$362,First Addition,678 8th St,"$1,050,000",3.5,"2,900",633 days
+4,$201,Lake Oswego,14220 Bridge Ct,"$689,000",2.5,"3,419",639 days
+2,$181,Lake Oswego,5058 Foothills Dr #104,"$227,000",2,"1,252",649 days
+3,$184,Forest Highlands,1531 Bonniebrae Dr,"$239,900",1.5,"1,303",652 days
+2,$304,1st Addition,960 9th St,"$460,000",1,"1,509",659 days
+4,$278,Lake Oswego,14128 Goodall Rd,"$825,000",2.5,"2,960",659 days
+4,$285,Forest Highlands,13888 Goodall Rd,"$1,265,000",3.5,"4,435",666 days
+5,$295,Knaus Neighborhood,1633 Leslie Ln,"$1,750,000",4.5,"5,921",666 days
+4,$232,First Addition,257 C Ave,"$372,000",2,"1,600",673 days
+4,$268,First Addition,744 9th St,"$1,142,058",3.5,"4,255",680 days
+2,$292,1st Addition,100 D Ave Unit End,"$540,000",2.5,"1,847",683 days
+2,$377,Lake Oswego,551 2nd St #207,"$615,000",2,"1,631",687 days
+2,$187,Oswego Pointe Village Condo,5058 Foothills Dr Unit A,"$235,000",2,"1,252",687 days
+4,$264,Alto Park Estates,12826 Alto Park Rd,"$950,000",3.5,"3,585",689 days
+,,First Addition,890 F Ave,"$455,000",,,689 days
+2,$178,RED FOX HILLS,1720 Bonniebrae Dr,"$287,500",2,"1,611",690 days
+3,$275,Lake Oswego,435 8th St,"$660,000",3.5,"2,394",695 days
+5,$156,Red Fox Hills,1282 Hide A Way Ln,"$515,000",3,"3,300",696 days
+5,$208,1st Addition,658 1st St,"$699,000",3.5,"3,359",697 days
+2,$368,First Addition,543 2nd St,"$670,000",2.5,"1,816",698 days
+5,$498,Forest Hills,1425 Chandler Rd,"$2,535,000",4.5,"5,086",708 days
+2,$371,First Addition,577 2nd St #306,"$542,500",2,"1,459",711 days
+3,$229,Lake Oswego,363 6th St,"$517,500",3.5,"2,258",712 days
+4,$318,Lake Oswego,927 10th St,"$885,000",2.5,"2,780",712 days
+2,$162,Talisman,750 1st St Unit D25,"$219,500",2,"1,350",716 days
+,,Lake Oswego,13581 Goodall Rd,"$715,000",,,719 days
+2,$283,First Addition,828 5th St,"$535,000",2,"1,884",719 days
+4,$217,Lake Oswego,1245 Chandler Rd,"$711,750",4,"3,278",729 days
+3,$259,Lake Oswego,2130 Wembley Park Rd,"$399,900",1.5,"1,544",736 days
+3,$360,Forest Hills,1168 Andrews Rd,"$668,000",3,"1,851",739 days
+4,$273,Lake Oswego,13648 Goodall Rd Lot 1,"$1,425,000",5,"5,206",747 days
+5,$163,Red Fox Hills,880 Boca Ratan Dr,"$387,500",3,"2,364",751 days
+2,$250,First Addition,628 1st St,"$445,000",2.5,"1,776",753 days
+2,$269,First Addition,524 2nd St,"$417,000",2.5,"1,547",760 days
+4,$178,First Addition,616 Atwater Rd,"$990,000",4,"5,558",761 days
+3,$237,First Addition,1012 Andrews Rd,"$510,000",2,"2,143",764 days
+4,$304,Forest Hills,688 Iron Mountain Blvd,"$1,260,000",4.5,"4,143",767 days
+4,$233,Lake Oswego,13911 Shireva Dr,"$428,000",2,"1,835",774 days
+3,$284,Evergreen,340 8th St,"$580,000",2,"2,038",778 days
+3,$162,Alto Park/Lake Oswego,12731 19th Ave,"$327,500",2,"2,020",778 days
+4,$152,Country Commons,13300 Fox Run,"$684,500",2.5,"4,484",780 days
+4,$248,1st Addition,752 8th St,"$1,130,000",3.5,"4,550",785 days
+4,$185,Lake Oswego,13531 Fielding Rd,"$845,000",3.5,"4,566",786 days
+4,$245,Forest Hills,14110 Goodall Rd,"$970,000",3.5,"3,945",793 days
+4,$158,Red Fox Hills,1290 Hide A Way Ln,"$400,000",3,"2,530",794 days
+1,$199,Lake Oswego,13060 Elk Rock Rd Unit A,"$100,000",1,502,794 days
+3,$227,First Addition,566 5th St,"$540,000",2,"2,377",799 days
+4,$308,Lake Oswego,832 Hoodview Ln,"$760,000",2,"2,462",799 days
+2,$184,Oswego Pointe,5059 Foothills Dr #105,"$182,500",2,991,799 days
+3,$241,Lake Oswego,615 4th St,"$890,000",2.5,"3,691",806 days
+5,$185,Lake Oswego,13555 Fielding Rd,"$680,000",3.5,"3,656",806 days
+3,$239,Lake Oswego,14150 Goodall Rd,"$374,900",2,"1,565",807 days
+3,$195,Red Fox HIlls,1728 Boca Ratan Dr,"$272,000",2,"1,393",808 days
+2,$191,Oswego Pointe Village Condos,5052 Foothills Dr Unit E,"$240,000",2,"1,252",809 days
+3,$240,Lake Oswego,1221 Forest Meadows Way,"$1,000,000",3,"4,150",809 days
+4,$147,Lake Oswego,880 Woodway Ct,"$513,000",3,"3,478",813 days
+3,$151,COUNTRY CLUB,490 Boca Ratan Dr,"$285,000",2,"1,887",814 days
+4,$259,Lake Oswego,14005 Goodall Rd,"$1,250,000",3.5,"4,825",820 days
+3,$184,Red Fox Hills,1277 Rockinghorse Ln,"$475,000",2.5,"2,577",821 days
+4,$194,Lake Oswego,641 8th St,"$449,950",2,"2,319",824 days
+4,$319,Lake Oswego,13636 Goodall Rd Lot 2,"$1,399,000",4.5,"4,380",827 days
+2,$196,Lake Oswego,1694 Bonniebrae Dr,"$170,000",1,864,830 days
+5,$221,Lake Oswego,624 Atwater Rd,"$990,000",3.5,"4,463",835 days
+3,$327,First Addition,752 E Ave,"$922,500",3,"2,818",836 days
+2,$250,Lake Oswego,635 1st St,"$275,000",2.5,"1,100",837 days
+3,$323,First Addition,620 9th St,"$899,000",3.5,"2,780",841 days
+4,$580,Lake Oswego,1098 Chandler Rd,"$2,145,000",3.5,"3,696",843 days
+3,$167,Red Fox Hills Townhomes,1501 Boca Ratan Dr,"$292,000",2.5,"1,739",844 days
+2,$233,First Addition,639 2nd St,"$340,000",2,"1,457",845 days
+4,$314,Lake Oswego,931 Atwater Rd,"$1,500,000",4.5,"4,764",845 days
+4,$230,Lake Oswego,13520 Knaus Rd,"$610,000",3,"2,641",847 days
+4,$309,First Addition,881 C Ave,"$969,000",2.5,"3,128",849 days
+3,$275,Lake Oswego,1287 Rockinghorse Ln,"$463,900",2,"1,686",856 days
+5,$219,Lake Oswego,13310 Atwater Ln,"$1,249,000",4,"5,697",857 days
+3,$205,Portland,12724 SW 22nd Ave,"$350,000",1,"1,702",865 days
+4,$249,Goodall Rd,14070 Goodall Rd,"$1,129,000",4,"4,525",866 days
+3,$277,First Addition,720 8th St,"$415,000",2,"1,498",871 days
+4,$142,Lake Oswego,26 SW Briarwood Rd,"$365,000",3,"2,554",873 days
+4,$205,Lake Oswego,13537 Fielding Rd,"$860,000",3.5,"4,188",883 days
+4,$313,First Addition,878 7th St,"$897,000",3.5,"2,858",890 days
+3,$255,Forest Highlands 14791,623 Atwater Rd,"$512,500",2.5,"2,009",891 days
+2,$272,First Addition,572 2nd St #3,"$379,900",2.5,"1,394",899 days
+4,$246,Alto Park Estates,12834 Alto Park Rd,"$979,000",4,"3,973",904 days
+2,$379,Lake Oswego,12820 Alto Park Rd,"$430,000",1,"1,132",911 days
+2,$177,Alto Park Arces,12840 Alto Park Rd,"$645,000",2.5,"3,632",911 days
+4,$181,Forest Hills,14136 Heathrow Ln,"$535,000",2.5,"2,955",915 days
+4,$228,First Addition,853 D Ave,"$1,075,000",3.5,"4,710",919 days
+4,$359,First Addition,425 G Ave,"$1,400,000",3,"3,890",920 days
+4,$314,First Addition,615 9th St,"$875,000",2.5,"2,782",922 days
+3,$161,Lake Oswego,1120 Boca Ratan Dr,"$260,000",2,"1,611",927 days
+5,$162,Forest Hills,2070 Wembley Park Rd,"$802,000",4.5,"4,935",928 days
+,,Lake Oswego,937 Atwater Rd,"$699,500",,,932 days
+3,$166,FIRST ADDITION,1125 C Ave,"$425,000",1.5,"2,558",953 days
+4,$223,Lake Oswego,14120 SW Redwood Ct,"$617,000",2.5,"2,755",953 days
+3,$168,Red Fox Hills,1561 Bonniebrae Dr,"$234,900",2,"1,393",956 days
+4,$215,The Uplands,14530 Uplands Dr,"$881,000",3.5,"4,080",964 days
+3,$308,first addition,735 7th St,"$908,000",3.5,"2,945",974 days
+2,$231,Lake Oswego,340 4th St,"$399,900",2.5,"1,731",975 days
+3,$166,Red Fox Hills,1261 Boca Ratan Dr,"$267,500",2,"1,611",976 days
+3,$309,First Addition,830 4th St,"$523,500",2,"1,690",983 days
+3,$170,Lake Oswego,719 Timberline Dr,"$370,300",2.5,"2,176",990 days
+4,$202,Lake Oswego,855 SW York Rd,"$435,000",3,"2,144",990 days
+4,"$1,190",Goodall,12800 Goodall Rd,"$4,500,000",4,"3,780",990 days
+4,$239,Forest Hills Acres,13052 Knaus Rd,"$725,000",3,"3,026",995 days
+3,$133,Red Fox Hills 01,1484 Boca Ratan Dr,"$187,000",1.5,"1,403",999 days
+4,$199,Red Fox Hills,720 SW Pebble Beach Ct,"$390,000",2.5,"1,957",1002 days
+4,$151,Lake Oswego,622 Carrera Ln,"$825,000",4.5,"5,446",1002 days
+3,$176,First Addition,330 D Ave,"$554,900",2,"3,150",1002 days
+8,$178,First Addition,678 3rd St,"$589,900",4,"3,300",1002 days
+2,$178,Red Fox Hills,1784 Bonniebrae Dr,"$248,000",1.5,"1,393",1003 days
+4,$185,Lake Oswego,837 Country Club Rd,"$320,000",3,"1,729",1018 days
+3,$190,Lake Oswego,14101 SW Redwood Ct,"$501,000",3.5,"2,629",1018 days
+4,$197,Lake Oswego,1284 Rockinghorse Ln,"$365,000",2,"1,852",1023 days
+5,$224,The Uplands,14370 Uplands Dr,"$683,000",3,"3,036",1033 days
+3,$213,1st Addition,810 9th St,"$535,000",2,"2,510",1033 days
+4,$224,Red Fox Hills,1292 Hide A Way Ln,"$500,000",2.5,"2,229",1044 days
+5,$213,Forest Meadows,817 Hoodview Ln,"$735,000",3,"3,446",1044 days
+4,$196,First Addition,429 10th St,"$448,786",3,"2,280",1047 days
+4,$202,Uplands,14635 Uplands Dr,"$799,000",5,"3,941",1048 days
+2,$271,FIRST ADDITION,574 2nd St #4,"$378,000",2.5,"1,394",1051 days
+3,$192,Lake Oswego,600 Tippecanoe Ct,"$349,000",2,"1,812",1053 days
+5,$294,Country Club,1475 Chandler Rd,"$1,330,000",4.5,"4,515",1060 days
+4,$282,First Addition,642 8th St,"$930,000",3,"3,293",1067 days
+4,$380,Knaus Road,13801 Knaus Rd,"$950,000",2,"2,500",1072 days
+2,$130,Lake Oswego,750 1st St Unit A7,"$176,000",2,"1,350",1072 days
+3,$244,Forest Hills,916 Cumberland Rd,"$415,000",2,"1,700",1073 days
+3,$212,Lake Oswego,785 9th St,"$527,000",2.5,"2,477",1075 days
+3,$161,Red Fox Hills,1706 Boca Ratan Dr,"$280,000",2.5,"1,739",1079 days
+3,$314,Dunthorpe,12700 Fielding Rd,"$950,000",3,"3,025",1086 days
+4,$312,Lake Oswego,481 9th St,"$879,000",3.5,"2,813",1086 days
+3,$170,Lake Oswego,980 Cumberland Pl,"$475,000",2,"2,791",1087 days
+3,$242,Forest Highlands,13680 Knaus Rd,"$730,000",2.5,"3,006",1093 days
+4,$239,First Addition,792 5th St,"$1,050,000",4.5,"4,379",1094 days
+1,$199,,12975 Elk Rock Rd,"$100,000",1,502,
+2,$43,,522 2nd St #22,"$58,000",2.5,"1,330",
+4,$72,,12814 Alto Park Rd,"$300,000",3,"4,157",
+,,,1867 Highlands Loop,"$695,000",,,
+,,,1836 Highlands Loop,"$625,000",,,
+,,,586 2nd St,"$1,575,000",,,
+3,"$1,075",,12816 Alto Park Rd,"$981,000",1,912,
+4,$178,,13595 Knaus Rd,"$600,000",3,"3,356",
+3,$274,,13585 Knaus Rd,"$579,565",2,"2,108",
+3,$285,,757 3rd St,"$375,000",1,"1,312",
+3,$349,,1116 C Ave,"$568,000",2,"1,624",
+3,$527,,13400 Fielding Rd,"$1,250,000",1.5,"2,369",
+3,$171,,1509 Bonniebrae Dr,"$299,000",2.5,"1,739",
+3,$249,,732 2nd St,"$297,920",1,"1,196",
+3,$325,,649 9th St,"$916,600",2.5,"2,812",
+4,$168,,14081 Goodall Rd,"$190,000",2,"1,125",
+4,$214,,1415 Chandler Rd,"$919,300",5,"4,280",
+2,$283,,464 5th St #15,"$310,000",1.5,"1,092",
+3,$132,,1934 Bonniebrae Dr,"$185,000",2,"1,393",
+3,$139,,1523 Boca Ratan Dr,"$195,000",2,"1,393",
+,,,1168 Andrews Rd,"$440,000",,,
+2,$276,,468 5th St,"$302,000",1.5,"1,092",
+1,$136,,750 1st St Unit E32,"$135,000",1,986,
+3,$110,,13640 Fielding Rd,"$299,666",2.5,"2,708",
+3,$728,,852 B Ave,"$1,119,043",3.5,"1,536",
+3,$531,,13799 Atwater Ln,"$950,000",3,"1,788",
+3,$488,,680 5th St,"$425,000",1,870,
+3,$616,,655 7th St,"$960,000",2.5,"1,558",
+4,"$1,074",,668 6th St,"$949,900",3,884,
+4,$330,,855 7th St,"$460,000",1.5,"1,392",
+4,$226,,578 4th St,"$420,000",2,"1,856",
+3,$119,,1600 Country Commons Ln,"$575,000",3,"4,810",
+2,$376,,252 D Ave,"$350,000",1,930,
+4,$251,,13800 Knaus Rd,"$565,000",2.5,"2,247",
+4,$325,,360 5th St,"$630,000",2,"1,938",
+4,$125,,781 Timberline Dr,"$382,500",2.5,"3,058",
+4,$150,,618 2nd St,"$341,000",3.5,"2,270",
+4,$252,,580 6th St,"$200,000",3.5,792,
+,$213,,5057 Foothills Dr #50,"$267,500",2,"1,252",
+2,$440,,821 Evergreen Rd,"$405,000",1,920,
+6,$169,,1255 Andrews Rd,"$770,000",3,"4,536",
+4,$579,,550 4th St,"$900,000",2,"1,552",
+3,$143,,1792 Boca Ratan Dr,"$250,000",2.5,"1,739",
+2,$406,,852 5th St,"$300,000",1,738,
+4,$214,,13677 Fielding Rd,"$875,000",3.5,"4,070",
+3,$329,,910 B Ave,"$390,000",2,"1,183",
+,,,1889 Highlands Loop,"$613,000",,,
+3,$191,,1374 Boca Ratan Dr,"$266,690",2,"1,393",
+2,$251,,432 5th St,"$275,000",1.5,"1,092",
+2,$292,,100 D Ave,"$540,000",2.5,"1,847",
+2,$493,,542 4th St,"$450,000",1,912,
+3,$272,,340 D Ave,"$554,900",2,"2,033",
+4,$269,,13648 Goodall Rd,"$1,425,000",4.5,"5,288",
+4,$314,,13636 Goodall Rd,"$1,399,000",4.5,"4,444",
+4,$123,,407 G Ave,"$550,000",3.5,"4,453",
+4,$145,,2021 Wembley Pl,"$500,000",3,"3,440",
+3,$250,,905 SW York Rd,"$415,000",2,"1,657",
+3,$216,,885 9th St,"$455,000",2,"2,103",
+3,$256,,821 Timberline Dr,"$390,000",2,"1,518",
+3,$191,,5052 Foothills Dr #43,"$240,000",2,"1,252",
+3,$308,,12724 SW 22nd Ave,"$525,000",2,"1,702",
+4,$286,Lake Oswego,12870 Elk Rock Rd,"$785,000",3,"2,742",12 days
+5,$176,Country Commons,639 Carrera Ln,"$759,000",3.5,"4,305",95 days
+3,$244,Lake Oswego,13855 Verte Ct,"$449,000",2.5,"1,835",226 days
+5,$192,Lake Oswego,13060 Elk Rock Rd,"$710,000",3,"3,681",295 days
+3,$204,Lake Oswego,796 1st St,"$841,350",2.5,"4,108",348 days
+3,$279,Lake Oswego,1293 Hide A Way LnSold by: Redfin,"$480,000",2.5,"1,720",367 days
+3,$290,Forest Hills,555 Country Club Rd,"$619,950",3,"2,133",395 days
+2,$244,First Addition,550 2nd St,"$376,000",2,"1,540",450 days
+5,$229,Lake Oswego,1380 Bonniebrae Dr,"$675,000",3,"2,940",471 days
+3,$398,FIRST ADDITION,980 C Ave,"$522,500",2,"1,312",477 days
+4,$351,FIRST ADDITION,816 4th St,"$949,900",2.5,"2,699",484 days
+4,$217,Country Commons,1051 Country Commons Ln,"$779,900",2.5,"3,582",533 days
+3,$165,Red Fox Hills,1803 Boca Ratan DrSold by: Redfin,"$288,000",2.5,"1,739",541 days
+3,$157,Red Fox Hills,1531 Boca Ratan Dr,"$277,000",2,"1,755",603 days
+4,$218,Lake Oswego,14144 Goodall Rd,"$765,000",3,"3,499",621 days
+4,$147,Lake Oswego,1818 Country Club Rd,"$300,000",2,"2,032",666 days
+2,$283,first addition/downtown lo,466 5th St #14,"$310,000",1.5,"1,092",673 days
+2,$251,First Addition,432 5th St #1,"$275,000",1.5,"1,092",681 days
+2,$326,First Addition,529 2nd St,"$437,500",2,"1,339",682 days
+2,$289,First Addition,562 2nd St,"$377,000",2.5,"1,302",687 days
+4,$217,Forest Highlands,13777 Cameo Ct,"$1,585,000",5.5,"7,300",690 days
+3,$310,First Addition,827 5th St,"$659,000",2,"2,124",704 days
+4,$217,"1st Addition, First Addition",755 6th St,"$909,000",3.5,"4,170",722 days
+2,$158,Red Fox Hills Townhouse Assoc,1368 Boca Ratan Dr,"$255,000",2,"1,611",726 days
+3,$173,RED FOX HILLS,1796 Bonniebrae Dr,"$310,000",2.5,"1,782",821 days
+4,$226,Forest Hills,920 SW York Rd,"$415,000",2.5,"1,836",941 days
+4,$185,Lake Oswego,621 Country Club Rd,"$613,000",2.5,"3,300",960 days
+4,$264,Lake Oswego,280 E Ave,"$660,000",2.5,"2,500",967 days
+3,$184,Lake Oswego,791 Briercliff Ln,"$320,000",2.5,"1,736",991 days
+3,$228,Lake Oswego,895 SW York Rd,"$440,000",2,"1,924",1017 days
+2,$163,Oswego Pointe,5056 Foothills Dr Unit D,"$205,000",2,"1,252",1032 days
+4,$147,1st Addition,908 Cumberland Pl,"$400,000",3,"2,715",1065 days
+2,$196,Talisman,750 1st St Unit A12,"$265,000",2,"1,350",2 days
+2,$336,FIRST ADDITION,534 2nd St #16,"$469,000",2.5,"1,394",3 days
+5,$435,FOREST HILLS,1255 Chandler Rd,"$1,400,000",3,"3,212",3 days
+2,$287,Lake Oswego,528 2nd St,"$489,900",2.5,"1,703",4 days
+5,$289,Lake Oswego,784 3rd St,"$1,200,000",5,"4,138",8 days
+3,$334,KNAUS/ATWATER,610 Atwater Rd,"$992,000",2.5,"2,969",10 days
+3,$460,FIRST ADDITION,711 7th St,"$1,425,000",3,"3,097",10 days
+3,$340,First Addition,659 4th St,"$812,475",2.5,"2,388",15 days
+3,$344,First Addition,412 8th St,"$888,000",2.5,"2,580",17 days
+4,$287,Lake Oswego,448 Country Club Rd,"$1,400,000",3.5,"4,873",19 days
+3,$433,Lake Oswego,348 5th St,"$875,000",2.5,"2,019",23 days
+3,$213,Country Commons,839 Country Commons Ln,"$660,000",2.5,"3,089",30 days
+3,$358,First Addition,454 9th St,"$1,174,000",4,"3,278",36 days
+4,$402,Lake Oswego,1269 Lake Garden Ct,"$828,000",2.5,"2,056",36 days
+3,$433,Lake Oswego,336 5th St,"$875,000",2.5,"2,018",36 days
+4,$367,Lake Oswego,301 Iron Mountain Blvd,"$1,082,500",4,"2,946",47 days
+4,$325,ALTO PARK ESTATES,12812 Alto Park Rd,"$1,314,000",3.5,"4,040",51 days
+3,$240,UPLANDS,14540 Uplands Dr,"$650,000",2.5,"2,704",51 days
